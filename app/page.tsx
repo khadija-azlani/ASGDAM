@@ -109,11 +109,11 @@ export default function Home() {
       <section className="max-w-6xl mx-auto px-4 sm:px-6 mb-24 relative z-10">
         <div className="text-center mb-12">
           <h2 className="text-xs uppercase tracking-[0.3em] text-[#C65A3A] font-bold mb-2">
-            Fields of Knowledge / ⵉⴳⵔⴰⵏ ⵏ ⵜⵓⵙⵙⵏⴰ
+            A Glimpse into the Fields of Knowledge / ⵉⵎⵔⵔⴰ ⵏ ⵉⴳⵔⴰⵏ ⵏ ⵜⵓⵙⵙⵏⴰ
           </h2>
 
           <p className="text-xl sm:text-3xl font-serif text-[#174A43]">
-            مجالات المعرفة التي تستكشفها المجلة
+            لمحةٌ من بين مساحات المعرفة المتنوعة التي تحتضنها المجلة.
           </p>
         </div>
 
