@@ -14,7 +14,6 @@ import {
   Users,
   Lightbulb,
   Leaf,
-  FlaskConical,
   Landmark,
   Palette,
   Quote,
@@ -22,6 +21,7 @@ import {
   ChevronRight,
   ChevronLeft,
   X,
+  HeartPulse
 } from 'lucide-react';
 
 const CATEGORIES = [
@@ -74,10 +74,10 @@ const CATEGORIES = [
     icon: Landmark,
   },
   {
-    key: 'science',
-    labelAr: 'العلوم',
-    labelEn: 'Science',
-    icon: FlaskConical,
+    key: 'health',
+    labelAr: 'الصحة',
+    labelEn: 'Health',
+    icon: HeartPulse,
   },
   {
     key: 'environment',
@@ -213,9 +213,9 @@ const ALL_ARTICLES = [
     titleAr: 'لماذا أصبح النوم آخر شيء نضحي به؟',
     titleEn:
       'Why Has Sleep Become the Last Thing We Sacrifice?',
-    categoryAr: 'العلوم',
-    categoryEn: 'Science',
-    categoryKey: 'science',
+    categoryAr: 'الصحة',
+    categoryEn: 'Health',
+    categoryKey: 'health',
     readTimeAr: '٦ دقائق قراءة',
     readTimeEn: '6 min read',
     date: 'August 25, 2026',

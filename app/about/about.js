@@ -32,13 +32,11 @@ export default function AboutPage() {
         backgroundSize: '60px 104px'
       }}
     >
-      {/* شريط الإشعار العلوي */}
       <div className="bg-[#174A43] text-[#F7F1E5] py-3 px-6 text-center text-xs font-mono tracking-widest uppercase border-b border-[#D4A84F]/30 flex items-center justify-center gap-3 shadow-md relative z-10">
         <Sparkles className="w-4 h-4 text-[#D4A84F] animate-spin" />
         <span>ASGDAM • Sanctuary of Wisdom & Knowledge</span>
       </div>
 
-      {/* شريط التوجيه وأزرار اللغات */}
       <div className="max-w-4xl mx-auto px-4 sm:px-6 pt-8 pb-4 relative z-10 flex flex-wrap items-center justify-between gap-4">
         <Link 
           href="/articles"
@@ -48,7 +46,6 @@ export default function AboutPage() {
           <span>العودة إلى المكتبة / Back to Library</span>
         </Link>
 
-        {/* أزرار تبديل اللغات */}
         <div className="flex items-center bg-white/90 p-1.5 rounded-2xl border border-[#174A43]/15 shadow-sm gap-1">
           <Languages className="w-3.5 h-3.5 text-[#C65A3A] ml-2" />
           <button 
@@ -145,8 +142,8 @@ export default function AboutPage() {
               </div>
               <p className="text-base sm:text-lg text-[#174A43] font-medium">
                 {currentLang === 'ar'
-                  ? '«إذا تعثرت أو واجهتك عثرة، فلا تقف مكبلاً؛ فسلاحك الدائم هو التساؤل: "ما الخطوة التالية؟" . واصل السير نحو الأمام دائماً.»'
-                  : '“If you stumble or face an obstacle, never stay down; your ultimate weapon is to ask: What’s next? Always keep moving forward.”'}
+                  ? '«إذا تعثرت أو واجهتك عقبة، فلا تقف مكبلاً؛ فسلاحك الدائم هو التساؤل: "ما الخطوة التالية؟" .     .»'
+                  : '“If you stumble or face an obstacle, never stay down; your ultimate weapon is to ask: What’s next?.”'}
               </p>
             </div>
 
@@ -158,7 +155,6 @@ export default function AboutPage() {
           </div>
         </div>
 
-        {/* دعوة للتواصل عبر LinkedIn */}
         <div className="bg-[#174A43] text-[#F7F1E5] rounded-[2.5rem] p-8 sm:p-12 shadow-2xl text-center space-y-6 relative overflow-hidden">
           <div className="absolute -right-10 -bottom-10 w-40 h-40 bg-[#D4A84F]/10 rounded-full blur-2xl"></div>
           

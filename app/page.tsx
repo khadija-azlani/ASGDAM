@@ -6,7 +6,7 @@ import {
   BookOpen,
   User,
   Scroll,
-  Activity,
+  HeartPulse,
   Compass,
   Cpu,
   Award,
@@ -36,14 +36,14 @@ export default function Home() {
 
       <div className="bg-[#174A43] text-[#F7F1E5] py-2.5 px-4 text-center text-[11px] font-mono tracking-widest uppercase border-b border-[#D4A84F]/30 flex items-center justify-center gap-3 shadow-sm relative z-10">
         <Sparkles className="w-3.5 h-3.5 text-[#D4A84F] animate-spin" />
-        <span>ASGDAM • Digital Sanctuary of Wisdom & Knowledge</span>
+        <span>ASGDAM • Digital Sanctuary of Wisdom and Knowledge</span>
       </div>
 
       <section className="max-w-5xl mx-auto px-4 sm:px-6 pt-36 pb-20 text-center relative z-10">
         <div className="inline-flex items-center gap-3 px-6 py-2.5 rounded-full bg-white/90 border border-[#174A43]/20 text-xs text-[#174A43] mb-8 shadow-md backdrop-blur-xl">
           <Award className="w-4 h-4 text-[#C65A3A]" />
           <span className="font-serif tracking-widest uppercase">
-            The Art of Pure Thought • Essence of Wisdom
+            The Art of Pure Thought • The Essence of Wisdom
           </span>
         </div>
 
@@ -65,8 +65,9 @@ export default function Home() {
             dir="ltr"
             className="text-xs sm:text-sm italic opacity-90"
           >
-            A digital window blending human thought with the modern spirit,
-            where science, history, philosophy, and life intersect.
+            A digital window blending the richness of human thought with the
+            spirit of the modern age, where science, history, philosophy, and
+            life intersect.
           </p>
         </div>
 
@@ -78,7 +79,7 @@ export default function Home() {
             <BookOpen className="w-4 h-4" />
 
             <div className="flex items-center gap-2">
-              <span>Explore The Magazine</span>
+              <span>Explore the Magazine</span>
               <span className="opacity-70">|</span>
               <span dir="rtl">تصفح المجلة</span>
             </div>
@@ -91,7 +92,7 @@ export default function Home() {
             <User className="w-4 h-4 text-[#C65A3A]" />
 
             <div className="flex items-center gap-2">
-              <span>About The Magazine</span>
+              <span>About the Magazine</span>
               <span className="opacity-70">|</span>
               <span dir="rtl">عن المجلة</span>
             </div>
@@ -121,11 +122,11 @@ export default function Home() {
             <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-transparent via-[#C65A3A] to-transparent opacity-0 group-hover:opacity-100 transition-opacity" />
 
             <div className="w-16 h-16 rounded-3xl bg-[#174A43]/10 flex items-center justify-center text-[#174A43] mb-6 group-hover:scale-110 group-hover:bg-[#C65A3A] group-hover:text-white transition-all shadow-sm">
-              <Activity className="w-7 h-7" />
+              <HeartPulse className="w-7 h-7" />
             </div>
 
             <h3 className="text-lg sm:text-xl font-serif font-bold text-[#174A43]">
-              Science / العلوم
+              Health / الصحة
             </h3>
           </div>
 
@@ -137,7 +138,7 @@ export default function Home() {
             </div>
 
             <h3 className="text-lg sm:text-xl font-serif font-bold text-[#174A43]">
-              Philosophy & Life / الفلسفة والحياة
+              Philosophy &amp; Life / الفلسفة والحياة
             </h3>
           </div>
 
@@ -162,7 +163,7 @@ export default function Home() {
           <HeartHandshake className="w-12 h-12 text-[#D4A84F] mx-auto mb-6 opacity-90" />
 
           <h4 className="text-xs uppercase tracking-[0.35em] text-[#C65A3A] font-bold mb-4">
-            The Core Purpose / المغزى من هذه المجلة
+            The Core Purpose / الغاية من المجلة
           </h4>
 
           <div
@@ -183,8 +184,8 @@ export default function Home() {
           </div>
 
           <div className="mt-6 text-xs text-[#174A43]/70 italic" dir="ltr">
-            Helping the new generation understand the world, explore knowledge,
-            and navigate the challenges of the modern age.
+            Helping the younger generation understand the world, explore
+            knowledge, and navigate the challenges of the modern age.
           </div>
         </div>
       </section>
@@ -226,12 +227,12 @@ export default function Home() {
               </span>
 
               <p className="text-white/95">
-                هذه المقالات خلاصة أبحاث ودراسات ومقالات تحليلية جرى الاطلاع
-                عليها بعناية، مع إعادة صياغتها بأسلوب واضح وسلس، وإضافة رؤية
-                تحليلية خاصة عند تناول بعض الظواهر الفكرية والحياتية. ستجدون
-                مصادر كل مقال وروابطه في نهايته، حتى يتمكن القارئ من الرجوع إلى
-                المراجع الأصلية والتوسع في القراءة.
+              مرحبًا بكم في ASGDAM، مساحة رقمية صُممت لتكون نافذة هادئة على المعرفة والفكر. هنا نلتقي حول أفكار تستحق التأمل، ونتوقف عند ظواهر من حياتنا اليومية، ونكتشف جوانب من العلم والتاريخ والفلسفة والثقافة والتكنولوجيا. نؤمن بأن المعرفة لا تقتصر على جمع المعلومات، بل تبدأ حين تدفعنا إلى التساؤل والفهم والنظر إلى العالم بوعي أعمق. نتمنى أن تجدوا في هذه المجلة ما يثير فضولكم، ويضيف إلى أفكاركم، ويمنحكم لحظات من الاكتشاف والتأمل.
               </p>
+             <p className="text-white/95">
+             تعتمد المقالات المنشورة في ASGDAM على أبحاث ودراسات ومقالات ومصادر معرفية متنوعة، يتم الاطلاع عليها وتحليلها وإعادة صياغة محتواها بأسلوب واضح وميسر. وللحفاظ على الشفافية وإتاحة فرصة التعمق، نضع المصادر والمراجع المعتمدة في نهاية كل مقال، حتى يتمكن القارئ من العودة إلى المواد الأصلية واستكشافها بشكل أوسع.
+              </p>
+
             </div>
 
             <div
@@ -243,12 +244,17 @@ export default function Home() {
               </span>
 
               <p className="text-white/95 italic">
-                The articles presented here are based on carefully examined
-                research, studies, and analytical works, rewritten in a clear
-                and accessible style, with an additional analytical perspective
-                when appropriate. The sources and references of each article
-                are provided at the end, allowing readers to explore the
-                original works and continue their reading.
+
+                Welcome to ASGDAM, a digital space created as a quiet window into knowledge, ideas, and human thought. Here, we explore questions worth reflecting on, contemporary phenomena, and subjects spanning science, history, philosophy, culture, and technology. We believe that knowledge is not simply about collecting information, but about developing a deeper understanding of ourselves and the world around us. We hope you find here ideas that spark your curiosity, broaden your perspective, and inspire you to keep exploring.
+                 
+
+
+              </p>
+               <p className="text-white/95 italic">
+
+                 The articles published on ASGDAM draw on a variety of research papers, studies, articles, and reliable knowledge sources. These materials are carefully reviewed, analyzed, and rewritten in a clear and accessible style. For transparency and further exploration, the sources and references used for each article are provided at the end, allowing readers to consult the original materials and explore the subject in greater depth.                 
+
+
               </p>
             </div>
           </div>

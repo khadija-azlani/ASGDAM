@@ -9096,9 +9096,9 @@ It is, for a Muslim, an encounter with the life of the Messenger of Allah, peace
   date: 'August 25, 2026',
 
 category: {
-  ar: 'العلوم',
-  tzm: 'ⵜⵉⵏⴰⵡⵉⵏ',
-  en: 'Science'
+  ar: 'الصحة',
+  tzm: 'ⵜⴰⴷⵓⵙⵉ',
+  en: 'Health'
 },
   title: {
     ar: ' لماذا أصبح النوم آخر شيء نضحي به؟',
