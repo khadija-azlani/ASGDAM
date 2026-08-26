@@ -19,7 +19,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://asgdam.com"),
+  metadataBase: new URL("https://asgdam.vercel.app"),
   
   title: {
     default: "ASGDAM ",
@@ -63,7 +63,7 @@ export const metadata: Metadata = {
     title: "ASGDAM | A World of Wisdom & Knowledge",
     description:
       "A digital magazine bridging science, technology, philosophy, health, history, and culture.",
-    url: "https://asgdam.com",
+    url: "https://asgdam.vercel.app",
     siteName: "ASGDAM",
     images: [
       {
