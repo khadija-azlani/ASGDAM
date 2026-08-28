@@ -170,7 +170,7 @@ export default function AboutPage() {
 
           <div>
             <a 
-              href="https://www.linkedin.com" 
+              href="https://www.linkedin.com/in/khadija-tech-26a488373/?skipRedirect=true" 
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-8 py-3.5 bg-[#D4A84F] text-[#174A43] rounded-2xl text-xs font-bold hover:bg-white transition-all shadow-lg transform hover:-translate-y-0.5"
