@@ -12885,6 +12885,451 @@ Sources and references:
 8. Historical sources concerning Mohammed bin Abdelkrim al-Khattabi and the Moroccan nationalist movement.
 
 `
+},
+  {
+  id: '14',
+  date: 'September 4, 2026',
+
+  category: {
+    ar: 'رؤى الشباب',
+    tzm: 'ⵉⵏⵥⴰⵕⵏ ⵏ ⵉⵎⵥⵥⵉⵢⵏ',
+    en: 'Youth Perspectives'
+  },
+
+  title: {
+    ar: 'نقاش الشباب: البطالة في المغرب، من المسؤول؟',
+    tzm: 'ⴰⵎⵙⴰⵡⴰⴹ ⵏ ⵉⵎⵥⵥⵉⵢⵏ: ⴰⵎⴷⴰⵔ ⵏ ⵓⵙⵏⵙⵉ ⴳ ⵍⵎⵖⵔⵉⴱ، ⵎⴰⵏ ⵡⵉ ⵉⵙ ⵉⵎⵙⵙⴰⵏ?',
+    en: 'Youth Discussion: Unemployment in Morocco, Who Is Responsible?'
+  },
+
+  contentAr: `
+ماذا لو كنت تملك شهادة، وتبحث عن عمل، لكن كل باب تطرقه يُغلق في وجهك لأنك لا تملك الخبرة؟ وماذا لو كنت تملك الخبرة، لكن لا تجد الفرصة؟ ومن المسؤول حينها: أنت، أم المدرسة، أم الحكومة، أم الشركات؟
+
+سيداتي وسادتي، دعوني أقدّم لكم موضوعًا لطالما أثار الصراعات والنقاشات، وتعددت حوله الآراء والحلول منذ سنوات، وما زال إلى يومنا هذا حاضرًا بقوة في حياة الشباب؛ إنه **البطالة**.
+
+وفي مساء يوم الأربعاء، اجتمع شباب نادي **ASGDAM** للتحدث عن هذا الموضوع، لكن ليس عن البطالة في العالم، بل عن واقعها في **المغرب**، واقعنا نحن، وأسبابها، ومن يتحمل مسؤوليتها.
+
+اشتعلت النقاشات، اختلفت الآراء، وطُرحت حلول قد تجعلك تعيد التفكير في بعض الأفكار التي اعتدنا سماعها عن البطالة والعمل.
+
+فهل المسؤول هو الشاب وحده؟ أم أن هناك أطرافًا أخرى؟ وهل الحل يبدأ من الفرد أم من الدولة؟
+
+**للتفاصيل أكثر، أدعوكم لقراءة العرض.**
+
+---
+
+## أزمة البطالة في المغرب
+
+أزمة البطالة في المغرب مشكلة عميقة ومعقدة تتشابك فيها الأسباب وتتداخل فيها المسؤوليات.
+
+تبدأ جذورها في التعليم والثقافة، وتتصاعد مع واقع اقتصادي واجتماعي صعب. تبدأ هذه الدائرة المغلقة من المدارس ومقاعد التعليم التقليدي الذي يزرع في نفوس الشباب فكرة انتظار وظيفة جاهزة ومكتب مرتب.
+
+يمر ذلك أيضًا عبر أساليب التربية داخل الأسرة والمجتمع، التي تشجع على الاتكال وتفتقر إلى روح العمل الجماعي وثقافة المشاريع الصغيرة.
+
+يتفاقم هذا القصور عندما يواجه الشاب نتائج التسرب المدرسي أو يحصل على شهادات لا تناسب سوق العمل الفعلي. يجد نفسه حينها بلا مهنة يدوية تحميه من تقلبات الواقع، ويصطدم برفض الشركات التي تطلب خبرة سابقة ولا تعطيها أصلًا للخريجين الجدد.
+
+عندما تغلق كل الأبواب، يضطر الباحث عن العمل إلى دخول القطاع غير المنظم، حيث الفوضى والأجور المنخفضة التي لا تكفي لتغطية أبسط متطلبات الحياة الكريمة.
+
+تزداد الأمور سوءًا بسبب ضغوط الهجرة الأفريقية التي ترفع حدة المنافسة على فرص العمل القليلة.
+
+تظهر أيضًا أزمات أخرى مثل اعتماد الاقتصاد على الفلاحة وتوالي سنوات الجفاف التي تقتل ما تبقى من فرص العمل في القرى وتدمر دخل الأفراد.
+
+كل هذه المشاكل تخلق شابًا محاصرًا بالعجز ولا يملك أي مهارة بديلة، فيعيش عواقب نفسية واجتماعية صعبة مثل الضياع، التشرد، وانعدام وضوح المستقبل.
+
+يصل الأمر ببعضهم إلى الاستسلام والاعتماد على الجانب الروحي وانتظار الفرج من الله من دون محاولة البحث عن حلول مادية وعملية.
+
+## من يتحمل مسؤولية البطالة؟
+
+وسط هذا التشخيص المعقد وتعدد الأطراف المسؤولة، يظهر السؤال الأساسي عن الجهة التي يجب أن تتحمل مسؤولية هذه الأزمة.
+
+تأتي إجابة **رودينة، صاحبة أفضل رأي**، واضحة ومتوازنة بأن البطالة مسؤولية مشتركة لا يمكن تحميلها للشباب وحدهم أو للحكومة أو المدرسة فقط.
+
+فكما يُطلب من الشاب الاجتهاد وتطوير نفسه واكتساب المهارات، يجب على المجتمع والدولة والشركات أن تتحمل مسؤوليتها بسبب نقص فرص العمل العادلة، وضعف النظام التعليمي، ورفض القطاع الخاص إعطاء الفرصة.
+
+تؤكد رودينة أن الأزمة أحيانًا لا تعني رفض الشباب للعمل، بل تعكس غياب الفرص العادلة من الأصل.
+
+## الحلول التي اقترحها أعضاء النادي
+
+لننتقل الآن إلى الحلول التي اقترحها أعضاء النادي، والتي اختلفت وتنوعت، مبتدئين بتوجيه أصابع الاتهام نحو الفرد نفسه.
+
+### الحل الأول: تطوير الفرد ومهاراته
+
+كان أول اقتراح هو أن يعمل الفرد على تطوير نفسه ومهاراته، من خلال اكتساب **المهارات الناعمة (Soft Skills)**، والتمتع بلغة جسد منفتحة وواضحة، إلى جانب الدراسة والتعلم الذاتي؛ فالدراسة في المدرسة أو الجامعة وحدها لم تعد كافية في سوق شغل متغير باستمرار.
+
+كما شدد الأعضاء على ضرورة التخلي عن بعض الأفكار السلبية، مثل الاعتقاد بأن الحكومة أو الشركات وحدها مسؤولة عن عدم توفير فرص العمل، أو أن الواسطة هي السبب الوحيد في عدم الحصول على وظيفة.
+
+فالتشاؤم والاستسلام لهذه الأفكار قد يمنعان الفرد من تطوير نفسه والبحث عن فرص جديدة.
+
+ونعم، البطالة تحتاج فعلًا إلى تدخلات حكومية واقتصادية، لكن الفرد أيضًا يتحمل جزءًا من المسؤولية؛ إذ عليه أن يسعى إلى تطوير نفسه، واكتساب مهارات جديدة، والتأقلم مع متطلبات سوق العمل بدل انتظار الحلول من الآخرين فقط.
+
+ومن هذا المنطلق، اعتبر الأعضاء أن على الفرد أن يطور شخصيته وقدراته، وأن يبحث عن الشركة التي تتناسب مع مهاراته.
+
+فالشركات، في نهاية المطاف، تبحث عن أشخاص قادرين على إضافة قيمة وتحقيق نتائج. وإذا أثبت الفرد كفاءته، وتمتع بشخصية قوية ومهارات مناسبة، فقد يجد فرصته حتى في سوق عمل تنافسي.
+
+### إصلاح التعليم وخلق فرص مستدامة
+
+لكن النقاش لم يتوقف عند مسؤولية الفرد، إذ يرى أعضاء النادي أن البطالة لا تتطلب **حلولًا ترقيعية**، بل تستلزم إصلاحات تواكب الجيل الجديد ومتطلبات المرحلة.
+
+ومن بين هذه الإصلاحات **إصلاح التعليم** من خلال ملاءمته مع متطلبات الاقتصاد الحديث وسوق العمل، إضافة إلى ربط الاستثمارات الأجنبية بنقل الخبرة والتعاون مع الكفاءات المحلية، بما يضمن خلق مناصب شغل مستمرة ومستدامة للشباب.
+
+### الحل الثاني: خفض سن التقاعد
+
+أما الحل الثاني، فقد تمثل في **خفض سن التقاعد من 63 سنة**، باعتبار أن ذلك قد يساهم في إتاحة فرص جديدة أمام الشباب، إذ إن خروج عدد من الموظفين من سوق العمل قد يفتح المجال أمام خريجين جدد للالتحاق بالشركات والمؤسسات.
+
+ومع ذلك، لم يتفق الجميع تمامًا مع هذا الاقتراح، إذ رأى البعض أن الأمر ليس بهذه البساطة؛ فالمتقاعد قد يكون مسؤولًا عن أسرة، أو لا يزال في حاجة إلى دخله لتغطية متطلبات الحياة.
+
+ولذلك بقي هذا الاقتراح محل نقاش بين أعضاء النادي.
+
+### الحل الثالث: إنشاء المشاريع الخاصة
+
+ومن هنا انتقل النقاش إلى الحل الثالث، والذي اعتُبر من أكثر الحلول تأثيرًا على المدى البعيد، وهو حل تتقاطع فيه مسؤولية الفرد مع دور الدولة والحكومة في دعم الشباب وتمكينهم من إنشاء مشاريعهم الخاصة: **تشجيع الأفراد على إنشاء مشاريعهم الخاصة بعد اكتساب الخبرة المهنية.**
+
+فبدل أن يدخل الشخص إلى وظيفة ويظل فيها حتى سن التقاعد دون التفكير في المستقبل، يمكنه أن يعمل ويتعلم ويكتسب الخبرة، ثم بعد خمس أو عشر أو خمس عشرة سنة، يبدأ في التفكير في إنشاء مشروعه الخاص أو مقاولته الصغرى.
+
+فالخبرة التي يكتسبها الفرد خلال سنوات عمله يمكن أن تساعده على فهم المجال بشكل أفضل، ومعرفة كيفية التعامل مع الزبناء، وإدارة العمل، واتخاذ القرارات، والالتزام بما تعلمه طوال مسيرته المهنية.
+
+ويمكن لهذا المسار أن يتحول إلى سلسلة من الفرص: شخص يعمل لسنوات، ثم يفتح مشروعًا، فيخلق بذلك فرص عمل لأشخاص آخرين.
+
+وبعد سنوات، قد يكتسب أحد هؤلاء الموظفين الخبرة الكافية ليؤسس مشروعه الخاص هو الآخر، ويوظف بدوره أشخاصًا جددًا.
+
+وهكذا يمكن أن تستمر الدورة:
+
+**موظف يصبح صاحب مشروع، وصاحب المشروع يخلق فرص عمل، والموظف الجديد يكتسب الخبرة، ثم يصبح بدوره قادرًا على إنشاء مشروع جديد.**
+
+وبهذه الطريقة، لا يصبح الفرد مجرد شخص يبحث عن وظيفة، بل يمكن أن يتحول مع مرور الوقت إلى شخص يساهم في **خلق فرص الشغل ودعم الاقتصاد الوطني**.
+
+لكن لتحقيق ذلك، لا بد أيضًا من وجود بيئة تساعد الشباب على الانتقال من فكرة المشروع إلى الواقع، من خلال تسهيل الإجراءات، ودعم المقاولات الناشئة والصغرى، وتوفير التكوين والمواكبة والتمويل المناسب.
+
+وهنا يظهر دور الدولة والحكومة إلى جانب مسؤولية الفرد.
+
+## دور الجالية المغربية
+
+وهذا الطرح لا يقتصر فقط على الشباب داخل المغرب، بل يمكن أن يشمل أيضًا **الجالية المغربية المقيمة بالخارج**.
+
+فبعد اكتساب الخبرة والنجاح في بلدان الإقامة، يمكن التفكير في الاستثمار وإنشاء مشاريع في المغرب، والمساهمة في خلق فرص عمل لأبناء الوطن.
+
+فالمغرب أيضًا بلد يحمل العديد من الإمكانيات والفرص الاستثمارية، ودعم المشاريع المحلية يمكن أن يكون وسيلة للمساهمة في معالجة البطالة، بدل أن يظل ارتباطنا بالبلدان الأجنبية مقتصرًا على الحنين إليها أو البحث عن فرص فيها.
+
+## في النهاية…
+
+سيداتي وسادتي، انتهى الكلام في هذا اللقاء، **لكن النقاش حول البطالة لم ينتهِ.**
+
+تبقى هذه مجرد مجموعة من الأفكار والاقتراحات التي طُرحت خلال النقاش، ويبقى الأمل أن تتحول بعض هذه الأفكار إلى واقع، وأن يأتي المستقبل بفرص أكثر للشباب والخريجين والحرفيين، وأن يجد كل فرد مكانه في سوق العمل، سواء كموظف أو كمقاول وصاحب مشروع يساهم بدوره في خلق فرص جديدة للآخرين.
+
+---
+
+### من إنتاج
+
+**خديجة عزلاني وسلمى السكلاوي**
+
+### شارك في هذا النقاش:
+
+- Selma Benmaadoun
+- Hiba Arkou
+- Marwa Bouazaoui
+- Niama Nakhli
+- Khadija Azlani
+- Youssra Mesbahi
+- Saif-ddine Aidoudi
+- Hasnae Kharazi
+- Haytam Errahel
+- Firdaus Elmhassani
+- Nourelhouda alkhoullo
+- Azhar Belhelba
+- Aya Hassnaoui
+- Ikram Moslih
+- Reda Fayz
+- Soufiane Bounit
+- Ait Malek Fatima Ezzahrae
+- Walid Elyemrani
+- Mohammed Elkhoudi
+- Noor Bacha
+- Aymen Mhider
+- Fatima-Ezzahra Meaizi
+- Rodayna Ouaich
+- Maryam Berrady
+`,
+
+  contentTzm: `
+ⵎⴰ ⵢⵉⵍⵉ ⵎⴰ ⵜⵙⵄⵉⴷ ⵜⴰⵙⵏⴰ ⵏⵏⴽ، ⵜⴰⵔⴰⵎ ⴰⵎⵔⵙⴰ ⵎⴰⵛⴰ ⵉⵎⵎⴰⵙⵙ ⴽⵓ ⵜⴰⵡⵡⵓⵔⵜ ⵜⴽⴽⴰ ⵙ ⵡⴰⵔ ⵜⴰⵎⵙⵙⵉⵔⵜ ⵎⴰⵔⴰ ⵓⵔ ⵜⵙⵄⵉⴷ ⵜⵉⵔⴰⵔⵉⵏ? ⵎⴰ ⵢⵉⵍⵉ ⵎⴰ ⵜⵙⵄⵉⴷ ⵜⵉⵔⴰⵔⵉⵏ, ⵎⴰⵛⴰ ⵓⵔ ⵜⵙⵄⵉⴷ ⵜⴰⵡⵡⵓⵔⵜ? ⵎⴰⵏ ⵡⵉ ⵉⵙ ⵉⵎⵙⵙⴰⵏ ⵙ ⵓⵙⵏⵙⵉ: ⴽⵢⵢ, ⵜⵉⵏⵎⵍ, ⵜⵏⵙⵔⵉⵜ ⵏ ⵓⵎⵓⵔ, ⵏⵉⵖ ⵜⵉⵎⵙⵙⵉⵔⵉⵏ?
+
+ⵉⵎⵖⴰⵔⵏ ⴷ ⵉⵎⵥⵥⵉⵢⵏ، ⵙⵙⵓⵙⵎⵔⵉⵖ ⴰⵡⵏ ⴰⵙⵙⴰ ⵢⴰⵜ ⵏ ⵜⵎⵙⵙⵉⵔⵜ ⵉⵎⵎⴰⵙⵙⵏ ⵉⵎⵏⴰⵡⵏ ⴷ ⵉⵎⵙⴰⵡⴰⴹⵏ ⵙⴳ ⵉⵎⵏⴰⵡⵏ ⵉⵎⵙⵙⴰⵏⵏ ⵙ ⵓⵙⵏⵙⵉ ⴳ ⵍⵎⵖⵔⵉⴱ.
+
+ⴳ ⵜⵎⵙⵙⵉⵔⵜ ⵏ ⵡⴰⵙⵙ ⵏ ⵡⵉⵏⵙ، ⵎⵏⵏⴰⵡⵏ ⵏ ⵉⵎⵥⵥⵉⵢⵏ ⵏ ⵓⵏⴰⵡ ⵏ **ASGDAM** ⵎⵏⴰⵡⵏ ⴰⴷ ⵙⵙⴰⵡⴰⵍⵏ ⵅⴼ ⵓⵙⵏⵙⵉ، ⵎⴰⵛⴰ ⵎⴰⵛⴰ ⵓⵔ ⵅⴼ ⵓⵙⵏⵙⵉ ⴳ ⵓⵎⴰⴹⴰⵍ، ⵎⴰⵛⴰ ⵅⴼ ⵓⵙⵏⵙⵉ ⴳ **ⵍⵎⵖⵔⵉⴱ**، ⵅⴼ ⵓⵏⴰⵡ ⵏⵏⵖ، ⵉⵎⵏⴰⵡⵏ ⵏⵏⵙ، ⴷ ⵎⴰⵏ ⵡⵉ ⵉⵙ ⵉⵎⵙⵙⴰⵏ ⵙ ⵜⵎⵙⵙⵉⵔⵜ.
+
+ⵜⵔⵔⵣ ⵜⵎⵙⵙⵉⵔⵜ، ⵎⵏⴰⵡⵏ ⵏ ⵉⵎⵏⴰⵡⵏ، ⵜⵜⵡⴰⵙⵏ ⵉⵎⵙⵙⴰⵏⵏ ⵉⵣⵔⵉⵏ ⵉⵎⵏⴰⵡⵏ ⵉⵎⵥⵍⴰⵢⵏ ⵏ ⵓⵙⵏⵙⵉ ⴷ ⵓⵎⵔⵙⴰ.
+
+ⵎⴰⵏ ⵡⵉ ⵉⵙ ⵉⵎⵙⵙⴰⵏ ⵙ ⵓⵙⵏⵙⵉ؟ ⵉⵎⵥⵥⵉⵢ ⵏ ⵡⴰⵃⴷⴰⵏ? ⵏⵉⵖ ⵍⵍⴰⵏ ⵉⵎⵏⴰⵡⵏ ⵏⵏⵉⴹⵏ? ⵎⴰⵏ ⵙ ⵎⴰⵏⵉ ⵉⵙ ⵉⴼⵔⵓ ⵓⵙⵙⵉⵔⵉ: ⵙⴳ ⵓⴼⵔⴰⴽ ⵏ ⵓⴼⵔⴰⴽ ⵏ ⵓⵎⴷⴰⵏ ⵏⵉⵖ ⵙⴳ ⵜⵏⵙⵔⵉⵜ?
+
+---
+
+## ⴰⵎⴷⴰⵔ ⵏ ⵓⵙⵏⵙⵉ ⴳ ⵍⵎⵖⵔⵉⴱ
+
+ⴰⵎⴷⴰⵔ ⵏ ⵓⵙⵏⵙⵉ ⴳ ⵍⵎⵖⵔⵉⴱ ⵉⴳⴰ ⵢⴰⵜ ⵏ ⵜⵎⵙⵙⵉⵔⵜ ⵉⵙⵙⵏ ⵓⵎⵙⴰⵡⴰⴹ، ⵙⵙⴰⵡⴰⵍⵏ ⴳⵉⵙ ⵉⵎⵏⴰⵡⵏ ⴷ ⵜⵎⵙⵙⵉⵔⵜ ⵏ ⵓⵎⵓⵔ.
+
+ⵉⵎⵏⴰⵡⵏ ⵏⵏⵙ ⵙⵙⵏⵉⵏ ⵙⴳ ⵜⵏⵎⵍ ⴷ ⵜⵙⵏⴰⵡⵜ، ⵜⵜⵡⴰⵙⵙⵏ ⵙ ⵓⵎⵙⴰⵡⴰⴹ ⵏ ⵜⵎⴷⵉⵏⵜ ⴷ ⵓⵎⵏⴰⵣⴰⵔ ⵏ ⵜⵎⵙⵙⵉⵔⵜ.
+
+ⵉⵎⵏⴰⵡⵏ ⵏ ⵜⵏⵎⵍ ⵜⵜⵡⴰⵙⵙⵏ ⴷⵉⵖ ⵙ ⵜⵔⴱⴰ ⴳ ⵜⵡⴰⵛⵉⵏ ⴷ ⵓⵎⵏⴰⵡ، ⵎⴰⵔⴰ ⵜⵜⵡⴰⵙⵙⵏ ⵉⵎⵏⴰⵡⵏ ⵏ ⵜⵎⵙⵙⵉⵔⵜ ⴷ ⵜⵙⵙⵉⵔⵜ ⵏ ⵉⵎⵙⵙⴰⵏⵏ.
+
+ⵎⴰⵔⴰ ⵜⵙⵙⵓⵙⵎ ⵜⵡⵡⵓⵔⵜ ⵏ ⵓⵎⵔⵙⴰ، ⵉⵏⵏⴰ ⵓⵎⵔⵙⴰ ⴷ ⵉⵎⵙⵙⴰⵏⵏ ⵏ ⵓⵙⵏⵙⵉ ⵙ ⵡⴰⵔ ⵜⵉⵔⴰⵔⵉⵏ ⵏⵏⵙ.
+
+ⵎⴰⵔⴰ ⵜⵜⵡⴰⵙⵙⵏ ⵜⵉⵔⴰⵔⵉⵏ ⵏ ⵓⵎⵔⵙⴰ، ⵜⵔⴰ ⵜⵙⵙⵓⵙⵎ ⵉⵎⵏⴰⵡⵏ ⵏ ⵓⵙⵏⵙⵉ ⵏ ⵉⵎⵥⵥⵉⵢⵏ.
+
+ⵜⵔⵏⵏⴰ ⵜⵎⵙⵙⵉⵔⵜ ⵙ ⵓⵙⵙⵏⵙ ⵏ ⵉⵎⵥⵥⵉⵢⵏ ⴷ ⵉⵎⵙⵙⴰⵏⵏ ⵏ ⵓⵎⵔⵙⴰ، ⴷ ⵜⵙⵙⵏⵉ ⵙ ⵓⵙⵎⴰⵔ ⵏ ⵓⵎⵏⴰⵣⴰⵔ.
+
+## ⵎⴰⵏ ⵡⵉ ⵉⵙ ⵉⵎⵙⵙⴰⵏ ⵙ ⵓⵙⵏⵙⵉ؟
+
+ⵙ ⵓⵎⵙⴰⵡⴰⴹ ⵏ ⵉⵎⵏⴰⵡⵏ، ⵉⵙⵙⵏⴰ ⵓⵎⵙⴰⵡⴰⴹ ⵎⴰⵏ ⵡⵉ ⵉⵙ ⵉⵎⵙⵙⴰⵏ ⵙ ⵜⵎⵙⵙⵉⵔⵜ.
+
+ⵔⵓⴷⴰⵢⵏⴰ، ⵜⴰⵙⵏⴰⵡⵜ ⵏ ⵓⵎⵏⴰⵡ ⵉⴼⴰⵡⵏ، ⵜⵙⵙⵏⴰ ⵎⴰⵙ ⴰⵎⴷⴰⵔ ⵏ ⵓⵙⵏⵙⵉ ⵉⴳⴰ ⵜⴰⵎⵙⵙⵉⵔⵜ ⵏ ⵎⵏⵏⴰⵡⵏ ⵏ ⵉⵎⵏⴰⵡⵏ، ⵓⵔ ⵉⵙⵙⵏⴰ ⵓⵎⵙⵙⴰⵏ ⵙ ⵉⵎⵥⵥⵉⵢⵏ ⵏⵉⵖ ⵙ ⵜⵏⵙⵔⵉⵜ ⵏⵉⵖ ⵙ ⵜⵏⵎⵍ ⵏ ⵡⴰⵃⴷⴰⵏ.
+
+ⵎⴰⵔⴰ ⵉⵙⵙⵏ ⵓⵎⵥⵥⵉⵢ ⴰⴷ ⵉⵙⵙⵏ ⵉⵎⵏⴰⵡⵏ ⵏⵏⵙ، ⵉⵙⵙⵏ ⵓⵎⵓⵔ ⴷ ⵜⵎⵙⵙⵉⵔⵉⵏ ⴷ ⵜⵏⵙⵔⵉⵜ ⴰⴷ ⵔⵏⵏⵓⵏ ⵜⵉⵔⴰⵔⵉⵏ ⴷ ⵜⵉⵔⴰⵔⵉⵏ ⵏ ⵓⵙⵏⵙⵉ.
+
+ⵜⵙⵙⵏⴰ ⵔⵓⴷⴰⵢⵏⴰ ⵎⴰⵙ ⵓⵔ ⵉⵙⵙⵏ ⵓⵙⵏⵙⵉ ⵎⴰⵔⴰ ⵉⵏⵏⴰ ⵉⵎⵥⵥⵉⵢⵏ ⵓⵔ ⵔⵉⵏ ⴰⴷ ⵙⵙⵏⵙⵏ، ⵎⴰⵛⴰ ⵉⵎⵉⵙⵙ ⵙ ⵓⵎⵣⵣⵓⵔⵉ ⵏ ⵜⵉⵔⴰⵔⵉⵏ.
+
+## ⵉⵎⵏⴰⵡⵏ ⵏ ⵓⵎⵙⴰⵡⴰⴹ
+
+ⵎⴰⵔⴰ ⵏⵙⵙⵏ ⵎⴰⵏ ⵡⵉ ⵉⵙ ⵉⵎⵙⵙⴰⵏ، ⵏⵙⵙⵏ ⴰⵙⵙⴰ ⵉⵎⵏⴰⵡⵏ ⵏ ⵉⵎⵥⵥⵉⵢⵏ ⵏ ⵓⵏⴰⵡ.
+
+ⵉⵎⵥⵥⵉⵢ ⵉⵙⵙⵏ ⴰⴷ ⵉⵙⵙⵏ ⵉⵎⵏⴰⵡⵏ ⵏⵏⵙ، ⵉⵙⵙⵏ ⵙ **Soft Skills**، ⵉⵙⵙⵏ ⵙ ⵜⴰⵏⴰⵡⵜ ⵏ ⵓⵎⵙⵙⴰⵏ ⴷ ⵓⵙⵙⵏⵙ ⵏ ⵓⵎⵏⴰⵡ، ⴷ ⵉⵙⵙⵏ ⵙ ⵜⵏⵎⵍ ⴷ ⵓⵙⵍⵎⴷ ⵏ ⵉⵎⵏⴰⵡⵏ.
+
+ⵓⵔ ⵜⴼⵉⵔⵉ ⵜⵏⵎⵍ ⵏⵉⵖ ⵜⵙⵏⴰⵡⵜ ⵡⴰⵃⴷⴰⵏⵜ ⴰⵙⵙⴰ ⵉ ⵓⵙⵏⵙⵉ، ⵉⵎⵉ ⵜⴰⵎⵙⵙⵉⵔⵜ ⵜⵙⵏⴼⵍ ⵙ ⵓⵎⵣⵡⴰⵔ.
+
+ⵙ ⵓⵎⴰⵜⴰ، ⵉⵙⵙⵏ ⵓⵎⵥⵥⵉⵢ ⴰⴷ ⵉⵙⵙⵏ ⵉⵎⵏⴰⵡⵏ ⵏⵏⵙ، ⴷ ⴰⴷ ⵉⵔⴰ ⵜⵉⵔⴰⵔⵉⵏ ⵏ ⵓⵎⵔⵙⴰ ⵉ ⵉⵎⵏⴰⵡⵏ ⵏⵏⵙ.
+
+ⵎⴰⵛⴰ ⵓⵔ ⵉⵎⵎⴰⵙⵙ ⵓⵎⵙⴰⵡⴰⴹ ⵙ ⵓⵎⵥⵥⵉⵢ ⵡⴰⵃⴷⴰⵏ، ⵉⵎⵉ ⵉⵍⵍⴰ ⵓⵎⵏⴰⵡ ⵅⴼ ⵓⵙⵏⵙⵉ ⴷ ⵜⵙⵏⴰⵡⵜ.
+
+### ⵉⵎⵏⴰⵡⵏ ⵏ ⵜⵏⵎⵍ
+
+ⵉⵎⵙⵙⴰⵏ ⵏ ⵓⵏⴰⵡ ⵔⴰⵏ ⴰⴷ ⵜⵙⵙⵏⴼⵍ ⵜⵏⵎⵍ ⴷ ⴰⴷ ⵜⵏⵎⵎⵔ ⵙ ⵜⵉⵔⴰⵔⵉⵏ ⵏ ⵓⵎⵔⵙⴰ.
+
+ⵉⵙⵙⵏ ⵓⵎⵔⵙⴰ ⴰⴷ ⵉⵙⵙⵏ ⵜⵉⵔⴰⵔⵉⵏ ⵏ ⵉⵎⵥⵥⵉⵢⵏ ⴷ ⴰⴷ ⵉⵙⵙⵏ ⵉⵎⵏⴰⵡⵏ ⵏⵏⵙⵏ.
+
+ⵎⴰⵔⴰ ⵜⵜⵡⴰⵙⵙⵏ ⵉⵎⵥⵥⵉⵢⵏ ⵙ ⵓⵙⵏⵙⵉ ⵏ ⵉⵎⵏⴰⵡⵏ ⴷ ⵜⵉⵔⴰⵔⵉⵏ، ⵉⵙⵙⵏ ⵓⵎⵔⵙⴰ ⴰⴷ ⵉⵙⵙⵏ ⵉⵎⵙⵙⴰⵏⵏ ⵏ ⵓⵙⵏⵙⵉ.
+
+### ⵉⵙⵏⵙⵉ ⵏ ⵓⵎⵏⴰⵡ ⵏ ⵉⵎⵥⵥⵉⵢⵏ
+
+ⵉⵙⵙⵏ ⵓⵎⵙⴰⵡⴰⴹ ⵙ ⵓⵎⵏⴰⵡ ⵏ ⵓⵙⵏⵙⵉ ⵏ ⵉⵎⵥⵥⵉⵢⵏ ⵙ ⵜⵉⵔⴰⵔⵉⵏ ⵏ ⵓⵎⵔⵙⴰ، ⵙ ⵜⵙⵙⵉⵔⵜ ⴷ ⵓⵙⵙⵏⵙ.
+
+ⵎⴰⵔⴰ ⵉⵙⵙⵏ ⵓⵎⵥⵥⵉⵢ ⵜⵉⵔⴰⵔⵉⵏ ⴷ ⵓⵙⵏⵙⵉ ⵏ ⵓⵎⵔⵙⴰ، ⵉⵣⵎⵔ ⴰⴷ ⵉⵙⵙⵏ ⴰⵎⵏⴰⵡ ⵏⵏⵙ ⵙ ⵡⴰⵏⵏⴰ ⵏ ⵓⵎⵔⵙⴰ.
+
+ⵉⵣⵎⵔ ⵓⵎ⥨ⵥⵥⵉⵢ ⴰⴷ ⵉⵙⵙⵏ ⵉⵎⵏⴰⵡⵏ ⵏ ⵓⵎⵔⵙⴰ ⴷ ⴰⴷ ⵉⵙⵙⵏ ⵉⵎⵏⴰⵡⵏ ⵏⵏⵙ.
+
+ⵎⴰⵔⴰ ⵉⵙⵙⵏ ⵓⵎⵥⵥⵉⵢ ⴰⴷ ⵉⵙⵙⵏ ⵜⵉⵔⴰⵔⵉⵏ ⵏⵏⵙ، ⵉⵣⵎⵔ ⴰⴷ ⵉⵙⵙⵏ ⵉⵎⵏⴰⵡⵏ ⵏ ⵓⵙⵏⵙⵉ.
+
+ⵙ ⵓⵎⴰⵜⴰ، ⵉⵎⵥⵥⵉⵢ ⵓⵔ ⵉⵙⵙⵏ ⵙ ⵓⵎⵔⵙⴰ ⵡⴰⵃⴷⴰⵏ، ⵎⴰⵛⴰ ⵉⵣⵎⵔ ⴰⴷ ⵉⵎⵎⴰⵙⵙ ⵙ ⵓⵎⵔⵙⴰ ⵏ ⵓⵎⵏⴰⵣⴰⵔ.
+
+### ⵉⵙⵏⵙⵉ ⵏ ⵓⵎⵔⵙⴰ
+
+ⵉⵎⵏⴰⵡⵏ ⵏ ⵓⵏⴰⵡ ⵙⵙⵏⴰⵏ ⵎⴰⵙ ⵉⵙⵙⵏ ⵓⵎⵔⵙⴰ ⴰⴷ ⵉⵙⵙⵏ ⵉⵎⵏⴰⵡⵏ ⵏ ⵉⵎⵥⵥⵉⵢⵏ.
+
+ⵙ ⵓⵎⵏⴰⵡ ⵏ ⵉⵎⵏⴰⵡⵏ ⵏ ⵉⵎⵥⵥⵉⵢⵏ ⴷ ⵜⵏⵙⵔⵉⵜ، ⵉⵣⵎⵔ ⵓⵎⵔⵙⴰ ⴰⴷ ⵉⵙⵙⵏ ⵉⵎⵏⴰⵡⵏ ⵏⵏⵙ ⴷ ⴰⴷ ⵉⵙⵙⵏ ⵉⵎⵏⴰⵡⵏ ⵏ ⵓⵎⵔⵙⴰ.
+
+### ⵉⵙⵙⵏ ⵏ ⵉⵎⵥⵥⵉⵢⵏ
+
+ⵉⵎⵏⴰⵡⵏ ⵏ ⵓⵏⴰⵡ ⵙⵙⵏⴰⵏ ⵎⴰⵙ ⵜⵉⵔⴰⵔⵉⵏ ⵏ ⵓⵎⵥⵥⵉⵢ ⵙⵙⵏⴼⵍⵏⵜ ⵙ ⵓⵎⵣⵡⴰⵔ.
+
+ⵉⵎⵥⵥⵉⵢ ⵉⵣⵎⵔ ⴰⴷ ⵉⵙⵙⵏ ⵜⵉⵔⴰⵔⵉⵏ ⵏⵏⵙ ⴷ ⴰⴷ ⵉⵙⵙⵏ ⵉⵎⵏⴰⵡⵏ ⵏ ⵓⵙⵏⵙⵉ.
+
+ⵎⴰⵛⴰ ⵉⵙⵙⵏ ⵓⵎⵔⵙⴰ ⴷ ⵜⵏⵙⵔⵉⵜ ⴰⴷ ⵜⵔⵏⵏⴰ ⵉⵎⵏⴰⵡⵏ ⴷ ⵜⵉⵔⴰⵔⵉⵏ ⵉ ⵉⵎⵥⵥⵉⵢⵏ.
+
+## ⴳ ⵉⵎⵏⵏⴰⵢ
+
+ⵉⵎⵏⴰⵡⵏ ⵏ ⵓⵏⴰⵡ ⵎⵙⵙⴰⵏ، ⵎⴰⵛⴰ ⵓⵔ ⵉⵎⵎⴰⵙⵙ ⵓⵎⵙⴰⵡⴰⴹ ⵅⴼ ⵓⵙⵏⵙⵉ.
+
+ⵉⵎⵏⴰⵡⵏ ⴰ ⵉⴳⴰⵏ ⴽⵔⴰ ⵏ ⵉⴷⵔⵉⵙⵏ ⴷ ⵉⵎⵏⴰⵡⵏ ⵏⵏⵉ ⵜⵜⵡⴰⵙⵙⵏ ⴳ ⵜⵎⵙⵙⵉⵔⵜ، ⴷ ⵏⵏⴰ ⵏⵔⴰ ⴰⴷ ⵏⵙⵙⵏ ⵉⵎⵏⴰⵡⵏ ⵏ ⵓⵙⵏⵙⵉ ⴷ ⴰⴷ ⵜⵏⵙⵙⵏ ⴳ ⵓⵎⵏⴰⵣⴰⵔ.
+
+ⵎⴰⵔⴰ ⵜⵙⵙⵏⴼⵍ ⴽⵔⴰ ⵏ ⵉⵎⵏⴰⵡⵏ ⵉ ⵜⵉⵔⴰⵔⵉⵏ، ⵉⵣⵎⵔ ⵓⵙⵏⵙⵉ ⴰⴷ ⵉⵍⵉ ⵙ ⵜⵉⵔⴰⵔⵉⵏ ⵉⵎⵓⵏⵏ.
+
+---
+
+### ⵉⵙⵙⵓⴼ ⵏ ⵓⵎⵏⴰⵡ
+
+**ⵅⴷⵉⵊⴰ ⵄⵣⵍⴰⵏⵉ ⴷ ⵙⵍⵎⴰ ⵙⴽⵍⴰⵡⵉ**
+
+### ⵉⵎⵥⵍⴰⵢⵏ ⵏ ⵓⵎⵙⴰⵡⴰⴹ:
+
+- Selma Benmaadoun
+- Hiba Arkou
+- Marwa Bouazaoui
+- Niama Nakhli
+- Khadija Azlani
+- Youssra Mesbahi
+- Saif-ddine Aidoudi
+- Hasnae Kharazi
+- Haytam Errahel
+- Firdaus Elmhassani
+- Nourelhouda alkhoullo
+- Azhar Belhelba
+- Aya Hassnaoui
+- Ikram Moslih
+- Reda Fayz
+- Soufiane Bounit
+- Ait Malek Fatima Ezzahrae
+- Walid Elyemrani
+- Mohammed Elkhoudi
+- Noor Bacha
+- Aymen Mhider
+- Fatima-Ezzahra Meaizi
+- Rodayna Ouaich
+- Maryam Berrady
+`,
+
+  contentEn: `
+What if you had a degree and were looking for a job, but every door you knocked on closed because you lacked experience? And what if you had the experience, but could not find the opportunity? Who is responsible then: you, the school, the government, or companies?
+
+Ladies and gentlemen, allow me to introduce a subject that has sparked conflicts and discussions for years, with countless opinions and proposed solutions, and that remains strongly present in the lives of young people today: **unemployment**.
+
+On Wednesday evening, the young members of **ASGDAM Club** gathered to discuss this issue—not unemployment around the world, but its reality in **Morocco**, our reality, its causes, and who should bear responsibility for it.
+
+The discussion became intense. Opinions differed, and solutions were proposed that may make you reconsider some of the ideas we have grown accustomed to hearing about unemployment and work.
+
+So, is the young person solely responsible? Or are there other parties involved? And does the solution begin with the individual or with the state?
+
+**For more details, I invite you to read the full discussion.**
+
+---
+
+## The Unemployment Crisis in Morocco
+
+The unemployment crisis in Morocco is a deep and complex problem in which causes overlap and responsibilities are intertwined.
+
+Its roots begin in education and culture and become more serious because of difficult economic and social realities. This vicious cycle often starts in schools and traditional education, which can instill in young people the idea of waiting for a ready-made job and a comfortable office.
+
+It also passes through educational practices within families and society that may encourage dependence while lacking a strong culture of teamwork and small entrepreneurship.
+
+The problem becomes more serious when young people face the consequences of dropping out of school or graduate with qualifications that do not match the realities of the labor market.
+
+They may find themselves without a practical trade or alternative skill that could protect them from economic uncertainty. At the same time, they face companies demanding previous experience while rarely giving recent graduates the opportunity to gain that experience.
+
+When every door seems closed, job seekers may be pushed toward the informal sector, where instability and low wages often fail to cover even the most basic requirements of a dignified life.
+
+The situation can become even more difficult because of migration pressures and increased competition for limited employment opportunities.
+
+Other challenges also appear, such as the economy's dependence on agriculture and repeated years of drought, which destroy remaining employment opportunities in rural areas and reduce people's incomes.
+
+All these problems can leave young people feeling trapped, without alternative skills and facing serious psychological and social consequences such as confusion, homelessness, and uncertainty about the future.
+
+For some, this can eventually lead to giving up and relying only on spiritual hope while waiting for relief from God, without actively searching for practical and material solutions.
+
+## Who Is Responsible?
+
+Amid this complex situation and the many parties involved, the central question remains: who should bear responsibility for this crisis?
+
+**Rodayna, who presented the best opinion**, gave a clear and balanced answer: unemployment is a shared responsibility. It cannot be placed solely on young people, the government, or the education system.
+
+Just as young people are expected to work hard, develop themselves, and acquire new skills, society, the state, and companies must also assume their responsibilities because of the lack of fair employment opportunities, weaknesses in the education system, and the private sector's reluctance to give young people a chance.
+
+Rodayna emphasized that unemployment does not always mean that young people refuse to work. Sometimes, it reflects the absence of fair opportunities in the first place.
+
+## Solutions Proposed by the Club Members
+
+Let us now move to the solutions proposed by the club members, which differed and varied, beginning with the responsibility of the individual.
+
+### First Solution: Developing the Individual
+
+The first proposal was for individuals to work on developing themselves and their skills by acquiring **soft skills**, maintaining open and clear body language, and continuing their studies and self-learning.
+
+Studying at school or university alone is no longer enough in a constantly changing labor market.
+
+The members also emphasized the importance of abandoning certain negative ideas, such as believing that the government or companies alone are responsible for creating jobs, or that connections are the only reason someone cannot find employment.
+
+Pessimism and surrendering to these ideas can prevent individuals from developing themselves and searching for new opportunities.
+
+Yes, unemployment genuinely requires government and economic intervention, but individuals also carry part of the responsibility. They must seek to improve themselves, acquire new skills, and adapt to labor-market requirements instead of simply waiting for others to solve the problem.
+
+From this perspective, members argued that individuals should develop their personalities and abilities and search for companies that match their skills.
+
+Companies ultimately look for people capable of adding value and achieving results. If an individual proves their competence and has a strong personality and appropriate skills, they may find an opportunity even in a competitive labor market.
+
+### Education Reform and Sustainable Employment
+
+However, the discussion did not stop at individual responsibility. Club members argued that unemployment does not require **temporary or superficial solutions**, but rather reforms that respond to the new generation and the requirements of the current era.
+
+Among these reforms is **education reform**, by aligning education with the requirements of the modern economy and labor market.
+
+Another proposal was to connect foreign investment with knowledge transfer and cooperation with local talent, helping create continuous and sustainable employment opportunities for young people.
+
+### Second Solution: Lowering the Retirement Age
+
+The second solution was to **lower the retirement age from 63**, on the basis that this could contribute to creating new opportunities for young people.
+
+The departure of some employees from the labor market could create space for new graduates to join companies and institutions.
+
+However, not everyone completely agreed with this proposal. Some members argued that the issue is not that simple: a retiree may be responsible for a family or may still need their income to cover their living expenses.
+
+Therefore, this proposal remained a subject of debate among the club members.
+
+### Third Solution: Creating Personal Businesses
+
+The discussion then moved to the third solution, considered one of the most influential in the long term: a solution in which individual responsibility intersects with the role of the state and government in supporting young people and enabling them to create their own businesses.
+
+The proposal was to **encourage individuals to create their own businesses after gaining professional experience.**
+
+Instead of entering a job and remaining there until retirement without thinking about the future, a person can work, learn, and gain experience, then after five, ten, or fifteen years, begin thinking about creating their own business or small enterprise.
+
+The experience gained throughout those years can help individuals understand their field better, learn how to deal with customers, manage work, make decisions, and apply everything they have learned during their professional journey.
+
+This path can become a chain of opportunities: one person works for several years, then opens a business and creates jobs for others.
+
+After several years, one of those employees may gain enough experience to establish their own business and, in turn, employ new people.
+
+The cycle can continue:
+
+**An employee becomes a business owner, the business owner creates jobs, the new employee gains experience, and eventually becomes capable of creating another business.**
+
+In this way, an individual does not remain simply someone searching for a job. Over time, they can become someone who contributes to **creating employment opportunities and supporting the national economy**.
+
+But for this to happen, there must also be an environment that helps young people move from the idea of a business to reality through simpler procedures, support for startups and small businesses, training, guidance, and appropriate financing.
+
+This is where the role of the state and government becomes important alongside individual responsibility.
+
+## The Role of the Moroccan Diaspora
+
+This idea does not concern only young people living in Morocco. It can also include the **Moroccan diaspora living abroad**.
+
+After gaining experience and achieving success in their countries of residence, Moroccans abroad can consider investing and creating businesses in Morocco, contributing to the creation of employment opportunities for fellow citizens.
+
+Morocco also has many investment possibilities and opportunities. Supporting local businesses can therefore become a way of contributing to the fight against unemployment, rather than allowing our relationship with foreign countries to remain limited to nostalgia or the search for opportunities abroad.
+
+## In the End…
+
+Ladies and gentlemen, the words of this meeting have come to an end, **but the discussion about unemployment has not.**
+
+These are only some of the ideas and proposals raised during the discussion. The hope remains that some of these ideas can become reality, that the future will bring more opportunities for young people, graduates, and skilled workers, and that everyone will find their place in the labor market—whether as an employee or as an entrepreneur and business owner who contributes to creating new opportunities for others.
+
+---
+
+### Produced by
+
+**Khadija Azlani and SALMA SEGLAOUI**
+
+### Participants in the discussion:
+
+- Selma Benmaadoun
+- Hiba Arkou
+- Marwa Bouazaoui
+- Niama Nakhli
+- Khadija Azlani
+- Youssra Mesbahi
+- Saif-ddine Aidoudi
+- Hasnae Kharazi
+- Haytam Errahel
+- Firdaus Elmhassani
+- Nourelhouda alkhoullo
+- Azhar Belhelba
+- Aya Hassnaoui
+- Ikram Moslih
+- Reda Fayz
+- Soufiane Bounit
+- Ait Malek Fatima Ezzahrae
+- Walid Elyemrani
+- Mohammed Elkhoudi
+- Noor Bacha
+- Aymen Mhider
+- Fatima-Ezzahra Meaizi
+- Rodayna Ouaich
+- Maryam Berrady
+`
 }
 ];
 
