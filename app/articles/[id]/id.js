@@ -13028,7 +13028,7 @@ Sources and references:
 - Marwa Bouazaoui
 - Niama Nakhli
 - Khadija Azlani
-- Youssra Mesbahi
+- Yousra Mesbahi
 - Saif-ddine Aidoudi
 - Hasnae Kharazi
 - Haytam Errahel
@@ -13153,7 +13153,7 @@ Sources and references:
 - Marwa Bouazaoui
 - Niama Nakhli
 - Khadija Azlani
-- Youssra Mesbahi
+- Yousra Mesbahi
 - Saif-ddine Aidoudi
 - Hasnae Kharazi
 - Haytam Errahel
@@ -13310,7 +13310,7 @@ These are only some of the ideas and proposals raised during the discussion. The
 - Marwa Bouazaoui
 - Niama Nakhli
 - Khadija Azlani
-- Youssra Mesbahi
+- Yousra Mesbahi
 - Saif-ddine Aidoudi
 - Hasnae Kharazi
 - Haytam Errahel
