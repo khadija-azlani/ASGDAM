@@ -40,6 +40,12 @@ const CATEGORIES = [
     icon: Lightbulb,
   },
   {
+  key: 'youth_perspectives',
+  labelAr: 'رؤى الشباب',
+  labelEn: 'Youth Perspectives',
+  icon: MessagesSquare,
+},
+  {
     key: 'psychology',
     labelAr: 'علم النفس',
     labelEn: 'Psychology',
