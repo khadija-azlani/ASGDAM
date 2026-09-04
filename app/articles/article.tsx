@@ -21,7 +21,9 @@ import {
   ChevronRight,
   ChevronLeft,
   X,
-  HeartPulse
+  HeartPulse,
+ MessagesSquare
+
 } from 'lucide-react';
 
 const CATEGORIES = [
@@ -273,6 +275,19 @@ const ALL_ARTICLES = [
     readTimeEn: '5 min read',
     date: 'August 25, 2026',
   },
+  {
+  id: '14',
+  titleAr: 'نقاش الشباب حول موضوع البطالة في المغرب',
+  titleEn:
+    'Youth Discussion on Unemployment in Morocco',
+  categoryAr: 'رؤى الشباب',
+  categoryEn: 'Youth Perspectives',
+  categoryKey: 'youth_perspectives',
+  readTimeAr: '٨ دقائق قراءة',
+  readTimeEn: '8 min read',
+  date: 'September 4, 2026',
+}
+  
 ];
 
 export default function ArticlesPage() {
