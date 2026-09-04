@@ -65,7 +65,7 @@ export default function Footer() {
           </div>
           
           <div className="text-[10px] text-[#174A43]/50 font-mono tracking-widest uppercase">
-            English / Amazigh
+            English / Amazigh / Arabic
           </div>
         </div>
 
