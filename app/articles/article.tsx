@@ -292,7 +292,19 @@ const ALL_ARTICLES = [
   readTimeAr: '٨ دقائق قراءة',
   readTimeEn: '8 min read',
   date: 'September 4, 2026',
-}
+},
+  {
+  id: '15',
+  titleAr: 'هل أصبحت الرسائل أسهل من المواجهة؟',
+  titleEn:
+    'Have Messages Become Easier Than Face-to-Face Communication?',
+  categoryAr: 'رؤى الشباب',
+  categoryEn: 'Youth Perspectives',
+  categoryKey: 'youth_perspectives',
+  readTimeAr: '١٠ دقائق قراءة',
+  readTimeEn: '10 min read',
+  date: 'September 8, 2026',
+},
   
 ];
 
