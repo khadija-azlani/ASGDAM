@@ -121,8 +121,8 @@ const ALL_ARTICLES = [
     categoryAr: 'المجتمع',
     categoryEn: 'Society',
     categoryKey: 'society',
-    readTimeAr: '٥ دقائق قراءة',
-    readTimeEn: '5 min read',
+    readTimeAr: '٨ دقائق قراءة',
+    readTimeEn: '8 min read',
     date: 'August 24, 2026',
   },
 
