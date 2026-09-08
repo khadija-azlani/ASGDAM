@@ -301,8 +301,8 @@ const ALL_ARTICLES = [
   categoryAr: 'رؤى الشباب',
   categoryEn: 'Youth Perspectives',
   categoryKey: 'youth_perspectives',
-  readTimeAr: '١٠ دقائق قراءة',
-  readTimeEn: '10 min read',
+  readTimeAr: '٠ دقائق قراءة',
+  readTimeEn: '5 min read',
   date: 'September 8, 2026',
 },
   
