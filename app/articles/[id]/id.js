@@ -13330,6 +13330,320 @@ These are only some of the ideas and proposals raised during the discussion. The
 - Rodayna Ouaich
 - Maryam Berrady
 `
+},
+  {
+  id: '14',
+  date: 'September 4, 2026',
+
+  category: {
+    ar: 'رؤى الشباب',
+    tzm: 'ⵉⵏⵥⴰⵕⵏ ⵏ ⵉⵎⵥⵥⵉⵢⵏ',
+    en: 'Youth Perspectives'
+  },
+
+  title: {
+    ar: 'نقاش الشباب: هل وسائل التواصل الاجتماعي تزيد من الرهاب الاجتماعي؟',
+    tzm: 'ⴰⵎⵙⴰⵡⴰⴹ ⵏ ⵉⵎⵥⵥⵉⵢⵏ: ⵉⵙ ⵉⵎⵙⵙⵏ ⵏ ⵓⵎⵙⴰⵡⴰⴹ ⵙⵙⵏⵓⵎⵎⵔⵏ ⵔⵔⵀⴰⴱ ⵏ ⵓⵎⵙⴰⵡⴰⴹ?',
+    en: 'Youth Discussion: Do Social Media Increase Social Anxiety?'
+  },
+
+  contentAr: `ربما تتساءل مع نفسك: لماذا أشعر وكأنني أعاني من رهاب اجتماعي، رغم أنني لم أكن كذلك قبل سنوات، قبل دخولي إلى عالم وسائل التواصل الاجتماعي والغوص فيه؟
+
+مع مرور الوقت، أصبحنا نتحدث عبر الرسائل أكثر مما نتحدث في الواقع. وربما صادفتك من قبل تلك اللحظة الغريبة التي تجد فيها نفسك تتحدث مع صديقك لمدة أربع وعشرين ساعة عبر الرسائل، لكن بمجرد أن تلتقيا وجهًا لوجه، لا تجدون ما تتحدثون عنه.
+
+لدينا أصدقاء في المدرسة نتحدث معهم باستمرار عبر الرسائل، نشاركهم تفاصيل يومنا وأفكارنا، لكن عندما نلتقي بهم في الواقع، قد تتجاهلون بعضكم البعض.
+
+فهل أصبحنا أكثر راحة في الحديث مع الناس عبر الرسائل، أم أن الحديث وجهًا لوجه أصبح أكثر صعوبة بالنسبة لنا؟ وهل يمكن أن تكون وسائل التواصل الاجتماعي قد ساهمت، بطريقة أو بأخرى، في زيادة الرهاب الاجتماعي لدى الشباب، بسبب اعتيادنا على التواصل خلف الشاشات بدلًا من مواجهة الواقع؟
+
+ستجدون تحليلًا لهذا الموضوع في نقاش أُقيم مساء يوم السبت في الخامس من شتنبر بين أعضاء نادي ASGDAM، وكان موضوعه أمرًا لطالما وجدناه في مجتمعنا، وربما نعيشه نحن أيضًا دون أن نشعر:
+
+**هل نشعر براحة أكبر عند التحدث مع الناس عبر الرسائل أم وجهًا لوجه؟ ولماذا يزداد الرهاب الاجتماعي لدى الشباب مع اعتمادنا المتزايد على الرسائل بدلًا من مواجهة الواقع؟**
+
+يا عزيزي القارئ ويا عزيزتي القارئة، ستجد في هذا المقال أشخاصًا يشبهونك؛ شبابًا يحاولون تحليل هذا الموضوع انطلاقًا من تجاربهم ووجهات نظرهم، والإجابة عن سؤال لطالما راودنا:
+
+**هل تسببت وسائل التواصل الاجتماعي فعلًا في زيادة الرهاب الاجتماعي، أم أن الأمر أكثر تعقيدًا من ذلك؟**
+
+وبدأ النقاش الفعلي بطرح سؤال بسيط، لكنه فتح بابًا واسعًا من الآراء:
+
+**هل تفضلون التحدث عبر الرسائل أم وجهًا لوجه؟**
+
+انقسمت الإجابات بين من يرى أن التواصل وجهًا لوجه أفضل، لأنه يتيح لنا ملاحظة تحركات الشخص، ولغة جسده، والتفاعل معه بشكل أكثر واقعية. بينما رأى آخرون أن الأمر لا يتعلق باختيار أحدهما، بل إنهما وسيلتان مختلفتان للتواصل، ولكل واحدة منهما مكانها في حياتنا.
+
+لكن السؤال الأهم كان: **هل الأشخاص الذين يشعرون براحة أكبر في الحديث عبر الرسائل يعانون فعلًا من الرهاب الاجتماعي؟**
+
+هنا انتقل النقاش إلى نقطة أكثر تعقيدًا. فقد ذكّرنا أحد الأعضاء بفترة جائحة فيروس كورونا، عندما أُغلقت المدارس وتوقفت الحياة الطبيعية، ودخلنا مرحلة الحجر الصحي. كان أغلب أفراد جيلنا حينها أطفالًا أو مراهقين، أي في مرحلة حساسة جدًا من النمو وتكوين الشخصية.
+
+فجأة، أصبح التواصل الذي كان يحدث في المدرسة، في الشارع، وبين الأصدقاء والعائلة، يحدث خلف شاشة الهاتف. اعتدنا على الرسائل والمكالمات والتواصل الافتراضي، وأصبح العالم الرقمي جزءًا أساسيًا من حياتنا اليومية.
+
+وربما كان لهذا التغيير أثر على بعض الشباب، خصوصًا أن فترة الطفولة والمراهقة هي مرحلة يبدأ فيها الإنسان بتكوين شخصيته وتطوير مهاراته الاجتماعية. فهل يمكن أن يكون الاعتماد الكبير على التواصل الافتراضي خلال تلك الفترة قد جعل مواجهة الواقع أكثر صعوبة بالنسبة لبعض الأشخاص؟
+
+لكن آراء أخرى في النقاش أخذتنا إلى زاوية مختلفة تمامًا.
+
+فالرهاب الاجتماعي ليس اضطرابًا ظهر حديثًا مع وسائل التواصل الاجتماعي. لقد كان موجودًا قبل ظهور الهواتف الذكية والمنصات الاجتماعية، لكن ربما لم يكن المصطلح معروفًا أو متداولًا كما هو اليوم.
+
+كما أن أسباب الرهاب الاجتماعي ليست واحدة بالضرورة. فقد تكون مرتبطة بتجارب عاشها الشخص خلال حياته؛ كالتنمر في الطفولة، أو الرفض الاجتماعي، أو التعرض للإحراج أمام الآخرين، أو تجارب سلبية متكررة جعلته يشعر بالخوف من نظرات الناس وأحكامهم.
+
+وقد تكون هناك أيضًا عوامل أخرى مرتبطة بالوراثة، أو بكون الشخص وُلد بها، أو بتجارب وصدمات أثرت في الشخص وغيّرت طريقة تعامله مع الآخرين.
+
+وهنا بدأ السؤال الحقيقي يظهر:
+
+**إذا كان الرهاب الاجتماعي موجودًا قبل وسائل التواصل الاجتماعي، فهل يمكننا فعلًا أن نقول إن وسائل التواصل هي التي تسببت فيه؟**
+
+ربما الجواب ليس «نعم» أو «لا» بشكل مطلق.
+
+قد لا تكون وسائل التواصل الاجتماعي هي السبب المباشر في ظهور الرهاب الاجتماعي، لكنها قد تصبح، بالنسبة لبعض الأشخاص، وسيلة للهروب من المواجهة. فقد يكون الشخص يعاني أصلًا من قدر بسيط من الخوف أو صعوبة في التواصل، وبدلًا من أن يواجه هذا الخوف تدريجيًا، يجد في الرسائل حلًا أسهل وأكثر راحة.
+
+يتحدث مع الناس، لكن من خلف الشاشة.
+
+يعبر عن أفكاره، لكن دون مواجهة نظرات الآخرين.
+
+ويستطيع أن يكتب رسالة، ثم يمسحها، ويعيد كتابتها، قبل أن يرسلها.
+
+ومع مرور الوقت، قد يصبح هذا الأمر عادة. وكلما اعتاد الشخص على التواصل الافتراضي، أصبحت المواجهة المباشرة أقل اعتيادًا بالنسبة إليه، وقد يشعر بمزيد من التوتر عندما يجد نفسه مضطرًا إلى الحديث وجهًا لوجه.
+
+أما الشخص الذي لم يكن يعاني أصلًا من الرهاب الاجتماعي، لكنه أصبح يعتمد بشكل كبير على الرسائل والتواصل الرقمي، فقد لا يعني ذلك بالضرورة أنه أصبح يعاني من اضطراب نفسي. ربما أصبح فقط أقل ممارسة للتواصل المباشر، ولذلك يشعر بأن الحديث وجهًا لوجه أصبح أصعب مما كان عليه سابقًا.
+
+وهنا يجب أن نفرق بين **الرهاب الاجتماعي** وبين مجرد الشعور بالخجل أو صعوبة التواصل أو عدم الاعتياد على المواجهة.
+
+لكن وسط كل هذا، قد يقول أحدكم:
+
+**«ولكننا نعيش في عصر التكنولوجيا! من الطبيعي أن أتحدث مع أصدقائي وعائلتي عبر الرسائل، فكيف يمكنني أن أتجنب ذلك؟»**
+
+والجواب بسيط: **لا تحتاج إلى تجنب وسائل التواصل الاجتماعي، بل تحتاج إلى تحقيق التوازن.**
+
+المشكلة ليست في أن ترسل رسالة إلى صديقك، أو تتحدث معه عبر الهاتف، أو تستعمل وسائل التواصل الاجتماعي. المشكلة تبدأ عندما يصبح العالم الافتراضي هو عالمك الوحيد.
+
+فليس من الطبيعي أن تمر أربع وعشرون ساعة وأنت أمام هاتفك، تتحدث مع شخص عبر الرسائل، بينما لا تجد وقتًا للخروج، أو الجلوس مع عائلتك، أو لقاء أصدقائك، أو حتى المشي في الحديقة القريبة منك.
+
+استخدم التكنولوجيا، لكن لا تجعلها تستخدم حياتك بدلًا منك.
+
+تحدث مع عائلتك وجهًا لوجه. أجب عن رسائل أصدقائك. اخرج من المنزل، ولو فقط للمشي قليلًا. اجلس في مكان عام، تحدث مع الناس، وعش بعض اللحظات التي لا تحتاج فيها إلى شاشة أمامك.
+
+وإذا كنت تشعر فعلًا بالخوف من مواجهة الناس، فلا تجعل الهاتف وسيلة دائمة للهروب من هذا الشعور. حاول أن تواجهه تدريجيًا، خطوة بخطوة، لأن تجنب المواقف الاجتماعية باستمرار قد يجعلها تبدو أكثر صعوبة مع الوقت.
+
+وفي النهاية، تذكر أن القدرة على التواصل مع الآخرين ليست مجرد شيء نحتاجه في حياتنا الاجتماعية، بل هي أيضًا مهارة مهمة في الدراسة والعمل والحياة بشكل عام. مقابلة عمل، عرض أمام مجموعة من الناس، نقاش أو حتى التعرف على شخص جديد... كلها مواقف تحتاج إلى أن تكون قادرًا على التعبير عن نفسك خارج شاشة هاتفك.
+
+لذلك، عزيزي القارئ وعزيزتي القارئة، لا نريد منك أن تترك التكنولوجيا، ولا أن تعود إلى زمن لم تكن فيه وسائل التواصل موجودة.
+
+**واكب عصرك، واستعمل التكنولوجيا فيما ينفعك، لكن لا تسمح لها بأن تجعلك تنسى واقعك.**
+
+وازن بين حياتك الإلكترونية وحياتك الواقعية.
+
+ولا تخف من المواقف المحرجة. قد تتلعثم، قد لا تجد الكلمات المناسبة، وقد تقول شيئًا وتندم عليه بعد ثوانٍ... وهذا طبيعي.
+
+فأنت لست ذكاءً اصطناعيًا.
+
+**لا يجب أن تكون إجاباتك مثالية، ولا أن يكون كل تواصلك خلف الشاشة. أحيانًا، كل ما تحتاجه هو أن ترفع رأسك من هاتفك، وتنظر إلى الشخص أمامك، وتقول: «السلام عليكم، كيف حالك؟»**
+
+---
+
+### إعداد وإنتاج المقال
+
+**خديجة عزلاني**
+
+### شارك في النقاش
+
+Nourelhouda Elkhoullo
+Asmaa Khallouf
+Salma Seglaoui
+Hiba Arkou
+Khadija Azlani
+Rodayna Ouaich
+Haytam Errahel`,
+
+  contentTzm: `ⵉⵎⵉⵔ ⵉⵙ ⵜⵙⵙⵇⵙⴰⵙⴷ ⵉⵎⴰⵏ ⵏⵏⴽ: ⵎⴰⵢ ⵅⴼ ⵔⵔⵉⵖ ⴰⵎⵎⴰ ⵔⵔⵀⴰⴱ ⵏ ⵓⵎⵙⴰⵡⴰⴹ ⵉⵙ ⵓⵔ ⵍⵍⵉⵖ ⴰⵎⵎⴰ ⴰⵙⵙ ⵣⵔⵉⵏ, ⵣⵔ ⴰⴷ ⵔⵏⵉⵖ ⵉ ⵡⴰⵎⵓⵏ ⵏ ⵉⵎⵙⵙⵏ ⵏ ⵓⵎⵙⴰⵡⴰⴹ ⴷ ⵙⵙⵏⵓⵎⵎⵔⵏ ⵙ ⵓⵎⴰⵙⵙ?
+
+ⵙ ⵓⵎⵔⴰ ⵏ ⵜⵎⵔⵙⴰ، ⵏⵙⵙⵉⵡⵍ ⵙ ⵉⵎⵙⵙⵏ ⵓⴳⴳⴰⵔ ⵏ ⵏⵙⵙⵉⵡⵍ ⵙ ⵓⵎⵏⴰⵡ. ⵣⵎⵔ ⴰⴷ ⵜⵙⵙⵏⴷ ⵜⴰⵎⵙⵉⵔⵜ ⵏⵏⴰ ⵜⵣⵔⵉⴷ: ⵜⵙⵙⵉⵡⵍⴷ ⴷ ⵓⵎⵙⵙⴰⵔ ⵏⵏⴽ ⵙ ⵉⵎⵙⵙⵏ ⵉⵎⴰⵍⴰⵙⵙ ⵏ ⵉⵎⵉⵔⵏ, ⵎⴰⵛⴰ ⵎⵉ ⵜⵏⵎⵎⵓⵜ ⵙ ⵓⵎⵏⴰⵡ, ⵓⵔ ⵜⴼⴽⵉⵎ ⵎⴰ ⴰⴷ ⵜⵙⵙⵉⵡⵍⵎ.
+
+ⵏⵙⵙⵉⵡⵍ ⴷ ⵉⵎⵙⵙⴰⵔⵏ ⵏⵏⵖ ⴳ ⵜⵎⵙⵙⵉⵔⵜ ⵙ ⵉⵎⵙⵙⵏ. ⵏⵙⵙⵉⵡⵍ ⴷⴰⵔⵙⵏ ⵅⴼ ⵎⴰ ⵉⵙⵙⵏ ⵓⵙⵙⴰⵏ ⵏⵏⵖ, ⵅⴼ ⵉⵎⵉⴽⵏ ⵏⵏⵖ ⴷ ⵎⴰ ⵏⵙⵙⵏ, ⵎⴰⵛⴰ ⵎⵉ ⵜⵏⵎⵎⵓⵜ ⴷ ⵉⵎⵉⵔⵏ, ⵉⵣⵎⵔ ⴰⴷ ⵏⵎⵎⵔ ⵢⴰⵏ ⵡⴰⵢⵢⴰ.
+
+ⵉⵙ ⵏⵙⵙⵏ ⵉⵎⵏⴰⵡ ⵙ ⵉⵎⵙⵙⵏ ⵓⴳⴳⴰⵔ ⵏ ⵓⵎⵏⴰⵡ? ⵏⵉⵖ ⵉⵙ ⵉⵎⵏⴰⵡ ⵙ ⵓⵎⵏⴰⵡ ⵉⵣⵔⵉ ⴰⴷ ⵉⵍⵉ ⵙ ⵓⵙⵙⵉⵔ? ⵉⵙ ⵉⵎⵙⵙⵏ ⵏ ⵓⵎⵙⴰⵡⴰⴹ ⵣⵎⵔⵏ ⴰⴷ ⵙⵙⵏⵓⵎⵎⵔⵏ ⵔⵔⵀⴰⴱ ⵏ ⵓⵎⵙⴰⵡⴰⴹ ⵏ ⵉⵎⵥⵥⵉⵢⵏ, ⵎⵉ ⵏⵙⵙⵏ ⵙ ⵓⵙⵔⵉⵙ ⵙ ⵓⵎⵙⵙⵏ ⵏ ⵏⵏⵉⵖ ⵙ ⵓⵎⵏⴰⵡ?
+
+ⵜⵎⵙⵙⴰ ⵜⵎⵙⴰⵡⴰⴹⵜ ⴰⵢⴰ ⴳ ⵓⵎⵙⴰⵡⴰⴹ ⵏ ⵙⵙⴱⵜ ⵙ ⵓⵎⵏⴰⵡ ⵏ ⵙⴱⵕ ⴳ ⵓⵏⴰⵡ ⵏ ASGDAM. ⵉⵙⵙⵓⵙⵎ ⵓⵙⵙⵉⵔ ⵏ ⵓⵎⵙⴰⵡⴰⴹ ⵅⴼ ⵢⴰⵏ ⵓⵎⴰⵢⵏ ⵏⵏⴰ ⵏⵙⵙⵏ ⴳ ⵜⵎⵙⵙⵉⵔⵜ ⵏⵏⵖ, ⵎⴰⵔⵔⴰ ⵉⵣⵎⵔ ⴰⴷ ⵏⵙⵙⵏ ⵉⵎⴰⵏ ⵏⵏⵖ ⵉⵎⵉⵔⵏ:
+
+**ⵉⵙ ⵏⵙⵙⵏ ⵉⵎⵏⴰⵡ ⵙ ⵉⵎⵙⵙⵏ ⵓⴳⴳⴰⵔ ⵏ ⵓⵎⵏⴰⵡ? ⵎⴰⵢ ⵅⴼ ⵔⵔⵀⴰⴱ ⵏ ⵓⵎⵙⴰⵡⴰⴹ ⵉⵙⵙⵏⵓⵎⵎⵔ ⴳⵔ ⵉⵎⵥⵥⵉⵢⵏ ⵎⵉ ⵏⵙⵙⵏ ⵉⵎⵙⵙⵏ ⵓⴳⴳⴰⵔ ⵏ ⵓⵎⵏⴰⵡ?**
+
+ⴰ ⴰⵎⵙⵙⵉⵔ ⴰⵎⵣⵡⴰⵔ, ⴰ ⵜⴰⵎⵙⵙⵉⵔⵜ ⵜⴰⵎⵣⵡⴰⵔⵜ, ⴷⴰ ⵜⵙⵙⵏⴷ ⴳ ⵓⵎⴰⵙⵙ ⵉⵎⵥⵥⵉⵢⵏ ⵏⵏⴰ ⵉⵎⵎⵓⵔⵙⵏ ⴰⴷ ⵙⵙⵏⵖⵏ ⴰⵎⵢⴰⵡⴰⴹ ⵏⵏⵙⵏ ⵙ ⵜⵉⵔⴰ ⵏ ⵉⵎⵉⵔⵏ ⴷ ⵉⵎⴰⵙⵙⵏ.
+
+**ⵉⵙ ⵙⵙⵏⵓⵎⵎⵔⵏ ⵉⵎⵙⵙⵏ ⵏ ⵓⵎⵙⴰⵡⴰⴹ ⵔⵔⵀⴰⴱ ⵏ ⵓⵎⵙⴰⵡⴰⴹ, ⵏⵉⵖ ⵉⵙ ⵜⵉⵏⴰⵡⵜ ⵜⵙⵙⵏ ⵓⴳⴳⴰⵔ ⵏ ⵎⴰⵢ ⵏⵔⴰ ⴰⴷ ⵏⵙⵙⵏ?**
+
+ⵉⵙⵙⵏⵓⵎⵎⵔ ⵓⵎⵙⴰⵡⴰⴹ ⵙ ⵓⵙⵇⵙⵉ ⵉⵙⵙⵉⵔ, ⵎⴰⵛⴰ ⵉⵙⵙⵏⵏ ⵉⵎⵏⴰⵡ ⵏ ⵉⵎⵣⵣⵉⵢⵏ:
+
+**ⵎⴰ ⵜⵔⵉⴷ ⴰⴷ ⵜⵙⵙⵉⵡⵍⴷ ⵙ ⵉⵎⵙⵙⵏ ⵏⵉⵖ ⵙ ⵓⵎⵏⴰⵡ?**
+
+ⵢⴰⵏⵏ ⵏⵏⴰ ⵔⴰⵏ ⵉⵎⵏⴰⵡ ⵙ ⵓⵎⵏⴰⵡ ⵏⵏⴰ ⵉⵙⵙⵏ ⴰⴷ ⵉⵏⵉ ⵉⵎⵏⴰⵡ ⵏ ⵓⵎⴷⴰⵏ, ⵜⵉⵔⵉⵔⴰ ⵏ ⵓⵎⴷⴰⵏ, ⴷ ⵓⵎⵢⴰⵡⴰⴹ ⴷⴰⵔⵙ ⵙ ⵓⵙⵙⵉⵔ. ⵢⴰⵏⵏ ⵏⵏⴰ ⵔⴰⵏ ⵎⴰⵛⴰ ⵓⵔ ⵔⴰⵏ ⴰⴷ ⵙⵙⵏⵖⵏ ⵢⴰⵏ ⵙ ⵓⴼⵓⵙ ⵏ ⵢⴰⵏ ⵡⴰⵢⵢⴰ, ⵎⴰⵛⴰ ⵙ ⵜⵉⵔⵉⵔⴰ ⵏ ⵜⵏⴰⵡⵜ ⵙⵙⵏⴰⵜ ⵙ ⵎⴰⵏ ⵉⵙ ⵉⵍⵍⴰ ⵓⵙⵙⵉⵔ ⵏ ⵉⵎⵙⵙⵏ.
+
+ⵎⴰⵛⴰ ⵜⴰⵎⵙⵙⵉⵔⵜ ⵜⴰⵎⵏⴰⵡⵜ ⵜⴳⴰ: **ⵉⵙ ⵉⵎⴷⴰⵏ ⵏⵏⴰ ⵙⵙⵏⴰⵏ ⵙ ⵓⵙⵔⵉⵙ ⵙ ⵉⵎⵙⵙⵏ ⵔⵔⵀⴰⴱ ⵏ ⵓⵎⵙⴰⵡⴰⴹ?**
+
+ⴷⴰ ⵏⵔⵏⵓ ⵉ ⵢⴰⵜ ⵜⵏⴰⵡⵜ ⵜⵉⵙⵙ ⵏ ⵓⵎⵙⴰⵡⴰⴹ. ⵢⴰⵏ ⵓⵎⵣⵣⵉⵢ ⵉⵙⵙⵏⴽⵔ ⵉⵎⵉⵔⵏ ⵏ ⴽⵓⵔⵓⵏⴰ, ⵎⵉ ⵙⵙⵏⵓⵎⵎⵔⵏ ⵉⵎⵙⵙⴰⵔⵏ, ⵜⵔⵙ ⵜⵎⵙⵙⵉⵔⵜ ⵜⴰⵎⵣⵡⴰⵔⵜ ⵏ ⵓⵙⵙⵏⴰⵡ ⴷ ⵓⵙⵙⵏⴰⵡ ⵏ ⵓⵎⵙⴰⵡⴰⴹ.
+
+ⵉⵎⵥⵥⵉⵢⵏ ⵏ ⵓⵎⵉⵔ ⵏⵏⵖ ⵍⵍⴰⵏ ⵉⵎⵣⵣⵉⵢⵏ ⵏⵉⵖ ⵉⵎⵣⵡⴰⵔⵏ. ⵎⵉ ⵜⵙⵙⵏⵓⵎⵎⵔ ⵜⵎⵙⵙⵉⵔⵜ, ⵉⵙⵙⵓⵙⵎ ⵓⵎⵙⵙⴰⵔ ⴳ ⵓⵎⵙⵙⵏ ⵏ ⵓⵎⴰⵙⵙ. ⵎⵉ ⵙⵙⵏⵓⵎⵎⵔ ⵏⵙⵙⵉⵡⵍ ⵙ ⵉⵎⵙⵙⵏ, ⵙ ⵉⵎⵏⴰⵡ, ⴷ ⵙ ⵓⵎⵙⴰⵡⴰⴹ ⵙ ⵓⵎⵏⴰⵡ.
+
+ⵉⵣⵎⵔ ⵓⵎⵙⵙⵏ ⴰⴷ ⵉⴳ ⴰⵎⵎⴰ ⵏ ⵜⵎⵙⵙⵉⵔⵜ ⵏⵏⵖ. ⵉⵎⵉⵔⵏ ⵏⵙⵙⵏ ⵉⵎⵙⵙⵏ, ⵏⵙⵙⵉⵡⵍ, ⵏⵔⴰ ⴰⴷ ⵏⵙⵙⵏ ⵎⴰⵢ ⵉⵙⵙⵓⵙⵎ ⵉⵎⵉⵔⵏ. ⵎⴰⵛⴰ ⵉⵎⵉⵔⵏ ⵏⵙⵙⵏ ⵙ ⵓⵙⵙⵏ ⵏ ⵓⵎⵏⴰⵡ ⴷ ⵓⵎⵙⵙⵏ ⵙ ⵓⵙⵔⵉⵙ.
+
+ⵉⵣⵎⵔ ⵓⵙⵏⴰⵡ ⴰⵢⴰ ⴰⴷ ⵉⵙⵙⵓⵙⵎ ⵉ ⵢⴰⵏⵏ ⵉⵎⵥⵥⵉⵢⵏ, ⵅⵙⵙⴰ ⵉⵎⵉⵔ ⵏ ⵜⵎⵥⵥⵉⵢⵜ ⴷ ⵜⵎⵣⵡⴰⵔⵜ ⵏ ⵓⵎⵙⵙⵏ ⵏ ⵓⵎⵏⴰⵡ. ⵎⴰⵛⴰ ⵉⵙ ⵣⵎⵔ ⵓⵙⵙⵏ ⵙ ⵉⵎⵙⵙⵏ ⴰⴷ ⵉⵙⵙⵓⵙⵎ ⵉ ⵓⵎⵏⴰⵡ ⵏ ⵓⵎⴷⴰⵏ?
+
+ⵎⴰⵛⴰ ⵉⵍⵍⴰ ⵢⴰⵏ ⵓⵙⵏⴰⵡ ⵏⵏⵉⴹ. ⵔⵔⵀⴰⴱ ⵏ ⵓⵎⵙⴰⵡⴰⴹ ⵓⵔ ⵉⴳⵉ ⴰⵙⵙ ⵏ ⵉⵎⵙⵙⵏ. ⵉⵍⵍⴰ ⵣⵔⵉⵏ ⵏ ⵉⵎⵉⵔⵏ ⵏ ⵉⵎⵙⵙⵏ ⵏ ⵓⵎⵙⴰⵡⴰⴹ. ⵉⵎⵉⵔⵏ ⵏⵙⵙⵏ ⵉⵙⵙⵏ ⵓⴳⴳⴰⵔ ⵙ ⵓⵎⵙⵙⵏ ⵏ ⵓⵎⵙⴰⵡⴰⴹ.
+
+ⵓⵔ ⵍⵍⵉⵏ ⵉⵎⵙⵙⵏ ⵏ ⵔⵔⵀⴰⴱ ⴰⴷ ⵎⵎⵙⴰⵡⴰⵏ ⵎⴰⵏ ⵎⴰⵏ. ⵉⵣⵎⵔ ⴰⴷ ⵉⵍⵉ ⵓⵙⵙⵉⵔ ⵙ ⵓⵙⵙⵏ ⵏ ⵜⵎⵥⵥⵉⵢⵜ, ⵏⵉⵖ ⵙ ⵓⵙⵙⵏ ⵏ ⵓⵙⵙⵉⵔ, ⵏⵉⵖ ⵙ ⵓⵙⵙⵉⵔ ⵏ ⵉⵎⴷⴰⵏ.
+
+ⵉⵣⵎⵔ ⵓⵎⴷⴰⵏ ⴰⴷ ⵉⵍⵉ ⵙ ⵓⵙⵙⵏ ⵏ ⵓⵎⵏⴰⵡ ⵙ ⵉⵎⵙⵙⵏ, ⵎⴰⵛⴰ ⵓⵔ ⵉⵙⵙⵏ ⵉⵎⵏⴰⵡ ⵏ ⵓⵎⴷⴰⵏ ⵙ ⵓⵎⴰⵔⴰ.
+
+ⵉⵣⵎⵔ ⴰⴷ ⵉⵙⵙⵏ ⵢⴰⵜ ⵜⵉⵔⴰ ⵙ ⵉⵎⵙⵙⵏ, ⴰⴷ ⵜⵜⵏⴽⵔ, ⴰⴷ ⵜⵜⵙⵙⵏⴼⵍ, ⴷ ⴰⴷ ⵜⵜⵙⵙⵏⵓⵎⵎⵔ ⵙ ⵉⵎⵉⵔ ⵏ ⵓⵙⵙⵉⵔ.
+
+ⵙ ⵜⵎⵔⵙⴰ, ⵉⵣⵎⵔ ⵓⵙⵙⵏ ⵏ ⵓⵎⵙⵙⵏ ⴰⴷ ⵉⴳ ⴰⵎⵎⴰ ⵏ ⵓⵙⵔⵉⵙ. ⵎⴽ ⵉⵙⵙⵏ ⵓⵎⴷⴰⵏ ⵓⴳⴳⴰⵔ ⵙ ⵓⵎⵏⴰⵡ ⵏ ⵉⵎⵙⵙⵏ, ⵉⵣⵎⵔ ⵓⵎⵏⴰⵡ ⵙ ⵓⵎⴰⵙⵙ ⴰⴷ ⵉⴳ ⵉⵙⵙⵉⵔ ⵓⴳⴳⴰⵔ.
+
+ⵎⴰⵛⴰ ⵓⵎⴷⴰⵏ ⵏⵏⴰ ⵓⵔ ⵉⵍⵉ ⵙ ⵔⵔⵀⴰⴱ ⵏ ⵓⵎⵙⴰⵡⴰⴹ ⵣⵔⵉⵏ, ⵎⴰⵛⴰ ⵉⵙⵙⵏ ⵉⵎⵙⵙⵏ ⵓⴳⴳⴰⵔ ⵏ ⵓⵎⵏⴰⵡ, ⵓⵔ ⵉⵙⵙⵉ ⵎⴰⵙ ⵉⵍⵍⴰ ⵙ ⵓⵙⵙⵏ ⵏ ⵓⵙⵔⵉⵙ. ⵉⵣⵎⵔ ⵉⵎⵉⵔ ⵏ ⵓⵎⵏⴰⵡ ⴰⴷ ⵉⴳ ⵙ ⵓⵙⵙⵏ ⵏ ⵓⵙⵔⵉⵙ ⵙ ⵓⵎⵏⴰⵡ.
+
+ⵎⴰⵛⴰ ⵏⵅⵙⵙ ⴰⴷ ⵏⵙⵙⵏ ⵙ ⵡⴰⵏⴰ ⵙ ⵔⵔⵀⴰⴱ ⵏ ⵓⵎⵙⴰⵡⴰⴹ ⴷ ⵜⵎⵥⵥⵉⵢⵜ, ⴷ ⵓⵙⵙⵉⵔ ⵏ ⵓⵎⵙⴰⵡⴰⴹ ⵏⵉⵖ ⵓⵔ ⵏⵙⵙⵏ ⴰⴷ ⵏⵎⵎⵔ.
+
+ⵎⴰⵛⴰ ⴳ ⵡⴰⵙⵙ ⵏ ⵜⵎⵔⵙⴰ, ⵉⵣⵎⵔ ⵢⴰⵏ ⴰⴷ ⵉⵏⵉ:
+
+**«ⵏⵍⵍⴰ ⴳ ⵡⴰⵙⵙ ⵏ ⵜⵉⴽⵏⵓⵍⵓⵊⵉⵢⴰ! ⵉⵙ ⵉⵙⵙⵏ ⴰⴷ ⵏⵙⵙⵉⵡⵍ ⴷ ⵉⵎⵙⵙⴰⵔⵏ ⴷ ⵉⵎⴰⵔⴰ ⵙ ⵉⵎⵙⵙⵏ, ⵎⴰⵎⴽ ⵉⵣⵎⵔ ⴰⴷ ⵜⵏⴼⴽ ⵉⵎⵙⵙⵏ?»**
+
+ⵜⵉⵔⵉⵔⴰ ⵜⴳⴰ: **ⵓⵔ ⵜⵙⵙⵉⵔⵉⴷ ⴰⴷ ⵜⵊⵊⴷ ⵉⵎⵙⵙⵏ, ⵎⴰⵛⴰ ⵙⵙⵏ ⴰⴷ ⵜⵙⵙⵉⵔⵉⴷ ⵜⵉⵎⵙⵉⵔⵜ.**
+
+ⵓⵔ ⵜⴳⵉ ⵜⵎⴰⵔⴰ ⴳ ⵓⵙⵙⵏ ⵏ ⵉⵎⵙⵙⵏ, ⵏⵉⵖ ⴳ ⵓⵙⵙⵏ ⵏ ⵓⵎⵏⴰⵡ, ⵏⵉⵖ ⴳ ⵓⵙⵙⵏ ⵏ ⵉⵎⵙⵙⴰⵔⵏ. ⵜⵎⵔⵙⴰ ⵜⴱⴷⴰ ⵎⵉ ⵉⵍⵍⴰ ⵓⵏⵣⵡⵉ ⵏ ⵓⵎⵙⵙⵏ ⴰⵎⵎⴰ ⵏ ⵡⴰⵎⵓⵏ ⵏⵏⴽ.
+
+ⵓⵔ ⵉⵙⵙⵏ ⴰⴷ ⵜⴷⵔⵉⴷ ⵙ ⵓⵎⵙⵙⵏ ⵙ ⵓⵙⵙⴰⵏ ⴽⵓⵍⵍⵓ, ⵎⴰⵛⴰ ⵓⵔ ⵜⵙⵙⵏⴷ ⴰⴷ ⵜⵙⵙⵏⴷ ⴷ ⵉⵎⴰⵔⴰ, ⴷ ⵉⵎⵙⵙⴰⵔⵏ ⵏⵏⴽ, ⵏⵉⵖ ⴰⴷ ⵜⵙⵙⵏⴷ ⴰⴷ ⵜⵔⵣⵣⵓⴷ ⵙ ⵓⵙⵔⵉⵙ.
+
+ⵙⵙⵏ ⵜⵉⴽⵏⵓⵍⵓⵊⵉⵢⴰ, ⵎⴰⵛⴰ ⵓⵔ ⵜⵜⵊⵊⴰ ⴰⴷ ⵜⵙⵙⵏ ⵜⵎⵔⵙⴰ ⵏⵏⴽ.
+
+ⵙⵙⵉⵡⵍ ⴷ ⵉⵎⴰⵔⴰ ⵙ ⵓⵎⵏⴰⵡ. ⵔⴰⵔ ⵉ ⵉⵎⵙⵙⵏ ⵏ ⵉⵎⵙⵙⴰⵔⵏ ⵏⵏⴽ. ⴼⴼⵖ ⵙⴳ ⵜⴷⴷⴰⵔⵜ, ⵅⵙ ⴽⴰ ⴰⴷ ⵜⵔⵣⵣⵓⴷ ⵉⵎⵉⴽ. ⵇⵇⵉⵎ ⴳ ⵢⴰⵏ ⵓⵎⴽⴰⵏ ⴰⵎⵏⴰⵡ, ⵙⵙⵉⵡⵍ ⴷ ⵉⵎⴷⴰⵏ, ⵙⵙⵏ ⵉⵎⵉⵔⵏ ⵏⵏⴰ ⵓⵔ ⵜⵙⵙⵉⵔⵉⵏ ⵉⵎⵙⵙⵏ.
+
+ⵎⴽ ⵜⵙⵙⵏⴷ ⵙ ⵓⵙⵙⵉⵔ ⵏ ⵓⵎⵏⴰⵡ, ⵓⵔ ⵜⵜⵊⵊⴰ ⴰⴷ ⵉⴳ ⵓⵎⵙⵙⵏ ⵜⵉⵔⵉⵔⴰ ⵏⵏⴽ ⵙ ⵜⵉⵔⴰ. ⵔⵏⵓ ⴰⴷ ⵜⵙⵙⵏⴷ ⵙ ⵓⵙⵔⵉⵙ, ⵙ ⵜⵉⵔⴰ ⴷ ⵜⵉⵔⴰ, ⵎⴰⵛⴰ ⵓⵔ ⵜⵜⵊⵊⴰ ⴰⴷ ⵉⵙⵙⵏ ⵓⵎⵏⴰⵡ ⵙ ⵓⵙⵙⵉⵔ.
+
+ⵙ ⵜⴰⴳⴳⴰⵔⴰ, ⵙⵙⵏ ⵎⴰⵙ ⴰⵎⵙⴰⵡⴰⴹ ⴷ ⵉⵎⴷⴰⵏ ⵓⵔ ⵉⴳⵉ ⴽⴰ ⵜⵉⵔⴰ ⵏ ⵜⵎⵙⵙⵉⵔⵜ. ⵉⵙⵙⵏ ⵉ ⵜⵎⵙⵙⵉⵔⵜ ⴷ ⵜⵎⵙⵙⵉⵔⵜ ⵏ ⵓⵙⵙⵏ, ⵜⵉⵔⴰ, ⴷ ⵜⵎⵔⵙⴰ. ⵜⴰⵎⵙⵙⵉⵔⵜ ⵏ ⵓⵙⵙⵉⵔ, ⴰⵙⵏⴰⵡ ⵙ ⵢⴰⵜ ⵜⵎⵔⵙⴰ, ⴰⵎⵙⴰⵡⴰⴹ, ⵏⵉⵖ ⴰⵙⵙⵏ ⵏ ⵢⴰⵏ ⵓⵎⴷⴰⵏ ⴰⵎⵢⴰⵡⴰⴹ, ⴽⵓⵍⵍⵓ ⵔⴰⵏ ⴰⴷ ⵜⵙⵙⵏⴷ ⴰⴷ ⵜⵙⵙⵉⵡⵍⴷ ⵙ ⵓⵎⵏⴰⵡ ⵏ ⵓⵎⵙⵙⵏ.
+
+ⵓⵔ ⵏⵔⴰ ⴰⴷ ⵜⵊⵊⴷ ⵜⵉⴽⵏⵓⵍⵓⵊⵉⵢⴰ, ⵏⵉⵖ ⴰⴷ ⵜⵔⴰⵔⴷ ⵙ ⵡⴰⵙⵙ ⵏⵏⴰ ⵓⵔ ⵍⵍⵉⵏ ⵉⵎⵙⵙⵏ.
+
+**ⵙⵙⵏ ⵉⵎⵉⵔ ⵏⵏⴽ, ⵙⵙⵏ ⵜⵉⴽⵏⵓⵍⵓⵊⵉⵢⴰ ⵉ ⵎⴰ ⵉⵙⵙⵓⵙⵎ, ⵎⴰⵛⴰ ⵓⵔ ⵜⵜⵊⵊⴰ ⴰⴷ ⵜⵙⵙⵏ ⵜⵎⵔⵙⴰ ⵏⵏⴽ.**
+
+ⵙⵙⵉⵔ ⴳⵔ ⵜⵎⵔⵙⴰ ⵏ ⵉⵎⵙⵙⵏ ⴷ ⵜⵎⵔⵙⴰ ⵏ ⵓⵎⴰⵙⵙ.
+
+ⵓⵔ ⵜⵙⵙⵉⵔⵉⴷ ⵙ ⵉⵎⵔⵙⴰ ⵏ ⵓⵎⵏⴰⵡ. ⵉⵣⵎⵔ ⴰⴷ ⵜⵙⵙⵉⵡⵍⴷ ⵙ ⵓⵎⵏⴰⵡ, ⵉⵣⵎⵔ ⴰⴷ ⵜⵔⴰⵔⴷ ⵙ ⵓⵎⵏⴰⵡ, ⵉⵣⵎⵔ ⴰⴷ ⵜⵙⵙⵉⵡⵍⴷ ⵎⴰⵢ ⵓⵔ ⵜⵔⵉⴷ, ⵎⴰⵛⴰ ⴰⵢⴰ ⵉⵍⵍⴰ ⵙ ⵓⵎⵏⴰⵡ.
+
+ⵓⵔ ⵜⴳⵉⴷ ⴰⵎⴷⴰⵏ ⵙ ⵜⵉⵔⴰ ⵏ ⵜⵎⵙⵙⵉⵔⵜ ⵏⵏⴽ ⵉ ⴽⵓⵍⵍⵓ. ⵉⵎⵉⵔⵏ, ⵎⴰ ⵜⵙⵙⵏⴷ ⴰⴷ ⵜⵙⵙⵉⵡⵍⴷ ⴷ ⵓⵎⴷⴰⵏ ⵏⵏⴰ ⵉⵍⵍⴰ ⵣⵉ ⴷⴰⵔⵔⴰ ⵏⵏⴽ, ⵉⵏⵉ ⴰⵙ: **«ⴰⵣⵓⵍ, ⵎⴰⵎⴽ ⵜⵍⵍⵉⴷ?»**
+
+---
+
+### ⴰⵙⵏⴰⵡ ⴷ ⵓⵙⵙⵏ ⵏ ⵓⵎⵙⴰⵡⴰⴹ
+
+**ⵅⴰⴷⵉⵊⴰ ⴰⵣⵍⴰⵏⵉ**
+
+### ⵉⵎⵙⴰⵡⴰⴹⵏ ⵏ ⵓⵎⵙⴰⵡⴰⴹ
+
+Nourelhouda Elkhoullo
+Asmaa Khallouf
+Salma Seglaoui
+Hiba Arkou
+Khadija Azlani
+Rodayna Ouaich
+Haytam Errahel`,
+
+  contentEn: `You may have asked yourself: Why do I feel as if I have social anxiety, even though I was not like this years ago, before entering the world of social media and becoming deeply involved in it?
+
+Over time, we have started talking through messages more than we talk in real life. Perhaps you have experienced that strange moment when you can spend twenty-four hours talking to a friend through messages, but as soon as you meet face-to-face, you suddenly have nothing to talk about.
+
+We have friends at school whom we constantly talk to through messages. We share details about our day, our thoughts, and our experiences, but when we meet them in real life, we may end up ignoring each other.
+
+So, have we become more comfortable talking to people through messages, or has face-to-face communication simply become more difficult for us? Could social media have contributed, in one way or another, to increasing social anxiety among young people because we have become used to communicating behind screens instead of facing reality?
+
+This topic was explored during a discussion held on Saturday, September 5, among members of ASGDAM. The discussion focused on something we have often noticed in our society, and perhaps something we experience ourselves without even realizing it:
+
+**Do we feel more comfortable talking to people through messages or face-to-face? And why is social anxiety increasing among young people as we increasingly rely on messages instead of facing reality?**
+
+Dear reader, in this article you will find people who may be just like you: young people trying to analyze this issue through their experiences and perspectives, while answering a question that many of us have asked ourselves:
+
+**Have social media actually increased social anxiety, or is the situation more complicated than that?**
+
+The discussion began with a simple question that opened the door to many different opinions:
+
+**Do you prefer talking through messages or face-to-face?**
+
+The answers were divided. Some participants believed that face-to-face communication is better because it allows us to observe a person's movements, body language, and reactions, making the interaction feel more realistic. Others believed that it is not about choosing one over the other, but rather understanding that they are two different forms of communication, each with its own place in our lives.
+
+But the more important question was: **Do people who feel more comfortable communicating through messages actually suffer from social anxiety?**
+
+The discussion then moved to a more complicated point. One of the members reminded us of the period of the COVID-19 pandemic, when schools were closed, normal life stopped, and we entered lockdown. Most of our generation were children or teenagers at that time, meaning that we were going through a very sensitive period of growth and personality development.
+
+Suddenly, communication that normally happened at school, in the streets, among friends, and with family started happening behind a phone screen. We became accustomed to messages, calls, and virtual communication, and the digital world became an essential part of our daily lives.
+
+This change may have affected some young people, especially because childhood and adolescence are important stages during which people develop their personalities and social skills. Could heavy dependence on virtual communication during this period have made facing reality more difficult for some people?
+
+However, other opinions during the discussion took us in a completely different direction.
+
+Social anxiety is not a disorder that appeared recently because of social media. It existed before smartphones and social platforms appeared, although the term may not have been as widely known or discussed as it is today.
+
+The causes of social anxiety are also not necessarily the same for everyone. They can be connected to experiences a person has gone through during their life, such as childhood bullying, social rejection, being embarrassed in front of others, or repeated negative experiences that made them afraid of people's opinions and judgments.
+
+There can also be other factors related to genetics, natural predispositions, or traumatic experiences that affect the way a person interacts with others.
+
+And this is where the real question began to emerge:
+
+**If social anxiety existed before social media, can we really say that social media caused it?**
+
+Perhaps the answer is not simply “yes” or “no.”
+
+Social media may not be the direct cause of social anxiety, but for some people, it can become a way of avoiding real-life interaction. A person may already experience a certain level of fear or difficulty communicating, and instead of gradually facing that fear, they may find messaging to be an easier and more comfortable solution.
+
+They communicate with people, but from behind a screen.
+
+They express their thoughts, but without facing other people's eyes.
+
+They can write a message, delete it, rewrite it, and edit it before sending it.
+
+Over time, this can become a habit. The more someone becomes accustomed to virtual communication, the less familiar direct communication may feel, and they may experience more stress when they are required to speak face-to-face.
+
+On the other hand, someone who did not originally have social anxiety but became highly dependent on messaging and digital communication does not necessarily have a psychological disorder. Perhaps they simply have less practice with direct communication, which makes face-to-face conversations feel more difficult than they used to.
+
+This is why we should distinguish between **social anxiety** and simply being shy, having difficulty communicating, or being unaccustomed to face-to-face interaction.
+
+But someone might ask:
+
+**“We live in the age of technology! It is normal to talk to my friends and family through messages, so how can I avoid it?”**
+
+The answer is simple: **You do not need to avoid social media. You need balance.**
+
+The problem is not sending a message to a friend, talking to someone on the phone, or using social media. The problem begins when the virtual world becomes your only world.
+
+It is not healthy to spend twenty-four hours in front of your phone, talking to someone through messages, while having no time to go outside, sit with your family, meet your friends, or even take a walk in a nearby park.
+
+Use technology, but do not let it live your life for you.
+
+Talk to your family face-to-face. Reply to your friends' messages. Leave the house, even if it is just for a short walk. Sit somewhere public, talk to people, and experience moments that do not require a screen in front of you.
+
+And if you genuinely feel afraid of facing people, do not let your phone become a permanent way of escaping that feeling. Try to face it gradually, step by step, because constantly avoiding social situations can make them feel even more difficult over time.
+
+In the end, remember that the ability to communicate with others is not only something we need in our social lives. It is also an important skill for education, work, and life in general. A job interview, a presentation in front of a group, a discussion, or even meeting someone new—all of these situations require you to be able to express yourself outside the screen of your phone.
+
+Therefore, dear reader, we do not want you to abandon technology or return to a time when social media did not exist.
+
+**Keep up with your time and use technology for what benefits you, but do not let it make you forget your real life.**
+
+Find a balance between your digital life and your real life.
+
+And do not be afraid of embarrassing situations. You may stumble over your words, fail to find the right words, or say something and regret it a few seconds later—and that is normal.
+
+You are not artificial intelligence.
+
+**Your answers do not have to be perfect, and not all of your communication needs to happen behind a screen. Sometimes, all you need to do is lift your head from your phone, look at the person in front of you, and say: “Assalamu Alaikum, how are you?”**
+
+---
+
+### Article prepared and produced by
+
+**Khadija Azlani**
+
+### Discussion participants
+
+Nourelhouda Elkhoullo
+Asmaa Khallouf
+Salma Seglaoui
+Hiba Arkou
+Khadija Azlani
+Rodayna Ouaich
+Haytam Errahel`
 }
 ];
 
