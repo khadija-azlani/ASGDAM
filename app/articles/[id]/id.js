@@ -13331,9 +13331,9 @@ These are only some of the ideas and proposals raised during the discussion. The
 - Maryam Berrady
 `
 },
-  {
-  id: '14',
-  date: 'September 4, 2026',
+ {
+  id: '15',
+  date: 'September 8, 2026',
 
   category: {
     ar: 'رؤى الشباب',
@@ -13342,9 +13342,9 @@ These are only some of the ideas and proposals raised during the discussion. The
   },
 
   title: {
-    ar: 'نقاش الشباب: هل وسائل التواصل الاجتماعي تزيد من الرهاب الاجتماعي؟',
-    tzm: 'ⴰⵎⵙⴰⵡⴰⴹ ⵏ ⵉⵎⵥⵥⵉⵢⵏ: ⵉⵙ ⵉⵎⵙⵙⵏ ⵏ ⵓⵎⵙⴰⵡⴰⴹ ⵙⵙⵏⵓⵎⵎⵔⵏ ⵔⵔⵀⴰⴱ ⵏ ⵓⵎⵙⴰⵡⴰⴹ?',
-    en: 'Youth Discussion: Do Social Media Increase Social Anxiety?'
+    ar: 'هل أصبحت الرسائل أسهل من المواجهة؟',
+    tzm: 'ⵉⵙ ⵜⵓⵙⵙⴰ ⵜⵎⵙⵙⵉⵔⵜ ⵙ ⵉⵎⵙⵙⵏ ⵙ ⵓⵎⵏⴰⵡ?',
+    en: 'Have Messages Become Easier Than Face-to-Face Communication?'
   },
 
   contentAr: `ربما تتساءل مع نفسك: لماذا أشعر وكأنني أعاني من رهاب اجتماعي، رغم أنني لم أكن كذلك قبل سنوات، قبل دخولي إلى عالم وسائل التواصل الاجتماعي والغوص فيه؟
