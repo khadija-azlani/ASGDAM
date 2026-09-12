@@ -13644,6 +13644,458 @@ Hiba Arkou
 Khadija Azlani
 Rodayna Ouaich
 Haytam Errahel`
+},
+  {
+  id: '16',
+  date: 'September 12, 2026',
+
+  category: {
+    ar: 'رؤى الشباب',
+    tzm: 'ⵉⵏⵥⴰⵕⵏ ⵏ ⵉⵎⵥⵥⵉⵢⵏ',
+    en: 'Youth Perspectives'
+  },
+
+  title: {
+    ar: 'السياسة كما يراها الشباب: بين الفكرة والمشاركة والمسؤولية',
+    tzm: 'ⵜⴰⵙⵔⵜ ⵙ ⵡⴰⵢⴷ ⵉⵜⵜⵡⴰⵍⴰⵏ ⵉⵎⵥⵥⵉⵢⵏ: ⴳⵔ ⵜⵉⵏⵎⵍⵜ ⴷ ⵓⵛⴰⵔⴰⴽ ⴷ ⵜⵎⵙⵙⵉⵔⵜ',
+    en: 'Politics Through the Eyes of Young People: Between Ideas, Participation, and Responsibility'
+  },
+
+  contentAr: `
+# السياسة كما يراها الشباب: بين الفكرة والمشاركة والمسؤولية
+
+**السياسة...**
+
+كلمة قد تبدو في البداية بعيدة عن حياتنا اليومية، أو معقدة وصعبة الفهم. لكن ماذا لو كانت السياسة أقرب إلينا مما نعتقد؟
+
+فهي ترتبط، في جانب أساسي منها، بكيفية تنظيم المجتمع، واتخاذ القرارات، وتدبير القضايا التي تمس حياة المواطنين والمواطنات.
+
+وانطلاقاً من الرغبة في فهم بعض المفاهيم المرتبطة بالحياة العامة، فتحنا في **ASGDAM** نقاشاً مع عدد من أعضاء النادي حول السياسة، والأحزاب السياسية، والتصويت، والمشاركة في الحياة العامة.
+
+لم يكن الهدف الوصول إلى رأي واحد، ولا تقديم موقف سياسي موحد، وإنما الاستماع إلى تصورات مختلفة، والتعرف على الطريقة التي ينظر بها الشباب إلى هذه المواضيع.
+
+---
+
+## ماذا تعني لك السياسة؟
+
+بدأنا بالسؤال الأكثر بساطة واتساعاً:
+
+**ماذا تعني لك السياسة؟**
+
+جاءت الإجابات مختلفة، لكنها التقت حول فكرة أساسية: السياسة لا تقتصر على الانتخابات أو الأحزاب، بل يمكن أن ترتبط أيضاً بطريقة تنظيم المجتمع واتخاذ القرارات التي تؤثر في حياة المواطنين والمواطنات.
+
+فقد ربط أحد المشاركين السياسة بكيفية تنظيم الدولة والمجتمع، واتخاذ القرارات، وتوزيع المسؤوليات والموارد.
+
+ومن هذا المنظور، يمكن أن نجد صلة بين السياسة ومجالات متعددة مثل التعليم، والصحة، والاقتصاد، والتشغيل، والبيئة، والخدمات العمومية.
+
+كما رأى مشارك آخر أن السياسة تمثل مجالاً تتعدد فيه الآراء والمواقف، وأن الاختلاف بينها يمكن أن يكون جزءاً من النقاش العام.
+
+وهنا ظهرت فكرة مهمة:
+
+**الاختلاف في الرأي لا يعني بالضرورة غياب الحوار، بل يمكن أن يكون بداية له.**
+
+أما رأي آخر، فقد نظر إلى السياسة باعتبارها وسيلة لتدبير شؤون المجتمع واتخاذ القرارات المرتبطة بالحياة اليومية.
+
+وبذلك، ورغم اختلاف التعريفات، ظهرت صورة مشتركة: السياسة ليست موضوعاً بعيداً عن المواطن والمواطنة، بل يمكن أن ترتبط بالحاضر، وبالمستقبل، وبالقضايا التي تهم المجتمع.
+
+---
+
+## ماذا تعني لك الأحزاب السياسية؟
+
+بعد الحديث عن السياسة، انتقل النقاش إلى الأحزاب السياسية.
+
+يمكن النظر إلى الحزب السياسي، بشكل مبسط، باعتباره تنظيماً يجمع أشخاصاً يتشاركون مجموعة من الأفكار والتوجهات والبرامج، ويسعون إلى المشاركة في الحياة السياسية والعامة.
+
+وأشار المشاركون إلى عدد من الأحزاب الموجودة في المشهد السياسي المغربي، من بينها حزب الاستقلال، والتجمع الوطني للأحرار، وحزب الأصالة والمعاصرة، والاتحاد الاشتراكي للقوات الشعبية، والتقدم والاشتراكية، والعدالة والتنمية، والحركة الشعبية، إلى جانب أحزاب أخرى.
+
+ويأتي ذكر هذه الأسماء في هذا المقال في سياق تعريفي، وليس بهدف تقييم أي حزب أو دعمه أو الدعوة إلى اختياره.
+
+فمعرفة أسماء الأحزاب لا تعني بالضرورة معرفة برامجها أو توجهاتها.
+
+ومن هنا ظهر سؤال آخر:
+
+**هل يكفي أن نعرف اسم الحزب، أم أن فهم برنامجه وأفكاره أكثر أهمية؟**
+
+بالنسبة لبعض المشاركين، من المهم الاطلاع على البرامج والقضايا التي يركز عليها كل حزب، وعدم الاكتفاء بالاسم أو بالصورة العامة.
+
+وهذا يقود إلى أهمية المعرفة، والمقارنة، وطرح الأسئلة، وتكوين المواقف الشخصية على أساس الفهم.
+
+---
+
+## ماذا يعني لك التصويت؟
+
+انتقلنا بعد ذلك إلى إحدى صور المشاركة في الحياة العامة:
+
+**التصويت.**
+
+اعتبر أحد المشاركين أن التصويت وسيلة تمكن المواطن والمواطنة من المشاركة في اختيار من سيمثلهم داخل المؤسسات المنتخبة.
+
+كما أشار إلى أهمية أن يكون الاختيار الشخصي مبنياً على المعرفة والاقتناع، وليس فقط على تأثير المحيط.
+
+وفي رأي آخر، اعتُبر التصويت إحدى وسائل التعبير عن الاختيار والمشاركة في الحياة العامة.
+
+لكن بعض الآراء شددت أيضاً على أن المشاركة لا ترتبط فقط بلحظة التصويت، وإنما يمكن أن تشمل الاهتمام بالشأن العام، وفهم القضايا والبرامج، ومتابعة العمل العام، وطرح الأسئلة، والتعبير عن الرأي باحترام.
+
+وهنا ظهرت فكرة أساسية:
+
+**المشاركة الواعية تحتاج إلى المعرفة، والمعرفة تبدأ بالاهتمام وطرح الأسئلة.**
+
+---
+
+## لو تصورت مشروعاً سياسياً، ما المبادئ التي سيقوم عليها؟
+
+في هذا الجزء، طلبنا من المشاركين الانتقال من الحديث عن الواقع إلى تصور مجموعة من المبادئ التي يرون أهميتها في أي مشروع سياسي.
+
+طرح أحد المشاركين مبدأين أساسيين:
+
+**الإنسانية والوعي.**
+
+فالإنسانية، حسب هذا التصور، تعني احترام الآخرين، وقبول الاختلاف، وتشجيع الحوار.
+
+أما الوعي، فيرتبط بفهم الفرد لدوره داخل المجتمع، والقدرة على المشاركة بطريقة مسؤولة.
+
+كما ارتبطت هذه الرؤية بأهداف مثل تحسين التعليم، والاهتمام بالصحة، وتطوير البنية التحتية، ودعم المشاركة في الحياة العامة، وتحسين الظروف التي يعيش فيها المواطنون والمواطنات.
+
+وفي تصور آخر، ظهر التركيز على مجموعة من المبادئ، من بينها:
+
+**الشفافية والمحاسبة.**
+
+**احترام القانون والمؤسسات.**
+
+**العدالة وتكافؤ الفرص.**
+
+**الاستماع إلى المواطنين والمواطنات.**
+
+**دعم التعليم والصحة والتشغيل.**
+
+**إتاحة فرص أكبر للشباب للمشاركة في الحياة العامة.**
+
+**النزاهة وحسن تدبير الموارد العمومية.**
+
+**التنمية المتوازنة بين مختلف المناطق والفئات.**
+
+وتبقى هذه التصورات آراء شخصية عبّر عنها المشاركون في إطار النقاش، ولا تمثل موقفاً رسمياً أو سياسياً لـ **ASGDAM**.
+
+---
+
+## وماذا عن الشباب؟
+
+كان من الطبيعي أن نطرح سؤالاً آخر:
+
+**ما الدور الذي يمكن أن يؤديه الشباب داخل الحياة العامة؟**
+
+يرى أحد المشاركين أن الشباب يمكن أن يكون لهم دور أكبر في النقاش العام، سواء من خلال المشاركة المدنية، أو الاهتمام بالقضايا التي تهم المجتمع، أو الانخراط في الأطر والمؤسسات التي تتيح لهم التعبير والمشاركة.
+
+كما ظهرت أهمية التعليم، والشفافية، وتكافؤ الفرص، والكفاءة، واحترام القانون، والاستثمار في الشباب.
+
+ولا يعني ذلك أن الشباب يجب أن يتبنوا موقفاً سياسياً معيناً، وإنما أن تكون لديهم مساحة للتعلم، وطرح الأسئلة، والاستماع إلى وجهات نظر مختلفة، وتكوين آرائهم الخاصة.
+
+---
+
+## وفي النهاية... ماذا قالت لنا هذه الآراء؟
+
+أظهر هذا النقاش أن السياسة يمكن أن تُفهم من زوايا متعددة.
+
+بالنسبة إلى بعض المشاركين، ترتبط بالقرارات وتنظيم المجتمع.
+
+وبالنسبة إلى آخرين، ترتبط بالحوار والاختلاف والمشاركة.
+
+كما ارتبطت لدى البعض بالتعليم، والصحة، والتشغيل، والشباب، والخدمات العمومية.
+
+ولا توجد، داخل هذا النقاش، إجابة واحدة تمثل الجميع.
+
+وهذا تحديداً هو ما يجعل الحوار مهماً.
+
+فالاختلاف في الآراء يمكن أن يمنحنا فرصة لفهم زوايا أخرى، بشرط أن يتم النقاش باحترام، وأن نميز بين الرأي الشخصي والمعلومة، وأن يبقى لكل شخص حقه في تكوين موقفه الخاص.
+
+وفي النهاية، ربما لا يحتاج الشباب جميعاً إلى أن يكونوا متخصصين في السياسة، لكن من المهم أن تكون لديهم الرغبة في الفهم، والقدرة على السؤال، والاستعداد للاستماع، والوعي بدورهم داخل المجتمع.
+
+**فالمشاركة تبدأ بالاهتمام، والفهم يبدأ بالسؤال.**
+
+وربما يكون السؤال الذي يمكن أن نتركه مفتوحاً بعد هذا النقاش هو:
+
+**كيف يمكن للشباب أن يساهموا في الحياة العامة بطريقة واعية، محترمة، ومسؤولة؟**
+
+وهنا يستمر الحوار.
+
+---
+
+**إعداد وإنتاج المقال:** Khadija Z.
+
+**شارك في النقاش:**
+- Hiba Arkou
+- Aya Hassnaoui
+- Haytam Errahel
+
+`,
+
+  contentTzm: `
+# ⵜⴰⵙⵔⵜ ⵙ ⵡⴰⵢⴷ ⵉⵜⵜⵡⴰⵍⴰⵏ ⵉⵎⵥⵥⵉⵢⵏ: ⴳⵔ ⵜⵉⵏⵎⵍⵜ ⴷ ⵓⵛⴰⵔⴰⴽ ⴷ ⵜⵎⵙⵙⵉⵔⵜ
+
+**ⵜⴰⵙⵔⵜ...**
+
+ⵜⵣⵎⵔ ⵜⵙⵔⵜ ⴰⴷ ⵜⴱⴰⵏ ⵉⴱⴰⵄⴷⵜ ⵅⴼ ⵜⵓⴷⵔⵜ ⵏⵏⵖ, ⵏⵉⵖ ⴰⴷ ⵜⵉⵍⵉ ⵜⵎⵙⵙⵉⵔⵜ ⵉⵙⵙⵏⴰⵏ ⴷ ⵉⵙⵎⵎⵉⵔⵏ. ⵎⴰⵛⴰ ⵎⴰ ⵉⵍⵍⴰ ⵜⵙⵔⵜ ⵇⵔⵉⴱⵜ ⵏⵏⵖ ⵅⴼ ⵎⴰ ⵏⵜⵜⵙⵙⵏ?
+
+ⵜⵙⵔⵜ ⵜⵙⵙⵉⵔ ⵅⴼ ⵎⴰⵎⴽ ⵜⵜⵡⴰⵙⵙⵏ ⵜⵎⴰⵜⵔⴰ, ⵎⴰⵎⴽ ⵜⵜⵡⴰⵜⵜⵡⴰⵙⵙⵏ ⵉⵎⵏⵣⴰⵢⵏ, ⴷ ⵎⴰⵎⴽ ⵜⵜⵡⴰⵙⵙⵉⵔⵏ ⵉⵙⵙⵏⴰⵏ ⵏ ⵉⵎⵣⵣⵉⵢⵏ.
+
+ⴳ **ASGDAM**, ⵏⵔⴰ ⴰⴷ ⵏⵙⵙⵏ ⴰⵎⵙⴰⵡⴰⴹ ⴷ ⵜⵉⵏⵎⵍⵜ ⵅⴼ ⵜⵙⵔⵜ, ⵉⵎⵏⵣⴰⵢⵏ, ⴰⵛⴰⵔⴰⴽ ⴷ ⵓⵙⵙⵏⵙ ⴳ ⵜⵎⴰⵜⵔⴰ ⵜⴰⵎⴰⵜⴰⵢⵜ.
+
+ⵓⵔ ⵏⵔⵉ ⴰⴷ ⵏⵙⵏⵏ ⵢⴰⵏ ⵓⵔⵔⴰ ⵉⵎⵎⴰⵏ, ⵏⵖ ⴰⴷ ⵏⵙⵙⵏ ⵢⴰⵏ ⵓⵙⵙⵉⵡⴹ ⵏ ⵜⵙⵔⵜ, ⵎⴰⵛⴰ ⵏⵔⴰ ⴰⴷ ⵏⵙⵎⵔⵙ ⵜⵉⵏⵎⵍⵉⵏ ⵏ ⵉⵎⵙⴰⵡⴰⴹⵏ ⴷ ⴰⴷ ⵏⴼⵙⵔ ⵎⴰⵎⴽ ⵜⵜⵡⴰⵍⴰⵏ ⵉⵎⵥⵥⵉⵢⵏ ⵉ ⵡⴰⵢⴰ.
+
+---
+
+## ⵎⴰ ⵜⴳⴰ ⵜⵙⵔⵜ ⵉⴽ?
+
+ⵏⵙⵇⵙⴰ:
+
+**ⵎⴰ ⵜⴳⴰ ⵜⵙⵔⵜ ⵉⴽ?**
+
+ⵔⴰⵏ ⵉⵎⵙⴰⵡⴰⴹⵏ ⴰⴷ ⵙⵙⵏⵏ ⵙ ⵉⵏⵎⵍⴰⵏ ⵉⵎⵣⵣⵉⵢⵏ, ⵎⴰⵛⴰ ⵎⵎⵓⵏⵏ ⴳ ⵢⴰⵜ ⵜⵉⵏⵎⵍ: ⵜⵙⵔⵜ ⵓⵔ ⵜⵍⵍⵉ ⵖⴰⵙ ⴳ ⵉⵎⵏⵣⴰⵢⵏ ⵏⵉⵖ ⴳ ⵉⵙⵏⴰⵏ, ⵎⴰⵛⴰ ⵜⵙⵙⵉⵔ ⵎⴰⵎⴽ ⵜⵜⵡⴰⵙⵙⵏⵙⴰ ⵜⵎⴰⵜⵔⴰ ⴷ ⵎⴰⵎⴽ ⵜⵜⵡⴰⵜⵜⵡⴰⵙⵙⵏ ⵉⵎⵏⵣⴰⵢⵏ.
+
+ⵢⴰⵏ ⵓⵎⵙⴰⵡⴰⴹ ⵉⵙⵙⵏ ⵜⵙⵔⵜ ⵙ ⵎⴰⵎⴽ ⵜⵜⵡⴰⵙⵙⵏ ⵉⵎⴷⴰⵏ, ⵎⴰⵎⴽ ⵜⵜⵡⴰⵜⵜⵡⴰⵙⵙⵏ ⵉⵎⵏⵣⴰⵢⵏ, ⴷ ⵎⴰⵎⴽ ⵜⵜⵡⴰⵙⵙⵏ ⵉⵎⵏⵣⴰⵢⵏ ⴷ ⵉⵙⵙⵏⴰⵏ.
+
+ⵙ ⵓⵎⵏⴰⵔ ⴰ, ⵜⵣⵎⵔ ⵜⵙⵔⵜ ⴰⴷ ⵜⵉⵍⵉ ⵎⵛⵛⴰ ⴷ ⵜⵏⵎⵍⵜ, ⵜⵉⵙⵏⴰ, ⵜⵉⵔⵔⴰ, ⵜⵉⵏⵎⵍⵜ, ⴷ ⵡⴰⵢⴰⴹ.
+
+ⵢⴰⵏ ⵓⵎⵙⴰⵡⴰⴹ ⵉⵙⵙⵏ ⵜⵙⵔⵜ ⴰⵎ ⵜⵉⵏⵎⵍⵜ ⵏ ⵓⵎⵙⴰⵡⴰⴹ, ⵎⴰⵏⵉ ⵎⵎⵓⵏⵏ ⵉⵏⵎⴰⵍⵏ ⴷ ⵉⵙⵙⵏⴰⵏ.
+
+**ⴰⵎⵢⴰⵡ ⵏ ⵉⵏⵎⴰⵍ ⵓⵔ ⵉⵙⵙⵏ ⵎⴰⵔⴰ ⴰⴷ ⵉⵙⵙⵏ ⵜⵉⵏⵎⵍ, ⵎⴰⵛⴰ ⵉⵣⵎⵔ ⴰⴷ ⵉⵍⵉ ⴰⵎⵎⵓⴷ ⵏⵏⵙ.**
+
+---
+
+## ⵎⴰ ⵜⴳⴰ ⵜⵉⵏⵎⵍⵜ ⵏ ⵜⵙⵔⵜ?
+
+ⵜⵉⵏⵎⵍⵜ ⵏ ⵜⵙⵔⵜ ⵜⵣⵎⵔ ⴰⴷ ⵜⵉⵍⵉ ⴰⵎ ⵢⴰⵏ ⵓⵙⵏⵎⵍ ⵏ ⵉⵎⴷⴰⵏ ⵉⵎⵎⵓⵏⵏ ⵅⴼ ⵉⵏⵎⴰⵍ, ⵉⵙⵙⵏⴰⵏ ⴷ ⵉⵙⵙⵡⵉⵔⵏ, ⵙ ⵡⴰⵢⵏ ⴰⴷ ⵙⵙⵏⵔⵙⵏ ⴳ ⵜⵎⴰⵜⵔⴰ.
+
+ⴳ ⵍⵎⵖⵔⵉⴱ, ⵍⵍⴰⵏ ⵉⵙⵏⴰⵏ ⵉⵎⵣⵣⵉⵢⵏ ⵙ ⵜⵉⵏⵎⵍ ⵏⵙⵏ.
+
+ⵎⴰⵛⴰ ⵓⵔ ⵉⵎⵎⴰⵙ ⴰⴷ ⵏⵙⵙⵏ ⵖⴰⵙ ⵉⵙⵎ ⵏ ⵢⴰⵏ ⵓⵙⵏⵎⵍ. ⵉⵎⵎⴰⵙ ⴰⴷ ⵏⵙⵙⵏ ⵉⵏⵎⴰⵍ, ⵉⵙⵙⵏⴰⵏ, ⴷ ⵎⴰ ⴽⴰ ⵉⵔⴰ ⴰⴷ ⵉⵙⵙⵏ.
+
+---
+
+## ⵎⴰ ⵉⴳⴰ ⵓⵛⴰⵔⴰⴽ?
+
+ⵓⵛⴰⵔⴰⴽ ⴳ ⵜⵎⴰⵜⵔⴰ ⵉⵣⵎⵔ ⴰⴷ ⵉⵍⵉ ⴷ ⵢⴰⵜ ⵜⵎⵙⵙⵉⵔⵜ ⵏ ⵓⵎⵙⴰⵡⴰⴹ.
+
+ⵉⵣⵎⵔ ⵓⵎⴷⴰⵏ ⴰⴷ ⵉⵙⵙⵏ ⵎⴰ ⵉⵔⴰ, ⵎⴰ ⵉⵙⵙⵏ, ⴷ ⵎⴰⵎⴽ ⵔⴰ ⴰⴷ ⵉⵙⵙⵏ ⵉⵎⵏⵣⴰⵢⵏ.
+
+ⵎⴰⵛⴰ ⵓⵛⴰⵔⴰⴽ ⵓⵔ ⵉⵎⵎⴰⵙ ⴰⴷ ⵉⵙⵙⵏ ⵢⴰⵏ ⵓⵙⵙⵉⵡⴹ. ⵉⵎⵎⴰⵙ ⴰⴷ ⵉⵍⵉ ⵙ ⵓⵙⵙⵏ, ⵜⵉⵏⵎⵍⵜ ⴷ ⵜⵎⵙⵙⵉⵔⵜ.
+
+---
+
+## ⵎⴰ ⵔⴰ ⴰⴷ ⵉⴳ ⵢⴰⵏ ⵓⵙⵏⵎⵍ ⵉⵔⴰ ⴰⴷ ⵉⵙⵙⵏ ⵉⵎⵏⵣⴰⵢ?
+
+ⵙⵇⵙⴰ ⵏⵙⵏ ⵉⵎⵥⵥⵉⵢⵏ ⵅⴼ ⵎⴰ ⵔⴰ ⴰⴷ ⵉⵍⵉ ⴳ ⵢⴰⵏ ⵓⵙⵏⵎⵍ ⵉⵎⵎⴰⵙ.
+
+ⵢⴰⵏ ⵓⵎⵙⴰⵡⴰⴹ ⵉⵙⵙⵏ ⵅⴼ ⵉⵎⵏⵣⴰⵢ ⴰⵎ ⵜⵉⵏⵎⵍⵜ ⴷ ⵓⵙⵙⵏ.
+
+ⵎⵏⵏⴰⵡⵏ ⵙⵙⵏⵏ ⵉⵎⵏⵣⴰⵢ ⴰⵎ ⵜⵉⵏⵎⵍ, ⵜⵉⵔⵔⴰ, ⵜⵉⵏⵎⵍⵜ ⴷ ⵜⴰⵎⵙⵙⵉⵔⵜ.
+
+ⵎⴰⵛⴰ ⵉⵎⵎⴰⵙ ⴰⴷ ⵙⵙⵏⵏ ⵎⴰⵎⴽ ⵔⴰ ⴰⴷ ⵙⵙⵏⵏ ⵉⵎⵏⵣⴰⵢ, ⵎⴰⵎⴽ ⵔⴰ ⴰⴷ ⵙⵙⵏⵏ ⵉⵏⵎⴰⵍ ⵏ ⵡⵉⵢⵢⴰⴹ, ⴷ ⵎⴰⵎⴽ ⵔⴰ ⴰⴷ ⵙⵙⵏⵙⵏ ⵙ ⵜⵎⵙⵙⵉⵔⵜ.
+
+---
+
+## ⵎⴰ ⴷ ⵉⵎⵥⵥⵉⵢⵏ?
+
+ⵉⵎⵥⵥⵉⵢⵏ ⵣⵎⵔⵏ ⴰⴷ ⵉⵍⵉ ⵙ ⵓⵛⴰⵔⴰⴽ ⵉⵎⵖⵓⴷ ⴳ ⵓⵎⵙⴰⵡⴰⴹ ⴰⵎⴰⵜⴰⵢ, ⴰⴷ ⵙⵎⵔⵙⵏ ⵉⵙⵙⵏⵙⵏ ⵅⴼ ⵉⵙⵙⵡⵉⵔⵏ, ⴰⴷ ⵙⵙⵏⵏ ⵉⵎⵏⵣⴰⵢ, ⴷ ⴰⴷ ⵙⵙⵏⵙⵏ ⴳ ⵜⵎⴰⵜⵔⴰ.
+
+ⵓⵔ ⵉⵎⵎⴰⵙ ⴰⴷ ⵙⵙⵏⵏ ⵢⴰⵏ ⵓⵙⵏⵎⵍ ⵏⵉⵖ ⵢⴰⵏ ⵓⵔⵔⴰ, ⵎⴰⵛⴰ ⴰⴷ ⵙⵙⵏⵏ ⵎⴰⵎⴽ ⵔⴰ ⴰⴷ ⵙⵙⵏⵏ, ⴰⴷ ⵙⵙⵏⵏ ⵉⵏⵎⴰⵍ ⵏ ⵡⵉⵢⵢⴰⴹ, ⴷ ⴰⴷ ⵙⵙⵏⵙⵏ ⴳ ⵜⵎⴰⵜⵔⴰ.
+
+---
+
+## ⴳ ⵉⵎⵔⴰⵔⴰ... ⵎⴰ ⵉⵏⵏⴰ ⵓⵎⵙⴰⵡⴰⴹ?
+
+ⴰⵎⵙⴰⵡⴰⴹ ⵉⵙⵙⵏ ⵎⴰⵙ ⵜⵙⵔⵜ ⵜⵣⵎⵔ ⴰⴷ ⵜⵉⵍⵉ ⵙ ⵉⵎⵏⵣⴰⵢ ⵉⵎⵣⴰⵔⴰⵢⵏ.
+
+ⵓⵔ ⵜⵍⵍⵉ ⵢⴰⵜ ⵜⵉⵏⵎⵍⵜ ⵉⵎⵎⴰⵏ ⵉ ⵎⵔⴰ ⴷⴰ.
+
+ⵉⵎⵎⴰⵙ ⴰⴷ ⵏⵙⵙⵏ, ⴰⴷ ⵏⵙⵇⵙⴰ, ⴰⴷ ⵏⵙⵎⵔⵙ ⵜⵉⵏⵎⵍⵜ, ⴷ ⴰⴷ ⵏⵙⵙⵏ ⵎⴰⵎⴽ ⵔⴰ ⴰⴷ ⵏⵙⵙⵏ ⵉⵎⵏⵣⴰⵢ.
+
+**ⵓⵛⴰⵔⴰⴽ ⵉⴱⴷⴰ ⵙ ⵓⵙⵙⵏ, ⴷ ⵓⵙⵙⵏ ⵉⴱⴷⴰ ⵙ ⵓⵙⵇⵙⵉ.**
+
+ⵎⴰ ⵔⴰ ⴰⴷ ⵉⵍⵉ ⵓⵙⵙⵉⵡⴹ ⵏ ⵉⵎⵥⵥⵉⵢⵏ ⴳ ⵜⵎⴰⵜⵔⴰ ⵙ ⵓⵙⵙⵏ, ⵙ ⵜⵎⵙⵙⵉⵔⵜ, ⴷ ⵙ ⵓⵙⵏⵎⵍ?
+
+ⵙ ⵓⵙⵇⵙⵉ ⴰⴷ ⵉⵇⵇⵉⵎ ⵓⵎⵙⴰⵡⴰⴹ.
+
+---
+
+**ⵜⴰⵔⴰ ⴷ ⵜⵙⵙⵓⵔⵜ ⵏ ⵓⵎⴰⵔⴰ:** Khadija Z.
+
+**ⵉⵎⵙⴰⵡⴰⴹ ⴳ ⵓⵎⵙⴰⵡⴰⴹ:**
+- Hiba Arkou
+- Aya Hassnaoui
+- Haytam Errahel
+
+`,
+
+  contentEn: `
+# Politics Through the Eyes of Young People: Between Ideas, Participation, and Responsibility
+
+**Politics...**
+
+The word may initially sound distant from our everyday lives, or even complicated and difficult to understand. But what if politics is closer to us than we think?
+
+At a basic level, politics is connected to how society is organized, how decisions are made, and how issues affecting citizens are addressed.
+
+With the aim of exploring some concepts related to public life, **ASGDAM** opened a discussion with several club members around politics, political parties, voting, and participation in public life.
+
+The goal was not to reach one common answer or present a unified political position. Instead, we wanted to hear different perspectives and understand how young people view these subjects.
+
+---
+
+## What does politics mean to you?
+
+We began with a simple but broad question:
+
+**What does politics mean to you?**
+
+The answers differed, but several perspectives shared a common idea: politics is not limited to elections or political parties. It can also relate to how society is organized and how decisions affecting citizens are made.
+
+One participant associated politics with the organization of the state and society, decision-making, responsibilities, and the distribution of resources.
+
+From this perspective, politics can be connected to areas such as education, healthcare, the economy, employment, the environment, and public services.
+
+Another participant viewed politics as a space where different opinions and positions can coexist, and where disagreement can form part of public discussion.
+
+This led to an important idea:
+
+**Disagreement does not necessarily mean the absence of dialogue; it can also be the beginning of it.**
+
+Another perspective described politics as a way of managing public affairs and making decisions related to everyday life.
+
+Although the definitions differed, a shared idea emerged: politics is not necessarily distant from citizens. It can be connected to the present, the future, and the issues that concern society.
+
+---
+
+## What do political parties mean to you?
+
+The discussion then moved toward political parties.
+
+In simple terms, a political party can be understood as an organization in which people share certain ideas, orientations, and programs and seek to participate in political and public life.
+
+Participants mentioned several political parties present in Morocco's political landscape, including the Istiqlal Party, the National Rally of Independents, the Authenticity and Modernity Party, the Socialist Union of Popular Forces, the Party of Progress and Socialism, the Justice and Development Party, the Popular Movement, and others.
+
+These names are mentioned here for informational purposes only, without presenting a positive or negative assessment of any party or encouraging support for any particular one.
+
+Knowing the names of political parties does not necessarily mean knowing their programs or positions.
+
+This raised another question:
+
+**Is knowing the name of a party enough, or is understanding its ideas and program more important?**
+
+For some participants, it is important to look at the programs and issues addressed by different parties rather than relying only on names or general impressions.
+
+This highlights the importance of learning, comparing information, asking questions, and forming personal views based on understanding.
+
+---
+
+## What does voting mean to you?
+
+We then moved to one form of participation in public life:
+
+**Voting.**
+
+One participant described voting as a way for citizens to participate in choosing representatives within elected institutions.
+
+Another perspective considered voting one of the ways citizens can express their choices and participate in public life.
+
+Participants also emphasized the importance of making personal choices based on knowledge and conviction rather than simply following the opinions of people around us.
+
+At the same time, participation does not necessarily end with voting. It may also include paying attention to public affairs, learning about issues and programs, following public action, asking questions, and expressing opinions respectfully.
+
+This led to a simple idea:
+
+**Meaningful participation requires knowledge, and knowledge begins with interest and questions.**
+
+---
+
+## If you imagined a political project, what principles would guide it?
+
+At this point, we asked participants to move from discussing current realities to imagining principles they consider important in a political project.
+
+One participant highlighted two principles:
+
+**Humanity and awareness.**
+
+From this perspective, humanity means respecting others, accepting differences, and encouraging dialogue.
+
+Awareness means understanding the individual's role within society and recognizing the importance of responsible participation.
+
+This perspective also included goals such as improving education, supporting healthcare, developing infrastructure, encouraging participation in public life, and improving living conditions.
+
+Another participant emphasized principles such as:
+
+**Transparency and accountability.**
+
+**Respect for the law and institutions.**
+
+**Justice and equal opportunities.**
+
+**Listening to citizens.**
+
+**Supporting education, healthcare, and employment.**
+
+**Creating more opportunities for young people to participate in public life.**
+
+**Integrity and responsible management of public resources.**
+
+**Balanced development across different regions and groups.**
+
+These ideas are personal contributions shared during the discussion and should not be understood as an official or political position of **ASGDAM**.
+
+---
+
+## What about young people?
+
+This naturally led to another question:
+
+**What role can young people play in public life?**
+
+One participant suggested that young people can have a greater role in public discussion through civic participation, learning about issues that affect society, and engaging with spaces and institutions that allow them to express themselves and participate.
+
+Other perspectives emphasized education, transparency, equal opportunities, competence, respect for the law, and investment in young people.
+
+This does not mean that young people should adopt one specific political position.
+
+Rather, they should have opportunities to learn, ask questions, listen to different perspectives, and form their own views.
+
+---
+
+## In the end... what did these perspectives tell us?
+
+This discussion showed that politics can be understood from many different perspectives.
+
+For some participants, it is connected to decision-making and the organization of society.
+
+For others, it is connected to dialogue, disagreement, and participation.
+
+It was also associated with education, healthcare, employment, youth, and public services.
+
+There was no single answer that represented everyone.
+
+And that is precisely what made the discussion valuable.
+
+Different opinions can create an opportunity to understand perspectives other than our own, provided that the discussion remains respectful, that personal opinions are distinguished from factual information, and that everyone retains the right to form their own position.
+
+Young people do not all need to be political specialists. What matters is having the willingness to understand, the ability to ask questions, the openness to listen, and an awareness of their role within society.
+
+**Participation begins with interest, and understanding begins with questions.**
+
+Perhaps the question we can leave open after this discussion is:
+
+**How can young people contribute to public life in an informed, respectful, and responsible way?**
+
+And this is where the conversation continues.
+
+---
+
+**Written and produced by:** Khadija Z.
+
+**Participants in the discussion:**
+- Hiba Arkou
+- Aya Hassnaoui
+- Haytam Errahel
+
+`
 }
 ];
 
