@@ -305,6 +305,19 @@ const ALL_ARTICLES = [
   readTimeEn: '5 min read',
   date: 'September 8, 2026',
 },
+  {
+id: '16',
+titleAr: 'السياسة كما يراها الشباب: بين الفكرة والمشاركة والمسؤولية',
+titleEn:
+'Politics Through the Eyes of Young People: Between Ideas, Participation, and Responsibility',
+categoryAr: 'رؤى الشباب',
+categoryEn: 'Youth Perspectives',
+categoryKey: 'youth_perspectives',
+readTimeAr: '١٠ دقائق قراءة',
+readTimeEn: '10 min read',
+date: 'September 12, 2026',
+},
+
   
 ];
 
