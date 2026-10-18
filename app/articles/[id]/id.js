@@ -14096,17 +14096,16 @@ And this is where the conversation continues.
 - Haytam Errahel
 
 `
-},const article = {
+}, {
   id: '17',
   date: 'October 17, 2026',
 
   category: {
-    ar: 'التعليم والإصلاح',
-    tzm: 'ⴰⵙⵍⵎⴷ ⴷ ⵓⵙⵏⴼⵍ',
-    en: 'Education & Reform'
+    ar: 'رؤى الشباب',
+    tzm: 'ⵉⵏⵥⴰⵕⵏ ⵏ ⵉⵎⵥⵥⵉⵢⵏ',
+    en: 'Youth Perspectives'
   },
-
-  title: {
+    title: {
     ar: 'التعليم في المغرب: بين واقع التلميذ وحلم المدرسة التي نريدها',
     tzm: 'ⴰⵙⵍⵎⴷ ⴳ ⵍⵎⵖⵔⵉⴱ: ⴳⵔ ⵜⵉⵍⴰⵡⵜ ⵏ ⵓⵏⵍⵎⴰⴷ ⴷ ⵜⵉⵔⵉⵜ ⵏ ⵜⵉⵏⵎⵍ ⵏⵏⴰ ⵏⵔⴰ',
     en: 'Education in Morocco: Between Students’ Reality and the School We Dream Of'
