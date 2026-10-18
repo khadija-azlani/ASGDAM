@@ -14109,8 +14109,8 @@ And this is where the conversation continues.
       ar: 'التعليم في المغرب: بين واقع التلميذ وحلم المدرسة التي نريدها',
       tzm: 'ⴰⵙⵍⵎⴷ ⴳ ⵍⵎⵖⵔⵉⴱ: ⴳⵔ ⵜⵉⵍⴰⵡⵜ ⵏ ⵓⵏⵍⵎⴰⴷ ⴷ ⵜⵉⵔⵉⵜ ⵏ ⵜⵉⵏⵎⵍ ⵏⵏⴰ ⵏⵔⴰ',
       en: 'Education in Morocco: Between Students’ Reality and the School We Dream Of'
-    }
-  },
+    },
+
 
   contentAr: `
 # التعليم في المغرب: بين واقع التلميذ وحلم المدرسة التي نريدها
@@ -14575,11 +14575,9 @@ Nations do not rise through the strength of their weapons alone, but through the
 **ⴰⵙⵏⴼⵍ ⴷ ⵓⵙⵙⵏⵜⵉ: Khadija Z.**
 
 **ⵉⵎⴷⵔⴰⵡⵏ ⴳ ⵓⵎⵙⴰⵡⴰⵍ:** Khadija Z.,Nouha Khlifi ,Aidoudi Saif Eddine, Filali Mohamed Amine Filali، Soufiyane Bounit، Marwa Bouazaoui، Tasnim Houmaine،  Marwan Ettahiri.
-`,
-};
-
-export default article;
+`},
 ];
+
 
 
 export default function SingleArticlePage() {
