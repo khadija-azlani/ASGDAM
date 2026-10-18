@@ -14096,7 +14096,489 @@ And this is where the conversation continues.
 - Haytam Errahel
 
 `
-}
+},const article = {
+  id: '17',
+  date: 'October 17, 2026',
+
+  category: {
+    ar: 'التعليم والإصلاح',
+    tzm: 'ⴰⵙⵍⵎⴷ ⴷ ⵓⵙⵏⴼⵍ',
+    en: 'Education & Reform'
+  },
+
+  title: {
+    ar: 'التعليم في المغرب: بين واقع التلميذ وحلم المدرسة التي نريدها',
+    tzm: 'ⴰⵙⵍⵎⴷ ⴳ ⵍⵎⵖⵔⵉⴱ: ⴳⵔ ⵜⵉⵍⴰⵡⵜ ⵏ ⵓⵏⵍⵎⴰⴷ ⴷ ⵜⵉⵔⵉⵜ ⵏ ⵜⵉⵏⵎⵍ ⵏⵏⴰ ⵏⵔⴰ',
+    en: 'Education in Morocco: Between Students’ Reality and the School We Dream Of'
+  },
+
+  contentAr: `
+# التعليم في المغرب: بين واقع التلميذ وحلم المدرسة التي نريدها
+
+
+تخيّل معي مدرسةً مجهّزة بجميع الوسائل والتقنيات الحديثة، بما فيها الذكاء الاصطناعي، يدرس فيها التلميذ نصف يوم، ويكون له في النصف الثاني كامل الحق في ممارسة الأنشطة التي يحبها، دون ضغط أو إرهاق. مدرسةٌ توجد فيها أنظمة تنبّه إلى أي تجاوز في حق التلميذ، وأساتذة يعملون بذمّة وضمير، ويعاملون التلاميذ بكل حب، حتى يجعلوهم يحبّون المواد التي يدرسونها.
+
+مدرسةٌ تكون فيها مصلحة التلميذ أولويةً لدى جميع الأطر التربوية والإدارية، ويُحترم فيها ويُقدَّر، إلى درجة تجعله يستمتع بما يتعلّمه وما يقرؤه، حتى يكاد لا يرغب في مغادرتها والعودة إلى المنزل. وإذا خالف أحدٌ هذه المبادئ، تتدخّل أنظمة المراقبة، بإشراف الجهات المختصة، لرصد التجاوزات والتبليغ عنها، مع اتخاذ الإجراءات المناسبة بحق كل من يحاول إلحاق الأذى بالتلميذ.
+
+كل ذلك تحت شعار: **«التلميذ هو الحلقة الأقوى في المدرسة؛ فهو مهندس المستقبل وطبيبه وصحفيه، ويجب أن نربّيه أحسن تربية، حتى لا يكبر محمّلاً بعُقد نفسية قد يفرغها في الآخرين مستقبلاً، أو يعاني بسببها من اضطرابات نفسية.»**
+
+ربما تكون هذه الحياة الوردية مجرد صورة نرسمها في أذهاننا، ونحلم بأن تصبح واقعاً يوماً ما. لكن، هل يمكن لهذا الحلم أن يتحوّل إلى حقيقة؟ وهل يمكن أن تكون هذه الرؤية مدخلاً لفهم المشكلات التي يعاني منها التعليم في المغرب، واقتراح حلول تساعد على تطويره، حتى نرى بلادنا وتلاميذها في أفضل المراتب؟
+
+سيداتي سادتي، مرحباً بكم في معالجة قضية ليست كباقي القضايا؛ إنها قضية قد تترك في الإنسان آثاراً مؤلمة وذكريات جميلة في الوقت نفسه، لأنها ترتبط بمرحلة من حياته لا تُنسى: مرحلة التلميذ.
+
+في السابع عشر من أكتوبر، اجتمع أعضاء مجتمع ASGDAM الشبابي لمناقشة قضية التعليم وسبل إصلاحه، انطلاقاً من تجاربهم وآرائهم، ومن المشكلات التي عاشوها أو شاهدوها داخل المؤسسات التعليمية.
+
+## أولاً: واقع التعليم من ذاكرة التلميذ
+
+بالنسبة إلى كل شخص عانى من الاكتظاظ داخل المدارس، يمكنه أن يتخيّل كيف يكون الدرس داخل قسم يضم أربعين تلميذاً، وقد يصل العدد إلى خمسين. قد يتمكّن الجالسون في المقاعد الأمامية من التركيز، لكن ماذا عن الجالسين في الخلف؟ قد يجدون صعوبة في سماع الشرح وسط الضجيج، وصراخ التلاميذ، والحركة المستمرة داخل القسم؛ فهناك تلميذ يريد الذهاب إلى المرحاض، وآخر سقط منه قلمه، وغيرهما من المواقف التي قد تقطع سير الدرس وتؤثر في تركيز الجميع.
+
+وقد يتذكّر أحدهم أنه أراد متابعة شعبة معينة في الثانوية، لكنه اكتشف أنه مضطر إلى قطع مسافات طويلة للوصول إلى مؤسسة توفر شعبة الاقتصاد والتدبير، أو شعبة التكنولوجيا، أو حتى شعبة علوم الحياة والأرض، خصوصاً في المدن الصغيرة والمناطق التي لا تتوفر فيها جميع التخصصات.
+
+وربما يتذكّر تلميذ آخر الصدمات النفسية التي تعرّض لها بسبب أستاذ تنمّر عليه، أو صرخ في وجهه لأنه لم يفهم الدرس، أو لم يُظهر الصبر والضمير اللازمين في أداء مهمته التربوية. وقد يكون هناك شخص لا يزال يتذكّر، حتى بعد مرور سنوات طويلة، أستاذاً ضربه في طفولته لأنه لم يُنجز واجباته، أو إطاراً تربوياً خاطبه بأسلوب مهين رغم أنه لم يرتكب أي خطأ يستحق تلك المعاملة.
+
+وقد يتذكّر آخرون المراحيض غير النظيفة، وانقطاع الماء أو الكهرباء في بعض الأحيان، أو الساحات الرياضية التي لا تتوفر فيها التجهيزات المناسبة، حتى إن بعض التلاميذ يضطرون إلى ممارسة أنشطتهم الرياضية وسط الحجارة، في أماكن يُفترض أن تكون فضاءات آمنة ومريحة لهم.
+
+وربما يتذكّر أحدهم أنه كان يرغب في ممارسة التنس داخل مؤسسته، لكنه لم يجد سوى عدد محدود من الرياضات. فكيف يمكن للتلميذ اكتشاف موهبته إذا لم تتوفر له الفرص والتجهيزات التي تساعده على ذلك؟
+
+وقد يتذكّر تلميذ آخر العنف الذي تعرّض له خلال مرحلة المراهقة بسبب طريقة تصفيف شعره، أو مظهره الخارجي، بدل أن يجد من يوجّهه بالحوار والاحترام.
+
+ولا يمكننا أيضاً أن ننسى التلميذ الذي لم يبدأ التعرّف إلى اللغة الإنجليزية وحروفها إلا في المرحلة الإعدادية، ثم أصبح مطالباً بفهم دروس ومفاهيم قد تبدو صعبة بالنسبة إلى مبتدئ. فكيف ننتظر من تلميذ أن يتقن لغة عالمية إذا لم تُتح له فرصة تعلّمها في سن مبكرة وبطريقة تدريجية؟
+
+أما التلميذ الذي يعيش في البادية، فقد تكون رحلته إلى المدرسة أصعب بكثير؛ إذ قد تمنعه المسافات الطويلة، والبرد، والثلوج، وضعف وسائل النقل من الوصول إلى مؤسسته. وقد نجد مدارس جبلية تفتقر إلى التجهيزات الأساسية، أو أقساماً تضم تلاميذ من مستويات دراسية مختلفة، مثل الأول والثاني ابتدائي، داخل الفصل نفسه، في ظروف تجعل مهمة الأستاذ والتلميذ أكثر صعوبة.
+
+ومن المشكلات التي تستحق الانتباه أيضاً اعتماد أساليب تدريس لا تراعي دائماً مستوى التلميذ. فقد يجد نفسه أمام أستاذ يشرح الدرس بلغة ومفاهيم يصعب عليه فهمها، رغم أنه لم يتعرّف إلى أساسياتها إلا في السنة السابقة. وهكذا، بدل أن يصبح التعلم تجربة ممتعة، يتحوّل إلى مصدر للضغط والارتباك.
+
+وربما يتذكّر تلميذ أنه لم يتمكّن يوماً من اكتشاف موهبته، لأنه كان يقضي ساعات طويلة في الدراسة، صباحاً ومساءً، دون وقت كافٍ لممارسة أنشطة أخرى أو اكتشاف ما يحب. فهل الهدف من المدرسة أن نُخرّج تلاميذ يحفظون الدروس فقط، أم أن نساعدهم أيضاً على اكتشاف قدراتهم وبناء شخصياتهم؟
+
+وقد يتذكّر البعض كذلك الإجراءات المتعددة التي تُعتمد لمنع الغش أثناء الامتحانات؛ من المراقبة المشددة إلى استعمال الرموز وأكواد التحقق، ثم تصويرها والتأكد منها. ورغم أهمية محاربة الغش وضمان تكافؤ الفرص، فإن هذه الإجراءات ينبغي أن تُنظّم بطريقة واضحة ومعقولة، حتى لا يتحوّل اجتياز الامتحان إلى تجربة مليئة بالتوتر والخوف.
+
+ومن جهة أخرى، يعاني بعض التلاميذ من القلق بسبب الفروض والامتحانات، خصوصاً عندما لا يجدون من يشرح لهم أخطاءهم بهدوء، ويطمئنهم بأن الخطأ جزء طبيعي من عملية التعلم. فكم كان من الممكن أن تتغير تجربة تلميذ لو وجد أستاذاً يقول له إن الخطأ ليس نهاية العالم، وإن بإمكانه التحسن بالمحاولة والتدريب؟
+
+وقد يرغب التلميذ في فهم تجربة علمية أو مشاهدة تطبيق عملي لما يدرسه، لكنه يصطدم بغياب المعدات أو تعطلها. وهنا يبرز سؤال مهم: كيف نطلب من التلميذ أن يحب العلوم، بينما لا نتيح له دائماً فرصة اكتشافها بالتجربة والملاحظة؟
+
+ومن المؤلم أيضاً أن نسمع أستاذاً يصرّح بأنه اختار مهنة التعليم فقط لأنها كانت متاحة أمامه، أو لأنها ساعدته على الحصول على عمل، وليس لأنه يحب التدريس أو يرغب في مرافقة الأطفال والمراهقين في مسارهم التعليمي.
+
+وهذا يطرح سؤالاً أساسياً: كيف يمكن لأستاذ لا يحب مهنته، أو لم يتلقَّ تكويناً كافياً في طرق التدريس والتعامل مع الأطفال والمراهقين، أن يساهم في بناء جيل متوازن ومتعلم؟
+
+فقد يتمكن شخص من الحصول على شهادة جامعية، ثم اجتياز مباراة التوظيف في التعليم، لكنه قد يحتاج، إلى جانب معرفته بالمادة التي يدرّسها، إلى تكوين تربوي ونفسي متين، وإلى مهارات التواصل وإدارة القسم وتبسيط المفاهيم. فالتدريس ليس مجرد تقديم المعلومات، بل هو أيضاً تربية وتوجيه وفهم للفروق الفردية بين المتعلمين.
+
+وقد يتذكّر بعض التلاميذ كيف ينظرون إلى المدارس الخصوصية باعتبارها مؤسسات تحظى فيها مطالبهم باهتمام أكبر، حيث يتوجهون إلى الإدارة عند وقوع مشكلة، فيجدون استجابة سريعة في بعض الحالات. والمطلوب ليس أن نُحوّل التعليم العمومي إلى نسخة من التعليم الخصوصي، بل أن نضمن لكل تلميذ، مهما كانت وضعيته المادية، الحق في مؤسسة تستمع إليه وتحترمه وتعالج مشكلاته بجدية.
+
+وربما يتذكّر أحدهم كيف درس أخوه الأكبر المنهج نفسه الذي يدرسه هو، رغم أن السنوات تتغير، وأن احتياجات التلاميذ والأحداث والتطورات العلمية والتكنولوجية لا تبقى ثابتة. فلماذا لا تتطور المناهج باستمرار لتواكب العصر، مع الحفاظ على الأساسيات الضرورية للتعلم؟
+
+وقد يشعر تلميذ بالإحباط لأنه لم يحصل على نقطة ممتازة رغم حضوره ساعات إضافية لدى أستاذ، أو لأنه لم يتمكن من فهم الدرس رغم الجهد الذي بذله. وهذا يدعونا إلى التفكير في جودة التعلم وطرق التقييم، بدل اختزال النجاح في النقط أو في عدد الساعات التي يقضيها التلميذ في الدراسة.
+
+ومن الجوانب التي تحتاج إلى اهتمام أكبر غياب بعض الأنشطة الموازية، مثل الخطابة وفنون التواصل والحوار والمواد الفنية والأنشطة التي لا تقوم على كتابة الدروس وإنجاز التمارين فقط. فهذه الأنشطة تساعد التلميذ على الخروج من أجواء الضغط، وتنمية مهاراته الناعمة، وبناء ثقته بنفسه، والتعبير عن أفكاره بطريقة سليمة.
+
+## ثانياً: الحلول التي نطمح إليها لإصلاح التعليم
+
+بعد استكشاف هذه المشكلات، يمكننا الانتقال إلى الحلول التي نرى أنها قد تساهم في بناء مدرسة أفضل، مدرسة تضع مصلحة التلميذ في صلب اهتمامها، وتوفّر له ظروفاً تساعده على التعلم والنمو واكتشاف ذاته.
+
+### 1. محاربة الاكتظاظ وتطوير البنية التحتية
+
+يجب تكثيف بناء المدارس وتجهيزها ببنية تحتية مناسبة، وتوفير أقسام تستوعب أعداداً معقولة من التلاميذ، حتى يتمكّن الأستاذ من متابعة كل واحد منهم، ويجد التلميذ الفرصة الكافية للفهم والمشاركة وطرح الأسئلة.
+
+ومن المهم أيضاً تجهيز المؤسسات بمختبرات علمية ومعدات حديثة، وفضاءات رياضية متنوعة، وقاعات مخصصة للأنشطة الموازية، مثل الخطابة والمسرح والفنون، مع توفير فضاءات مناسبة للسباحة والرياضات المختلفة حيث تسمح الإمكانات بذلك.
+
+كما ينبغي إنشاء نوادٍ يقودها التلاميذ ويختارون أنشطتها وفق اهتماماتهم، في إطار من التنظيم والمسؤولية، دون قيود غير ضرورية. فهذه الأنشطة ليست مجرد وسيلة للترفيه، بل هي جزء أساسي من بناء شخصية التلميذ واكتشاف مواهبه.
+
+قد يحصل شخص على نقطة ممتازة في البكالوريا، لكنه يجد صعوبة في التحدث أمام الآخرين أو التعبير عن رأيه، لأنه لم تتح له فرص كافية لممارسة الحوار والتواصل. لذلك، لا ينبغي أن نكتفي بتكوين تلاميذ متفوقين في الامتحانات، بل يجب أن نساعدهم أيضاً على فهم الواقع والتفاعل معه والمساهمة في تطويره.
+
+ويجب كذلك أن تكون الإدارة في خدمة التلميذ، وأن يجد فيها من يستمع إلى ملاحظاته ويعالج مشكلاته، بدل أن يشعر بأنه لا يستطيع الاعتراض أو التعبير عن رأيه.
+
+### 2. اعتماد أساليب تربوية تقوم على الحوار بدل العنف
+
+من الضروري إعادة النظر في بعض الإجراءات التأديبية التي قد تُمارس بطريقة تجعل التلميذ يشعر بالإهانة أو الخوف، أو تدفعه إلى النفور من المدرسة. فالعقوبة لا تكون ناجحة لمجرد أنها تجعل التلميذ يخاف، بل ينبغي أن تساعده على فهم خطئه وتحمل مسؤولية أفعاله وتصحيح سلوكه.
+
+ومن وجهة نظري، إذا ارتكب التلميذ سلوكاً غير مقبول، فيمكن للأستاذ أن يتحاور معه بهدوء، ويفهم الأسباب التي دفعته إلى ذلك، ثم يوجّهه بطريقة تربوية مناسبة. ويمكن، مثلاً، أن يُقترح عليه الاطلاع على كتاب يناقش السلوك الذي ارتكبه، ثم مناقشته معه، حتى يستفيد من التجربة ويطوّر وعيه.
+
+فالهدف ليس إلغاء النظام داخل المؤسسة، بل ضمان أن تكون الإجراءات التأديبية عادلة ومتناسبة مع السلوك، وألا تتحول إلى وسيلة للإهانة أو الإقصاء أو التسبب في صدمات نفسية قد تساهم في الهدر المدرسي.
+
+ويجب القضاء على العنف داخل المؤسسات التعليمية، سواء صدر عن أستاذ أو إداري أو أي شخص آخر، لأن العنف ليس أداة سليمة للتربية. كما ينبغي تعزيز التكوين النفسي والتربوي للأطر التعليمية والإدارية، وتطوير شروط الولوج إلى المهنة، بما يضمن الكفاءة العلمية والقدرة على التدريس والتواصل السليم مع الأطفال والمراهقين.
+
+ولا يقتصر الأمر على الأساتذة وحدهم، بل يشمل جميع الأطر الموجودة داخل المؤسسة، بما في ذلك الحراس العامون والإدارة. فكيف يمكن أن نتقبل منع تلميذ من الدخول إلى القسم لمجرد أنه لم يحصل بعد على ورقة الغياب التي يحتاج إليها؟ يمكن للإدارة أن تطلب منه تقديم مبرر غيابه والتحقق منه وفق المساطر المعمول بها، لكن لا ينبغي أن تتحول الإجراءات الإدارية إلى عائق يمنعه من متابعة دراسته.
+
+فالتلميذ الذي يغيب لظروف ضرورية ينبغي أن يجد مسطرة واضحة لتبرير غيابه، لا أن يُترك خارج القسم إلى حين الحصول على وثيقة معينة. كما يجب أن تكون إجراءات الغياب مفهومة ومنصفة، حتى لا تتحول الوسائل التي وُضعت لتنظيم الدراسة إلى أسباب تدفع التلميذ إلى كره المدرسة أو الانقطاع عنها.
+
+وبالنسبة إليّ، إذا توفرت الظروف المناسبة، فإن التلميذ لن يغيب إلا لسبب يدفعه إلى ذلك. لذلك، فإن توفير بيئة تعليمية مريحة، تقوم على الاحترام والحوار، قد يساعد على تعزيز الحضور والانضباط بصورة أفضل من الاعتماد على التخويف وحده.
+
+### 3. تحسين ظروف الدراسة وجودة التدريس
+
+من أجل تعليم أفضل، ينبغي تقليص عدد التلاميذ داخل الأقسام، حتى يتمكن الأستاذ من شرح الدرس جيداً، ومتابعة مستوى كل تلميذ، والإجابة عن أسئلته. ويمكن أن يكون عدد يقارب خمسة عشر تلميذاً في القسم هدفاً طموحاً لتحسين جودة التعلم، مع مراعاة الإمكانات المتاحة وشروط تنظيم المؤسسات.
+
+كما يجب أن يكون الأستاذ قادراً على تبسيط المعلومات، ومراعاة اختلاف مستويات التلاميذ، واستعمال أمثلة وتجارب تساعدهم على الفهم، بدل الاكتفاء بتقديم الدروس بطريقة واحدة للجميع.
+
+ويجب أن يشعر التلميذ بأنه شريك أساسي في العملية التعليمية، وليس مجرد متلقٍّ للمعلومات أو شخص مطالب بتنفيذ الأوامر دون نقاش. فكلما شعر بالاحترام والأمان، ازدادت قدرته على المشاركة وطرح الأسئلة وتطوير مهاراته.
+
+### 4. ضمان المساواة بين تلاميذ المدن والقرى
+
+إذا كان التلميذ في المدينة قد يعاني من الاكتظاظ وضعف التجهيزات وصعوبة الوصول إلى بعض التخصصات، فإن التلميذ في القرى والمناطق الجبلية قد يواجه تحديات أكبر بسبب بُعد المدرسة، وصعوبة التنقل، والظروف المناخية القاسية، ونقص الوسائل التعليمية.
+
+لذلك، يجب العمل على تقليص الفوارق بين الوسطين الحضري والقروي، من خلال بناء المؤسسات بالقرب من التجمعات السكنية، وتحسين النقل المدرسي، وتوفير التدفئة والتجهيزات الأساسية، وتطوير المختبرات والوسائل التعليمية.
+
+ويجب أيضاً ضمان ظروف مناسبة للتعلم في الأقسام المشتركة بين مستويات دراسية مختلفة، وتوفير التكوين والوسائل التي تساعد الأساتذة على التعامل معها بكفاءة.
+
+### 5. توفير بيئة مدرسية صحية وآمنة
+
+لا يمكن الحديث عن جودة التعليم دون الاهتمام بنظافة المرافق الصحية، وتوفير الماء والصابون، وضمان استمرارية الماء والكهرباء، وصيانة التجهيزات بصورة منتظمة.
+
+كما يمكن التفكير في توفير خدمات صحية داخل المؤسسات التعليمية، وفق الإمكانات المتاحة، مع إعطاء أهمية خاصة للصحة النفسية، من خلال إتاحة الاستفادة من أخصائيين نفسيين مؤهلين، يتابعون الحالات التي تحتاج إلى الدعم، ويساهمون في الوقاية من المشكلات النفسية ومعالجتها.
+
+ومن المهم أيضاً الاهتمام بالصحة النفسية للأطر التربوية والإدارية، لأن الأستاذ الذي يعمل في ظروف صعبة ويعاني من الضغط يحتاج بدوره إلى الدعم والمواكبة، حتى يستطيع أداء مهمته على أحسن وجه.
+
+وبما أننا نعيش في مجتمع مسلم، ينبغي مراعاة احتياجات التلاميذ الدينية، وتوفير الظروف المناسبة لمن يرغب في أداء الصلاة في وقتها، دون الإخلال بتنظيم الدراسة أو حقوق الآخرين.
+
+### 6. توظيف الذكاء الاصطناعي والتكنولوجيا لخدمة التلميذ
+
+يمكن للتكنولوجيا والذكاء الاصطناعي أن يسهما في تحسين جودة التعليم، من خلال توفير أدوات تساعد على فهم الدروس، واكتشاف الصعوبات التي يواجهها التلميذ، وتقديم أنشطة تناسب مستواه واحتياجاته.
+
+ويمكن أيضاً تجهيز المؤسسات بأنظمة مراقبة ملائمة، مع وجود أطر مختصة تتابع مدى احترام القواعد وحماية التلاميذ من العنف والتجاوزات. وإذا تم رصد مخالفة، ينبغي إشعار الجهات المعنية للتدخل والتحقق من الواقعة واتخاذ الإجراءات المناسبة.
+
+لكن يجب التأكيد على أن هذه الأنظمة ينبغي أن تُستخدم لحماية التلاميذ، لا للتجسس عليهم أو انتهاك خصوصيتهم. كما أن الكاميرات والذكاء الاصطناعي لا يمكن أن يعوّضا المراقبة البشرية المسؤولة، والتحقيق العادل، والاستماع إلى التلميذ وجميع الأطراف المعنية.
+
+فالهدف هو بناء مدرسة يشعر فيها التلميذ بالأمان، ويعرف أن هناك آليات واضحة لحمايته، وأن أي شكوى يقدمها ستُؤخذ بجدية.
+
+### 7. مراجعة المناهج الدراسية وتطويرها باستمرار
+
+من الضروري مراجعة المناهج الدراسية بصورة منتظمة، حتى تواكب التغيرات العلمية والتكنولوجية والاجتماعية، وتراعي احتياجات الأجيال الجديدة. فاحتياجات تلاميذ اليوم ليست مطابقة بالضرورة لاحتياجات الأجيال السابقة، ولذلك ينبغي تطوير طرق التدريس والمضامين التعليمية باستمرار.
+
+ويمكن إشراك التلاميذ في هذه العملية، من خلال استطلاعات الرأي والحوارات التي تساعد على معرفة الصعوبات التي يواجهونها والمواضيع التي يرغبون في تعلمها.
+
+كما ينبغي أن تتضمن المناهج مواد وأنشطة تساعد على تنمية مهارات الحياة اليومية، والتواصل، والخطابة، والحوار، وتحمل المسؤولية، والتفكير النقدي، إلى جانب المعارف العلمية والأدبية الأساسية.
+
+ومن الأفكار التي يمكن التفكير فيها تخصيص حصص للحوار بين الأستاذ والتلاميذ، يتبادلون خلالها الأفكار ويناقشون بعض القضايا المرتبطة بحياتهم وواقعهم، في إطار من الاحترام والانضباط.
+
+ويمكن أيضاً وضع صندوق مخصص للملاحظات والاقتراحات داخل المؤسسة، يستطيع التلاميذ من خلاله التعبير عن المشكلات التي يواجهونها أو الأشياء التي لا تعجبهم. وتُجمع هذه الرسائل بصورة دورية، وتُدرس من طرف الأطر المكلفة، ثم تُتخذ الإجراءات الممكنة لمعالجة المشكلات المطروحة، مع الحفاظ على السرية عند الحاجة.
+
+### 8. إعادة تنظيم الزمن المدرسي والواجبات المنزلية
+
+من وجهة نظري، ينبغي التفكير في اعتماد نظام دراسي يمنح التلميذ وقتاً كافياً للتعلم والراحة واكتشاف الذات. ويمكن أن يقوم هذا التصور على خمسة أيام من الدراسة أسبوعياً، مع تخصيص يومين للراحة، بدل إرهاق التلميذ بجدول طويل يمتد إلى يوم السبت.
+
+كما يمكن التفكير في تنظيم الدراسة خلال الفترة الصباحية، مثلاً من الساعة الثامنة صباحاً إلى الثانية بعد الزوال، مع مراعاة اختلاف المستويات الدراسية والظروف التنظيمية للمؤسسات.
+
+والغاية من هذا الاقتراح ليست تقليص وقت التعلم دون دراسة، بل إعادة تنظيمه حتى يكون أكثر فعالية، ويترك للتلميذ وقتاً لممارسة الرياضة، وقراءة الروايات، وتطوير مواهبه، والمشاركة في الأنشطة التي يحبها.
+
+كما ينبغي إعادة النظر في كثافة الواجبات المنزلية، حتى لا تتحول إلى عبء يستهلك كل وقت التلميذ بعد عودته من المدرسة. ويمكن التركيز على واجبات هادفة تساعده على تثبيت ما تعلمه، دون حرمانه من الراحة أو من حقه في ممارسة أنشطة أخرى.
+
+### 9. بناء شخصية التلميذ وتعليمه المسؤولية
+
+لا ينبغي أن تقتصر وظيفة المدرسة على تلقين المعلومات وتحضير التلاميذ للامتحانات، بل يجب أن تساهم في بناء شخصياتهم، وتعليمهم كيفية الحوار، واحترام الآخرين، والتعبير عن الرأي، وتحمل المسؤولية.
+
+ولهذا، يمكن تخصيص أنشطة ومواد تهتم بآداب الحوار، والتواصل، والمسؤولية الفردية والجماعية، والتعامل مع الخلافات بطريقة سليمة، إلى جانب التربية الصحية التي تساعد التلميذ على اكتساب عادات غذائية سليمة والاهتمام بصحته.
+
+فالتلميذ الذي يتعلم كيف يناقش فكرة دون أن يهين صاحبها، وكيف يعترف بخطئه ويصححه، سيكون أكثر استعداداً للمشاركة في الحياة العامة، والعمل الجماعي، وخدمة وطنه.
+
+ويمكن أن تساهم هذه الإصلاحات، إلى جانب تحسين الظروف المعيشية والاجتماعية، في الحد من بعض المشكلات النفسية والاجتماعية، وتعزيز الوعي والمسؤولية لدى الشباب، دون أن ننسى أن معالجة هذه القضايا تتطلب أيضاً جهوداً خارج المدرسة.
+
+## ثالثاً: المدرسة التي نحلم بها
+
+تخيّلوا معي أن هذه الإصلاحات بدأت تتحقق تدريجياً، وأن التلميذ أصبح يذهب إلى المدرسة وهو يشعر بالراحة والأمان، ويعرف أن هناك من يستمع إليه ويحترمه، وأن بإمكانه اكتشاف موهبته والتعبير عن رأيه دون خوف.
+
+تخيّلوا مدرسةً تجمع بين المعرفة والأنشطة، وبين الانضباط والحرية المسؤولة، وبين التكوين العلمي وبناء الشخصية. مدرسةً يتعاون فيها التلاميذ والأساتذة والإدارة والأسر من أجل هدف واحد: تكوين إنسان متعلم، متوازن، قادر على التفكير والمشاركة والإبداع.
+
+في مثل هذه المدرسة، قد يتذكر الإنسان سنوات دراسته بوصفها مرحلة جميلة، عاش خلالها لحظات ممتعة مع أصدقائه وأساتذته، وتعلم فيها كيف يحترم الآخرين ويحترم نفسه، وكيف يتحاور ويتحمل المسؤولية ويصبح فرداً نافعاً لوطنه.
+
+إننا لا نريد مدرسةً مثالية في الخيال فقط، بل نريد أن نعمل، كلٌّ من موقعه، من أجل مدرسة أفضل، تكون فيها كرامة التلميذ وحاجاته وحقوقه جزءاً أساسياً من كل إصلاح.
+
+## خاتمة
+
+في النهاية، لا نريد إلا أن نرى بلادنا ضمن أفضل البلدان في مجال التعليم، وأن يحصل تلاميذها على فرص حقيقية للتعلم والتطور وتحقيق أحلامهم.
+
+فالتعليم ليس قضية ظهرت بالأمس، ولا مشكلة تخص فئة واحدة من المجتمع، بل هو قضية تهمنا جميعاً. آباؤنا تعلموا، ونحن ما زلنا نتعلم، وأبناؤنا سيتعلمون من بعدنا. إنها عملية مستمرة، وأساس لا غنى عنه لبناء أي بلد يسعى إلى التقدم والازدهار.
+
+فالعلم نورٌ يضيء العقول، وجسرٌ تعبر به الأمم من ظلمات الجهل إلى آفاق الحضارة. وبالعلم نكتشف أسرار الكون، ونصنع المستقبل، ونبني الإنسان. وليس العالم من جمع المعلومات فحسب، بل من جعل علمه نافعاً لنفسه ولغيره، وسخّره لخدمة الإنسانية.
+
+فالأمم لا تنهض بقوة سلاحها وحده، بل بقوة عقول أبنائها، ولا تُقاس عظمة الشعوب بما تملكه من ثروات فقط، بل بما تنتجه من معرفة، وما تزرعه في عقول أجيالها من وعي وإبداع.
+
+**نحن نحب التغيير ونريده، ونطمح إلى تعليم أفضل، لأن أجمل ما يمكن أن يتحلى به الإنسان هو العلم، وأعظم ما يمكن أن تقدمه الأوطان لأبنائها هو تعليم يحفظ كرامتهم، وينمّي قدراتهم، ويفتح أمامهم أبواب المستقبل.**
+
+**من إعداد وتقديم: Khadija Z.**
+
+**المشاركون في النقاش:** Khadija Z.,Nouha Khlifi ,Aidoudi Saif Eddine, Filali Mohamed Amine Filali، Soufiyane Bounit، Marwa Bouazaoui، Tasnim Houmaine،  Marwan Ettahiri.
+`,
+
+  contentEn: `
+# Education in Morocco: Between Students’ Reality and the School We Dream Of
+
+
+Imagine a school equipped with all modern tools and technologies, including artificial intelligence. Students attend lessons for half the day and spend the other half freely participating in activities they enjoy, without excessive pressure or exhaustion. In this school, systems help identify violations of students’ rights, and teachers work conscientiously, treating students with kindness and helping them develop a genuine love for the subjects they study.
+
+Imagine a school where the interests of students are a priority for every member of the teaching and administrative staff. Students are respected and valued so much that learning and reading become enjoyable experiences. If anyone violates these principles, appropriate monitoring mechanisms, overseen by the responsible authorities, help identify and report misconduct and ensure that suitable measures are taken against anyone who harms a student.
+
+This vision is guided by one principle: **“The student is at the heart of the school. Tomorrow’s engineers, doctors, and journalists are sitting in today’s classrooms. They deserve a good upbringing and a supportive education, so that they do not grow up carrying psychological wounds that may affect their relationships and well-being in the future.”**
+
+Perhaps this ideal school is simply a beautiful picture we carry in our minds, hoping that one day it will become reality. But can this dream become achievable? Can it help us understand the challenges facing education in Morocco and propose solutions that allow our country and its students to reach their full potential?
+
+Ladies and gentlemen, welcome to a discussion of an issue unlike many others. Education can leave us with painful experiences as well as beautiful memories, because it is connected to a stage of life we never truly forget: our years as students.
+
+On October 17, members of the ASGDAM youth community gathered to discuss education and possible reforms. Their conversation drew on personal experiences, individual perspectives, and problems they had experienced or witnessed in educational institutions.
+
+## 1. Education as Remembered by Students
+
+Anyone who has experienced overcrowded classrooms can imagine what it is like to study in a room with forty students, sometimes as many as fifty. Students sitting near the front may be able to concentrate, but what about those at the back? They may struggle to hear the teacher amid the noise, shouting, and constant movement. One student may need to leave for the restroom, another may drop a pen, and other interruptions may disturb the lesson and make it harder for everyone to focus.
+
+Some students may remember wanting to pursue a particular high-school specialization, only to discover that they had to travel long distances to find a school offering economics and management, technology, or life and earth sciences. This can be especially difficult in smaller cities and areas where not every specialization is available.
+
+Others may remember the psychological harm caused by a teacher who bullied them, shouted at them for failing to understand a lesson, or did not show the patience and care required for teaching. Some people still remember, years later, being hit as children for failing to complete homework, or being spoken to in a humiliating way by a staff member despite having done nothing to deserve such treatment.
+
+Students may also remember dirty restrooms, occasional interruptions in water or electricity, and sports grounds without suitable equipment. Some are forced to exercise on stony surfaces in places that should instead provide a safe and comfortable environment.
+
+A student might have wanted to play tennis at school but found only a very limited range of sports. How can students discover their talents if they are not given the opportunities and facilities they need?
+
+Others may remember being subjected to violence during adolescence because of their hairstyle or appearance, instead of receiving guidance through respectful dialogue.
+
+We should also consider students who did not begin learning English and its letters until middle school, then found themselves expected to understand lessons and concepts that were difficult for beginners. How can we expect students to master an international language if they have not had the opportunity to learn it gradually from an earlier age?
+
+For students living in rural areas, the journey to school may be much harder. Long distances, cold weather, snow, and inadequate transport can prevent them from reaching their schools. Some mountain schools lack essential facilities, while some classrooms combine students from different grades, such as first- and second-year primary pupils. These conditions make learning and teaching more difficult.
+
+Another challenge is the use of teaching methods that do not always take students’ levels into account. A student may face explanations filled with unfamiliar language and concepts, even though they only learned the foundations the previous year. Instead of making learning enjoyable, the experience becomes a source of stress and confusion.
+
+Some students may also feel that they never had the opportunity to discover their talents because they spent long hours studying, morning and evening, without enough time for other activities. Is the purpose of school merely to produce students who memorize lessons, or should it also help them discover their abilities and build their personalities?
+
+Students may remember the many procedures used to prevent cheating during examinations, from strict supervision to verification codes and photographing or checking those codes. Preventing cheating and ensuring fairness are important, but these procedures should be clear and reasonable so that examinations do not become experiences dominated by anxiety and fear.
+
+Some students also experience anxiety because of tests and examinations, particularly when nobody explains their mistakes calmly or reassures them that mistakes are a normal part of learning. How different might a student's experience be if a teacher reminded them that making a mistake is not the end of the world and that practice can lead to improvement?
+
+A student may want to understand a scientific experiment or see a practical demonstration of a lesson, only to discover that the necessary equipment is missing or broken. How can we expect students to love science if they are not always given opportunities to explore it through experimentation and observation?
+
+It is also troubling to hear of teachers who say that they entered the profession simply because it was available to them or offered employment, rather than because they love teaching or want to guide children and teenagers through their education.
+
+This raises an important question: how can a teacher who dislikes the profession, or who has not received sufficient training in teaching methods and in working with children and adolescents, contribute to raising a balanced and educated generation?
+
+A person may earn a university degree and pass a recruitment examination, yet still need strong pedagogical and psychological training, communication skills, classroom-management abilities, and the capacity to explain complex ideas simply. Teaching is not merely the delivery of information. It also involves education, guidance, and understanding the differences between learners.
+
+Some students see private schools as institutions where their concerns may receive greater attention and where administrators may respond quickly when problems arise. The goal should not be to turn public education into a copy of private education. Instead, every student, regardless of financial circumstances, should have the right to attend a school that listens, shows respect, and takes problems seriously.
+
+Others may remember studying the same curriculum as an older sibling, even though years have passed and students’ needs, scientific developments, and technological changes have evolved. Why should curricula not be regularly updated to keep pace with the times while preserving the foundations students need?
+
+A student may feel discouraged after receiving a disappointing mark despite attending extra lessons, or after struggling to understand a subject despite considerable effort. This should encourage us to examine the quality of learning and the methods of assessment instead of reducing success to grades or the number of hours spent studying.
+
+There is also a need for more extracurricular activities, including public speaking, communication, dialogue, arts, and activities that go beyond copying lessons and completing exercises. Such opportunities help students take a break from academic pressure, develop interpersonal skills, build confidence, and express their ideas effectively.
+
+## 2. The Reforms We Hope to See
+
+Having explored these problems, we can consider solutions that may help build a better school: one that places students’ interests at the centre and provides conditions that support learning, growth, and self-discovery.
+
+### 1. Reducing Overcrowding and Improving Infrastructure
+
+More schools should be built and equipped with suitable infrastructure. Classrooms should contain a reasonable number of students so teachers can follow each learner’s progress and students have enough opportunities to understand lessons, participate, and ask questions.
+
+Schools should also have science laboratories and modern equipment, varied sports facilities, and rooms for extracurricular activities such as public speaking, theatre, and the arts. Where resources allow, facilities for swimming and other sports should also be considered.
+
+Students should be encouraged to create and lead clubs based on their interests, within a framework of responsibility and organization and without unnecessary restrictions. These activities are not merely entertainment; they are an important part of developing students’ personalities and discovering their talents.
+
+Someone may earn an excellent baccalaureate grade yet struggle to speak in public or express an opinion because they have had too few opportunities to practise communication. Schools should therefore do more than prepare students for examinations. They should also help them understand the world, engage with it, and contribute to improving it.
+
+School administration should serve students. Students should be able to find someone who listens to their concerns and helps address their problems instead of feeling unable to express disagreement or share an opinion.
+
+### 2. Replacing Violence with Dialogue and Responsible Discipline
+
+Some disciplinary practices need to be reconsidered when they make students feel humiliated or frightened, or cause them to dislike school. A punishment is not successful simply because it makes a student afraid. It should help the student understand the mistake, take responsibility, and correct the behaviour.
+
+When a student behaves inappropriately, a teacher can speak with them calmly, try to understand the reasons behind the behaviour, and offer suitable educational guidance. For example, the student might be invited to read a book related to the behaviour and then discuss what they learned with the teacher.
+
+The goal is not to eliminate school rules. It is to ensure that disciplinary measures are fair and proportionate and do not become tools of humiliation, exclusion, or psychological harm that may contribute to students leaving school.
+
+Violence in educational institutions must be addressed, whether it comes from a teacher, an administrator, or another person. Violence is not a healthy educational tool. Teachers and administrative staff should receive stronger pedagogical and psychological training, and recruitment requirements should ensure both subject knowledge and the ability to teach and communicate appropriately with children and teenagers.
+
+Responsibility does not rest with teachers alone. It also involves supervisors, administrators, and other staff. For example, should a student be prevented from entering a classroom simply because they have not yet obtained a document explaining an absence? The administration can ask for an explanation and verify it through the appropriate procedures, but paperwork should not become an unnecessary barrier to education.
+
+Students who miss school for legitimate reasons should have a clear procedure for explaining their absence rather than being left outside a classroom until they obtain a particular document. Absence procedures should be understandable and fair so that rules intended to organize education do not become reasons for students to dislike school or abandon it.
+
+In my view, when students are given suitable conditions, they will generally have fewer reasons to miss school. A comfortable environment based on respect and dialogue can encourage attendance and discipline more effectively than fear alone.
+
+### 3. Improving Learning Conditions and Teaching Quality
+
+To improve education, the number of students in each classroom should be reduced. Teachers would then have more time to explain lessons, follow individual progress, and answer questions. A class of around fifteen students could be an ambitious target for improving learning quality, while taking available resources and organizational needs into account.
+
+Teachers should be able to explain information clearly, recognize differences in students’ levels, and use examples and experiments to support understanding rather than relying on a single method for everyone.
+
+Students should feel that they are active partners in education, not merely recipients of information or people expected to follow orders without discussion. Respect and safety make it easier for them to participate, ask questions, and develop their abilities.
+
+### 4. Ensuring Equality Between Urban and Rural Students
+
+Students in cities may struggle with overcrowding, inadequate equipment, and limited access to certain specializations. Students in rural and mountainous areas may face even greater challenges because of the distance to school, difficult transport, harsh weather, and a lack of learning resources.
+
+The gap between urban and rural education should be reduced by building schools closer to communities, improving school transport, providing heating and essential facilities, and developing laboratories and teaching resources.
+
+Students in classrooms that combine different grade levels should also receive suitable learning conditions. Teachers should have the training and resources necessary to teach these classes effectively.
+
+### 5. Creating a Healthy and Safe School Environment
+
+Educational quality cannot be discussed without addressing clean toilets, access to water and soap, reliable water and electricity, and regular maintenance of school facilities.
+
+Where resources allow, schools should consider providing health services and qualified psychological support. Specialists can assist students who need help and contribute to preventing and addressing psychological difficulties.
+
+The mental well-being of teachers and administrative staff also matters. Teachers working under difficult conditions and experiencing stress need support so they can perform their responsibilities effectively.
+
+As Morocco is a Muslim society, schools should also take students’ religious needs into account and provide suitable arrangements for those who wish to pray at the appropriate time, while respecting the organization of school life and the rights of others.
+
+### 6. Using Artificial Intelligence and Technology to Support Students
+
+Technology and artificial intelligence can improve education by helping students understand lessons, identify learning difficulties, and access activities suited to their levels and needs.
+
+Schools may also use appropriate monitoring systems, supported by trained staff, to help enforce rules and protect students from violence and misconduct. When a violation is reported, the responsible authorities should be informed so that they can investigate and take appropriate action.
+
+However, these systems must protect students rather than spy on them or violate their privacy. Cameras and artificial intelligence cannot replace responsible human supervision, fair investigations, or listening carefully to students and everyone involved.
+
+The aim is to build a school where students feel safe, know that clear protection mechanisms exist, and trust that their complaints will be taken seriously.
+
+### 7. Regularly Reviewing and Updating Curricula
+
+Curricula should be reviewed regularly to reflect scientific, technological, and social changes and the needs of new generations. Today’s students do not necessarily have the same needs as previous generations, so teaching methods and educational content should continue to develop.
+
+Students can be involved through surveys and discussions that help identify their difficulties and the subjects they would like to learn.
+
+Curricula should also include activities that develop everyday life skills, communication, public speaking, dialogue, responsibility, and critical thinking, alongside essential scientific and literary knowledge.
+
+Schools could dedicate some class time to respectful dialogue between teachers and students, allowing them to exchange ideas and discuss issues connected to their lives and experiences.
+
+A suggestion box could also be placed in each school so students can report problems and propose improvements. The suggestions could be collected regularly, reviewed by the responsible staff, and addressed wherever possible, with confidentiality maintained when necessary.
+
+### 8. Reorganizing School Hours and Homework
+
+In my view, the school timetable should give students sufficient time to learn, rest, and discover their interests. One proposal would be to organize schooling over five days a week, leaving two days for rest instead of extending a demanding schedule into Saturday.
+
+Another possibility would be to organize lessons mainly in the morning, for example from eight in the morning until two in the afternoon, while taking different educational levels and institutional needs into account.
+
+The purpose is not to reduce learning time without careful planning, but to organize it more effectively and give students time for sports, reading novels, developing talents, and participating in activities they enjoy.
+
+Homework should also be reconsidered so that it does not consume all of a student’s time after school. Schools could focus on meaningful assignments that reinforce learning without depriving students of rest or the opportunity to pursue other activities.
+
+### 9. Developing Students’ Character and Sense of Responsibility
+
+The role of school should not be limited to delivering information and preparing students for examinations. It should also help build their character and teach them to communicate, respect others, express opinions, and take responsibility.
+
+Schools could provide activities and lessons on respectful dialogue, communication, individual and collective responsibility, and resolving disagreements constructively. Health education should also help students develop healthy eating habits and take care of their well-being.
+
+Students who learn to discuss ideas without insulting others, acknowledge their mistakes, and correct them will be better prepared to participate in public life, work with others, and serve their country.
+
+These reforms, together with improvements in social and living conditions, may help reduce some psychological and social difficulties and strengthen awareness and responsibility among young people. However, these issues also require efforts beyond the school environment.
+
+## 3. The School We Dream Of
+
+Imagine these reforms gradually becoming reality. Students go to school feeling comfortable and safe, knowing that someone will listen to them and respect them. They can discover their talents and express their opinions without fear.
+
+Imagine a school that combines knowledge with activities, discipline with responsible freedom, and academic learning with personal development. Students, teachers, administrators, and families work together towards one goal: educating balanced, knowledgeable people who can think, participate, and create.
+
+In such a school, people may remember their school years as a beautiful period filled with meaningful moments with friends and teachers. They learn to respect others and themselves, communicate, take responsibility, and become useful members of their communities.
+
+We do not want an ideal school that exists only in our imagination. We want everyone, from their own position, to work towards a better school where students’ dignity, needs, and rights are central to every reform.
+
+## Conclusion
+
+Ultimately, we want to see Morocco among the countries with the strongest education systems and ensure that its students have real opportunities to learn, develop, and achieve their dreams.
+
+Education is not a problem that appeared yesterday, nor does it concern only one part of society. It concerns all of us. Our parents learned, we continue to learn, and our children will learn after us. Education is an ongoing process and an essential foundation for every country seeking progress and prosperity.
+
+Knowledge is a light that illuminates minds and a bridge that carries nations from the darkness of ignorance towards the horizons of civilization. Through knowledge, we discover the secrets of the universe, shape the future, and develop humanity. A truly knowledgeable person is not simply someone who collects information, but someone who uses knowledge to benefit themselves and others and to serve humanity.
+
+Nations do not rise through the strength of their weapons alone, but through the strength of their people’s minds. The greatness of a society is not measured only by the wealth it possesses, but also by the knowledge it produces and the awareness and creativity it nurtures in future generations.
+
+**We want change, and we welcome it. We aspire to better education because knowledge is one of the finest qualities a person can develop, and one of the greatest gifts a country can offer its children is an education that protects their dignity, develops their abilities, and opens the doors to their future.**
+
+**Written and presented by: Khadija Z.**
+
+**Discussion participants:** Khadija Z.,Nouha Khlifi ,Aidoudi Saif Eddine, Filali Mohamed Amine Filali، Soufiyane Bounit، Marwa Bouazaoui، Tasnim Houmaine،  Marwan Ettahiri.
+`,
+
+  contentTzm: `
+# ⴰⵙⵍⵎⴷ ⴳ ⵍⵎⵖⵔⵉⴱ: ⴳⵔ ⵜⵉⵍⴰⵡⵜ ⵏ ⵓⵏⵍⵎⴰⴷ ⴷ ⵜⵉⵔⵉⵜ ⵏ ⵜⵉⵏⵎⵍ ⵏⵏⴰ ⵏⵔⴰ
+
+
+ⵙⵙⵏⵓⵎⵎⵓ ⵉⵍⵎⴰⴷ ⵏⵏⴰ ⵢⵍⵍⴰⵏ ⴳ ⵜⵉⵏⵎⵍ ⵢⴰⵏ ⵓⵙⵓⵍⴼ ⵉⵎⵥⵥⵉⵢⵏ, ⵉⴳⴰ ⵉⵎⵓⵔⵙ ⵙ ⵉⵙⵎⵓⵏⵏ ⵏ ⵜⵉⴽⵏⵓⵍⵓⵊⵉⵜ ⵜⵉⵏⵏⴰ ⵜⴰⵎⴰⵢⵏⵓⵜ, ⴰⵔ ⵉⵍⵍⴰ ⴷⴰⵔⵙ ⴰⵙⵎⵔⵙ ⵏ ⵓⵎⴰⵙⵙⵏ ⵏ ⵜⵉⵏⵎⵍ. ⵉⵍⵎⴰⴷ ⴰⵔ ⵙⵙⵍⵎⴰⴷⵏ ⵙ ⵓⵣⵎⵣ ⵏ ⵜⴰⵍⵍⵉⵜ, ⴷ ⴰⵔ ⵜⵜⵙⵙⵎⵔⵙⵏ ⴰⵣⵎⵣ ⵏⵏⵙⵏ ⴰⵢⵏⵏⴰⵢⴰⴹ ⴳ ⵉⵙⵏⴼⴰⵔ ⵏⵏⴰ ⵔⴰⵏ, ⴱⵍⴰ ⴰⵙⵔⵔⴰⵡ ⴷ ⵓⵙⵙⵉⵔⴷ.
+
+ⴳ ⵜⵉⵏⵎⵍ ⴰⴷ, ⴰⵙⵍⵎⴷ ⵏ ⵓⵏⵍⵎⴰⴷ ⵉⴳⴰ ⵜⴰⵎⵏⵜⵉⵍⵜ ⵜⴰⵎⵣⵡⴰⵔⵓⵜ ⵏ ⵉⵎⵙⵙⵍⵎⴰⴷ ⴷ ⵉⵎⵙⵙⵓⴷⵙⵏ. ⵉⵍⵎⴰⴷ ⴰⵔ ⵜⵜⵓⵙⵙⵉⵏⵏ ⴷ ⴰⵔ ⵜⵜⵓⵙⵙⵎⵏⵏ, ⴰⵔ ⵜⵜⵎⵎⵔⵙⵏ ⵜⴰⵎⵓⵙⵏⵉ ⴷ ⵜⵉⵎⵙⵙⴰⵙⵜ ⵉ ⵓⵙⵍⵎⴷ. ⵎⴽ ⵉⵙⵙⴼⵍ ⵢⴰⵏ ⴰⵙⵙⵓⵍⴼ ⴰⴷ, ⵉⵍⵍⴰ ⵓⵙⵎⵓⵙⵙ ⵏ ⵓⵙⵙⴼⵍ ⵏ ⵓⵙⵍⵎⴷ, ⴷ ⴰⵙⵙⴽⵏ ⵏ ⵓⵙⵙⵎⵔⵙ ⵏ ⵉⵙⵓⵍⴼⵏ ⵉⵙⵙⵓⵍⴼⵏ.
+
+ⵜⴰⵙⵓⵍⴼⵜ ⴰⴷ ⵜⵙⵎⵎⵔⴰⵙ ⵙ ⵢⴰⵏ ⵓⵎⵙⴰⵡⴰⵍ: **«ⴰⵏⵍⵎⴰⴷ ⵉⴳⴰ ⴰⵎⵣⵡⴰⵔⵓ ⴳ ⵜⵉⵏⵎⵍ. ⴰⵔ ⵏⵙⵙⵏⵓⵎⵎⵓ ⵉⵎⴰⵙⵙⵏ ⵏ ⵓⵙⵙⵓⵔⵙ ⴷ ⵓⵙⵍⵎⴷ ⵏ ⵉⵎⴰⵣⵣⴰⵏ ⵏ ⵓⵙⵙⵓⵔⵙ. ⵉⵍⵎⴰⴷ ⵙⵙⵏⵖⵙⵏ ⵉⵙⵙⵏⵎⵎⵓⵏ, ⴰⵔ ⵜⵜⵙⵙⵏⵎⵎⵓⵏ ⵙ ⵜⵎⵙⵙⴰⵙⵜ, ⵙ ⵓⵙⵙⵏⴽⵔ ⴷ ⵓⵙⵙⵏⴼⵍ. »**
+
+ⵎⴽ ⵉⵣⵎⵔ ⵓⵙⵓⵍⴼ ⴰⴷ ⵉⵍⵍⵉ ⴷ ⵜⵉⵔⵉⵜ ⵏⵏⵖ, ⵏⵙⵙⵇⵙⴰ: ⵎⴰⵏⵉ ⵉⵣⵎⵔ ⵓⵙⵙⵏⴼⵍ ⴰⴷ ⵉⵍⵍⵉ ⴷ ⵜⵉⵍⴰⵡⵜ? ⵎⴰⵏⵉ ⵏⵣⵎⵔ ⴰⴷ ⵏⵙⵙⵏ ⵉⵎⵙⵓⵔⵙⵏ ⵏ ⵓⵙⵍⵎⴷ ⴳ ⵍⵎⵖⵔⵉⴱ, ⴷ ⴰⴷ ⵏⵙⵙⵓⵎⵎⵓ ⵉⵙⵓⵍⴼⵏ ⵉⵙⵙⵓⵍⴼⵏ ⵉ ⵓⵙⵙⵏⴼⵍ?
+
+ⴰⵙⵙ ⵏ 17 ⴽⵜⵓⴱⵔ, ⵎⵓⵏⵏ ⵉⵎⴷⵔⴰⵡⵏ ⵏ ASGDAM Community ⵉ ⵓⵎⵙⴰⵡⴰⵍ ⵅⴼ ⵓⵙⵍⵎⴷ ⴷ ⵓⵙⵙⵏⴼⵍ ⵏⵏⵙ. ⵙⵙⵎⵔⵙⵏ ⵜⵉⵔⵉⵜ ⵏⵏⵙⵏ, ⵜⵉⵎⵓⵙⵏⵉ ⵏⵏⵙⵏ, ⴷ ⵉⵎⵙⵓⵔⵙⵏ ⵏⵏⴰ ⵙⵙⵏⵏ ⵏⵉⵖ ⵥⵕⵕⵏ ⴳ ⵜⵉⵏⵎⵍ.
+
+## ⴰⵎⵣⵡⴰⵔⵓ: ⵜⵉⵍⴰⵡⵜ ⵏ ⵓⵙⵍⵎⴷ ⵙ ⵜⵉⵔⵉⵜ ⵏ ⵓⵏⵍⵎⴰⴷ
+
+ⵉⵎⴷⵔⴰⵡⵏ ⵏⵏⴰ ⵥⵕⵕⵏ ⵉⵙⵎⵓⵏⵏ ⴳ ⵜⵉⵏⵎⵍ ⵣⵎⵔⵏ ⴰⴷ ⵙⵙⵏⵓⵎⵎⵓ ⵉⵎⵙⵓⵔⵙⵏ ⵏ ⵓⵙⵍⵎⴷ ⴳ ⵓⵙⵓⵍⴼ ⵉⴳⴰⵏ ⴰⵎⵓⵏ ⵏ 40 ⵏⵉⵖ 50 ⵏ ⵉⵍⵎⴰⴷ. ⵉⵎⴷⵔⴰⵡⵏ ⵏⵏⴰ ⵙⵙⵓⵍⴼⵏ ⴳ ⵜⵉⵎⵙⵙⴰⵙⵜ ⵏ ⵜⴰⵎⵣⵡⴰⵔⵓⵜ ⵣⵎⵔⵏ ⴰⴷ ⵙⵙⵏⵎⵎⵓⵏ, ⵎⴰⵛⴰ ⵉⵎⴷⵔⴰⵡⵏ ⵏⵏⴰ ⵉⵍⵍⴰⵏ ⴳ ⵓⵙⵓⵍⴼ ⵏ ⵓⵙⵙⵉⵔⴷ ⵣⵎⵔⵏ ⴰⴷ ⵓⵔ ⵙⵍⵍⵏ ⵉ ⵓⵙⵍⵎⴰⴷ ⵙ ⵓⵙⵙⵏⴽⵔ ⴷ ⵓⵙⵙⵓⵔⵙ.
+
+ⵢⴰⵏ ⵓⵏⵍⵎⴰⴷ ⵉⵣⵎⵔ ⴰⴷ ⵉⵔⴰ ⵢⴰⵏ ⵓⵙⵙⵓⵍⴼ ⵏⵏⴰ ⵓⵔ ⵉⵍⵍⵉ ⴳ ⵜⵉⵏⵎⵍ ⵏⵏⵙ, ⴷ ⴰⴷ ⵉⵙⵙⵓⵔⵙ ⵉⵣⵎⵎⵓⵔⵏ ⵏⵏⵙ ⵙ ⵓⵎⴰⵙⵙⵏ. ⵎⴰⵛⴰ ⵉⵣⵎⵔ ⴰⴷ ⵉⵍⵍⵉ ⵙ ⵓⵙⵙⵓⵍⴼ ⵉⴱⵄⴷ ⴷ ⵓⵙⵓⵍⴼ ⵏⵏⵙ, ⵉⵙⵙⵏⵏ ⴰⴷ ⵉⵙⵙⵓⵔⵙ ⴰⵙⵎⵓⵙⵙ ⵏ ⵓⵙⵙⵏⵎⵎⵓⵏ.
+
+ⵉⵎⴷⵔⴰⵡⵏ ⵣⵎⵔⵏ ⴰⴷ ⵙⵙⵏⵓⵎⵎⵓ ⵉⵎⵙⵓⵔⵙⵏ ⵏ ⵓⵙⵍⵎⴷ ⵏⵏⴰ ⵙⵙⵏⵏ ⵉⵎⵏⴰⴹⵏ ⵏ ⵓⵙⵍⵎⴷ. ⵉⵎⴷⵔⴰⵡⵏ ⵏ ⵓⵙⵙⵓⵔⵙ ⵣⵎⵔⵏ ⴰⴷ ⵉⵍⵍⵉ ⴳ ⵉⵙⵎⵓⵏⵏ ⵏ ⵓⵙⵍⵎⴷ, ⵉⵙⵙⵓⵍⴼⵏ ⵏ ⵓⵙⵙⵓⵍⴼ, ⴷ ⵉⵙⵙⵓⵍⴼⵏ ⵏ ⵜⵉⵏⵎⵍ.
+
+ⴰⵏⵍⵎⴰⴷ ⵏⵏⴰ ⵉⵣⵔⵉⵏ ⵙ ⵓⵙⵓⵍⴼ ⵏ ⵓⵙⵙⵓⵍⴼ ⵏⵏⴰ ⵉⵙⵙⵓⵔⵙ ⴰⴷ ⵉⵙⵙⵏⵓⵎⵎⵓ ⵉⵙⵙⵏⴼⵍ ⵏ ⵓⵙⵙⵓⵍⴼ. ⵉⵍⵍⴰ ⴰⵏⵍⵎⴰⴷ ⵏⵏⴰ ⵉⵣⵔⵉⵏ ⵙ ⵓⵙⵙⵓⵍⴼ ⵏ ⵓⵙⵙⵓⵍⴼ ⵏⵏⴰ ⵉⵙⵙⵓⵔⵙ ⴰⴷ ⵉⵙⵙⵏⵓⵎⵎⵓ ⵉⵙⵙⵏⴼⵍ ⵏ ⵓⵙⵙⵓⵍⴼ.
+
+ⵉⵎⴷⵔⴰⵡⵏ ⵙⵙⵏⵏ ⵎⴰⵙ ⵉⵍⵍⴰ ⵓⵙⵙⵓⵍⴼ ⵏ ⵓⵙⵙⵓⵍⴼ ⵏ ⵓⵙⵍⵎⴷ ⵉⵍⵍⴰ ⵙ ⵓⵙⵙⵏⴼⵍ ⵏ ⵓⵙⵙⵓⵍⴼ ⴷ ⵓⵙⵙⵓⵍⴼ ⵏ ⵉⵎⴷⵔⴰⵡⵏ. ⴰⵙⵙⵓⵍⴼ ⵏ ⵓⵙⵍⵎⴷ ⵓⵔ ⵉⴳⴰ ⴰⵙⵙⵓⵔⵙ ⵏ ⵉⵙⵎⵓⵏⵏ ⵙ ⵓⵎⵙⴰⵡⴰⵍ ⴰⵎⵓⵏ, ⵎⴰⵛⴰ ⴷ ⴰⵙⵙⵓⵍⴼ ⵏ ⵓⵙⵙⵏⵎⵎⵓⵏ, ⴰⵙⵙⵏⵎⵎⵓⵏ ⴷ ⵓⵙⵙⵏⴼⵍ.
+
+## ⴰⵙⵙⵉⵏ: ⵉⵙⵓⵍⴼⵏ ⵏⵏⴰ ⵏⵔⴰ ⵉ ⵓⵙⵙⵏⴼⵍ ⵏ ⵓⵙⵍⵎⴷ
+
+ⵎⴱⵄⴷ ⵏ ⵓⵙⵙⵏ ⵏ ⵉⵎⵙⵓⵔⵙⵏ, ⵏⵣⵎⵔ ⴰⴷ ⵏⵙⵙⵏⵓⵎⵎⵓ ⵉⵙⵓⵍⴼⵏ ⵉⵣⵎⵔⵏ ⴰⴷ ⵙⵙⵏⴼⵍⵏ ⵜⵉⵏⵎⵍ, ⴷ ⴰⴷ ⵙⵙⵏⵓⵎⵎⵓ ⵉⵍⵎⴰⴷ ⴳ ⵜⵉⵏⵎⵍ ⵉⵍⵍⴰⵏ ⵙ ⵜⵎⵙⵙⴰⵙⵜ ⴷ ⵓⵙⵙⵏⴼⵍ.
+
+### 1. ⴰⵙⵙⵏⴼⵍ ⵏ ⵓⵙⵎⵓⵏ ⴷ ⵓⵙⵙⵓⵍⴼ ⵏ ⵜⵉⵏⵎⵍ
+
+ⵉⵍⵍⴰ ⴰⵙⵙⵏⴼⵍ ⵏ ⵜⵉⵏⵎⵍ ⴷ ⵓⵙⵙⵓⵍⴼ ⵏ ⵓⵙⵎⵓⵏ ⵏⵏⵙ. ⵉⵍⵍⴰ ⴰⵙⵙⵓⵍⴼ ⵏ ⵉⵎⵙⵓⵍⴼⵏ ⵏ ⵓⵙⵍⵎⴷ, ⵉⵎⵙⵓⵍⴼⵏ ⵏ ⵜⵉⵏⵎⵍ, ⴷ ⵉⵙⵎⵓⵏⵏ ⵏ ⵓⵙⵙⵏⴼⵍ.
+
+ⵉⵍⵍⴰ ⴰⵙⵙⵓⵍⴼ ⵏ ⵉⵎⵙⵙⵍⵎⴰⴷ ⴰⴷ ⵙⵙⵏⵓⵎⵎⵓ ⵉⵍⵎⴰⴷ ⵙ ⵓⵙⵙⵏⵎⵎⵓⵏ ⴷ ⵓⵙⵙⵓⵍⴼ. ⵉⵍⵍⴰ ⴰⵙⵙⵓⵍⴼ ⵏ ⵉⵎⵙⵙⵍⵎⴰⴷ ⴰⴷ ⵙⵙⵏⵓⵎⵎⵓ ⵉⵍⵎⴰⴷ ⵙ ⵓⵙⵙⵏⵎⵎⵓⵏ ⴷ ⵓⵙⵙⵓⵍⴼ.
+
+### 2. ⴰⵙⵙⵏⴼⵍ ⵏ ⵓⵙⵙⵏⵎⵎⵓⵏ ⵙ ⵓⵎⵙⴰⵡⴰⵍ ⵎⴰⵛⴰ ⵓⵔ ⵙ ⵓⵏⵏⴰⵖ
+
+ⵉⵍⵍⴰ ⴰⵙⵙⵏⴼⵍ ⵏ ⵉⵎⵙⵙⵓⵍⴼⵏ ⵏ ⵓⵙⵙⵏⴼⵍ ⵏⵏⴰ ⵉⵣⵎⵔⵏ ⴰⴷ ⵙⵙⵏⵎⵎⵓⵏ ⵉⵍⵎⴰⴷ ⵙ ⵜⵎⵙⵙⴰⵙⵜ ⴷ ⵓⵙⵙⵏⴼⵍ. ⵉⵍⵍⴰ ⴰⵙⵙⵏⴼⵍ ⵏ ⵓⵙⵙⵏⵎⵎⵓⵏ ⴰⵎⵙⴰⵡⴰⵍ, ⴰⵙⵙⵏⵎⵎⵓⵏ ⵏ ⵓⵎⵙⵓⵔⵙ ⴷ ⵓⵙⵙⵏⴼⵍ ⵏ ⵓⵙⵙⵏⵎⵎⵓⵏ.
+
+ⵎⴽ ⵉⵙⵙⴼⵍ ⵓⵏⵍⵎⴰⴷ ⵢⴰⵏ ⵓⵎⵙⵓⵔⵙ, ⵉⵣⵎⵔ ⵓⵎⵙⵙⵍⵎⴰⴷ ⴰⴷ ⵉⵙⵙⵏⵎⵎⵓⵏ ⴷⴰⵔⵙ ⵙ ⵓⵙⵙⵏⵎⵎⵓⵏ, ⴰⴷ ⵉⵙⵙⵏ ⵎⴰⵏⵉ ⵉⵙⵙⴼⵍ ⵓⵏⵍⵎⴰⴷ, ⴷ ⴰⴷ ⵉⵙⵙⵏⴼⵍ ⵓⵎⵙⵓⵔⵙ ⵏⵏⵙ. ⴰⵎⵙⵙⵓⵍⴼ ⵓⵔ ⵉⴳⴰ ⴰⵙⵙⵏⵎⵎⵓⵏ ⵏ ⵓⵙⵙⵓⵍⴼ ⵏ ⵓⵙⵙⵏⵎⵎⵓⵏ ⵙ ⵓⵙⵙⵓⵔⵙ, ⵎⴰⵛⴰ ⵉⴳⴰ ⴰⵙⵙⵏⵎⵎⵓⵏ ⵏ ⵓⵙⵙⵏⴼⵍ.
+
+### 3. ⴰⵙⵙⵏⴼⵍ ⵏ ⵜⵉⵍⴰⵡⵜ ⵏ ⵓⵙⵍⵎⴷ
+
+ⵉⵍⵍⴰ ⴰⵙⵙⵏⴼⵍ ⵏ ⵓⵙⵙⵓⵍⴼ ⵏ ⵓⵙⵍⵎⴷ ⴷ ⵓⵙⵙⵏⴼⵍ ⵏ ⵓⵙⵙⵓⵍⴼ ⵏ ⵓⵙⵙⵓⵔⵙ. ⵉⵍⵍⴰ ⴰⵙⵙⵏⴼⵍ ⵏ ⵓⵙⵙⵓⵍⴼ ⵏ ⵓⵙⵍⵎⴷ ⴰⴷ ⵉⵙⵙⵏⵓⵎⵎⵓ ⵉⵍⵎⴰⴷ ⵙ ⵓⵙⵙⵏⵎⵎⵓⵏ, ⴷ ⴰⴷ ⵉⵙⵙⵏⵎⵎⵓⵏ ⴰⵙⵙⵓⵍⴼ ⵏⵏⵙⵏ.
+
+### 4. ⵜⴰⵎⵙⵙⴰⵙⵜ ⴳⵔ ⵉⵍⵎⴰⴷ ⵏ ⵜⵎⴷⵉⵏⵜ ⴷ ⵉⵍⵎⴰⴷ ⵏ ⵜⴰⴳⵔⴰⵡⵜ
+
+ⵉⵍⵎⴰⴷ ⵏ ⵜⵎⴷⵉⵏⵜ ⵣⵎⵔⵏ ⴰⴷ ⵙⵙⵏⵓⵎⵎⵓ ⵉⵙⵎⵓⵏⵏ, ⴷ ⵓⵙⵙⵓⵍⴼ ⵏ ⵓⵙⵙⵓⵍⴼ. ⵉⵍⵎⴰⴷ ⵏ ⵜⴰⴳⵔⴰⵡⵜ ⴷ ⵉⴷⵔⴰⵔⵏ ⵣⵎⵔⵏ ⴰⴷ ⵙⵙⵏⵓⵎⵎⵓ ⵉⵙⵎⵓⵏⵏ ⵉⵎⵥⵥⵉⵢⵏ: ⴰⵎⵓⵔⵙ ⵏ ⵓⵙⵍⵎⴷ, ⵓⵙⵙⵓⵍⴼ ⵏ ⵓⵙⵙⵓⵍⴼ, ⴷ ⵓⵙⵙⵓⵍⴼ ⵏ ⵓⵙⵙⵏⴼⵍ.
+
+### 5. ⴰⵙⵙⵓⵍⴼ ⵏ ⵜⵉⵏⵎⵍ ⵉⵎⵥⵥⵉⵢⵏ ⴷ ⵉⵙⵙⵓⵍⴼⵏ
+
+ⵉⵍⵍⴰ ⴰⵙⵙⵓⵍⴼ ⵏ ⵉⵙⵙⵓⵍⴼⵏ ⵉⵎⵥⵥⵉⵢⵏ, ⵉⵙⵙⵓⵍⴼ ⵏ ⵓⵎⴰⵏ, ⴷ ⵓⵙⵙⵓⵍⴼ ⵏ ⵜⵉⵏⵎⵍ. ⵉⵍⵍⴰ ⵓⵙⵙⵓⵍⴼ ⵏ ⵓⵙⵙⵏⴼⵍ ⵏ ⵜⵉⵏⵎⵍ ⵉⵙⵙⵓⵍⴼⵏ ⵏ ⵓⵙⵙⵏⵎⵎⵓⵏ ⴷ ⵓⵙⵙⵏⵎⵎⵓⵏ ⵏ ⵉⵍⵎⴰⴷ.
+
+### 6. ⴰⵙⵙⵎⵔⵙ ⵏ ⵜⵉⴽⵏⵓⵍⵓⵊⵉⵜ ⴷ ⵓⵎⴰⵙⵙⵏ ⵏ ⵜⵉⵏⵎⵍ
+
+ⵉⵣⵎⵔ ⵓⵎⴰⵙⵙⵏ ⵏ ⵜⵉⵏⵎⵍ ⴰⴷ ⵉⵙⵙⵓⵍⴼ ⵉⵍⵎⴰⴷ ⴳ ⵓⵙⵙⵏⵎⵎⵓⵏ ⵏ ⵓⵙⵍⵎⴷ, ⴷ ⴰⴷ ⵉⵙⵙⵏ ⵎⴰⵏⵉ ⵉⵍⵍⴰ ⵓⵎⵙⵓⵔⵙ ⵏⵏⵙⵏ. ⵉⵍⵍⴰ ⴰⵙⵙⵎⵔⵙ ⵏ ⵓⵙⵙⵓⵍⴼ ⵏ ⵜⵉⵏⵎⵍ ⵉ ⵓⵙⵙⵓⵍⴼ ⵏ ⵉⵍⵎⴰⴷ, ⵎⴰⵛⴰ ⵓⵔ ⵉⵍⵍⴰ ⴰⴷ ⵉⵙⵙⵎⵔⵙ ⵉ ⵓⵙⵙⵏⵎⵎⵓⵏ ⵏ ⵓⵙⵙⵏⵎⵎⵓⵏ ⵏⵏⵙⵏ ⵏⵉⵖ ⴰⴷ ⵉⵙⵙⵓⵔⵙ ⵏⵏⵙⵏ.
+
+### 7. ⴰⵙⵙⵏⴼⵍ ⵏ ⵉⵙⵙⵓⵍⴼⵏ ⵏ ⵓⵙⵍⵎⴷ
+
+ⵉⵍⵍⴰ ⴰⵙⵙⵏⴼⵍ ⵏ ⵉⵙⵙⵓⵍⴼⵏ ⵏ ⵓⵙⵍⵎⴷ ⴰⴷ ⵙⵙⵏⵓⵎⵎⵓⵏ ⵉⵎⵙⵙⵏⴼⵍⵏ ⵏ ⵜⵉⴽⵏⵓⵍⵓⵊⵉⵜ ⴷ ⵓⵎⴰⵙⵙⵏ. ⵉⵍⵍⴰ ⴰⵙⵙⵓⵍⴼ ⵏ ⵉⵍⵎⴰⴷ ⴰⴷ ⵙⵙⵏⵓⵎⵎⵓ ⵉⵙⵙⵏⵎⵎⵓⵏ ⵏⵏⵙⵏ, ⴰⴷ ⵙⵙⵏⵏ ⵉⵎⵙⵓⵔⵙⵏ ⵏⵏⵙⵏ, ⴷ ⴰⴷ ⵙⵙⵏⵎⵎⵓⵏ ⵉⵙⵙⵓⵍⴼⵏ ⵏⵏⵙⵏ.
+
+### 8. ⴰⵙⵙⵏⴼⵍ ⵏ ⵓⵣⵎⵣ ⵏ ⵜⵉⵏⵎⵍ ⴷ ⵉⵙⵙⵓⵍⴼⵏ ⵏ ⵓⵙⵙⵓⵍⴼ
+
+ⵉⵍⵍⴰ ⴰⵙⵙⵏⴼⵍ ⵏ ⵓⵣⵎⵣ ⵏ ⵜⵉⵏⵎⵍ ⴰⴷ ⵉⵙⵙⵓⵍⴼ ⵉⵍⵎⴰⴷ ⵙ ⵓⵣⵎⵣ ⵉ ⵓⵙⵍⵎⴷ, ⵓⵙⵙⵏⵎⵎⵓⵏ, ⴷ ⵓⵙⵙⵏⴼⵍ ⵏ ⵉⵙⵎⵓⵏⵏ ⵏⵏⵙⵏ. ⵉⵣⵎⵔ ⵓⵙⵙⵓⵍⴼ ⴰⴷ ⵉⵍⵍⵉ ⵙ ⵅⵎⵙⴰ ⵏ ⵡⵓⵙⵙⴰⵏ ⵏ ⵓⵙⵍⵎⴷ, ⴷ ⵙ ⵙⵉⵏ ⵏ ⵡⵓⵙⵙⴰⵏ ⵏ ⵓⵙⵙⵏⵎⵎⵓⵏ.
+
+### 9. ⴰⵙⵙⵓⵍⴼ ⵏ ⵜⵎⵙⵙⴰⵙⵜ ⵏ ⵓⵏⵍⵎⴰⴷ
+
+ⵓⵔ ⵉⵍⵍⴰ ⴰⴷ ⵉⵙⵙⵓⵍⴼ ⵓⵙⵍⵎⴷ ⵙ ⵓⵙⵙⵓⵔⵙ ⵏ ⵉⵙⵎⵓⵏⵏ ⴷ ⵓⵙⵙⵏⵎⵎⵓⵏ ⵏ ⵓⵙⵙⵓⵍⴼ. ⵉⵍⵍⴰ ⴰⴷ ⵉⵙⵙⵓⵍⴼ ⵉⵍⵎⴰⴷ ⴰⴷ ⵙⵙⵏⵎⵎⵓⵏ, ⴰⴷ ⵙⵙⵏⵎⵎⵓⵏ ⵙ ⵜⵎⵙⵙⴰⵙⵜ, ⴷ ⴰⴷ ⵙⵙⵏⵎⵎⵓⵏ ⵉⵙⵙⵓⵍⴼⵏ ⵏⵏⵙⵏ.
+
+## ⴰⵙⵙⵉⵏ ⴷ ⵓⵙⵙⵉⵏ: ⵜⵉⵏⵎⵍ ⵏⵏⴰ ⵏⵔⴰ
+
+ⵙⵙⵏⵓⵎⵎⵓ ⵎⴰⵙ ⵉⵙⵙⵏⴼⵍⵏ ⴰⴷ ⴰⵔ ⵜⵜⵙⵙⵓⵍⴼⵏ ⵙ ⵓⵣⵎⵣ. ⴰⵏⵍⵎⴰⴷ ⴰⵔ ⵉⵜⵜⵓⵙⵙⵏⵓⵎⵎⵓ ⴳ ⵜⵉⵏⵎⵍ ⵙ ⵜⵎⵙⵙⴰⵙⵜ, ⴰⵔ ⵉⵙⵙⵏ ⵎⴰⵙ ⵉⵍⵍⴰ ⵓⵏⵏⴰ ⵉⵙⵙⵍⴰⵏ ⴷ ⵉⵙⵙⵏⵓⵎⵎⵓ ⵙ ⵜⵎⵙⵙⴰⵙⵜ.
+
+ⵜⵉⵏⵎⵍ ⵏⵏⴰ ⵏⵔⴰ ⵜⵙⵎⵓⵏ ⴳⵔ ⵜⵉⵎⵓⵙⵏⵉ ⴷ ⵉⵙⵎⵓⵏⵏ, ⴳⵔ ⵓⵙⵙⵏⴼⵍ ⴷ ⵜⵉⵔⵉⵜ, ⴷ ⴳⵔ ⵓⵙⵍⵎⴷ ⴷ ⵓⵙⵙⵓⵍⴼ ⵏ ⵜⵎⵙⵙⴰⵙⵜ. ⵉⵍⵎⴰⴷ, ⵉⵎⵙⵙⵍⵎⴰⴷ, ⵉⵎⵙⵓⴷⵙⵏ ⴷ ⵉⵎⴰⵡⴰⵙⵏ ⵏ ⵜⵉⵏⵎⵍ ⵣⵎⵔⵏ ⴰⴷ ⵎⵓⵏⵏ ⵅⴼ ⵢⴰⵏ ⵓⵎⴰⵏ: ⴰⵙⵙⵓⵍⴼ ⵏ ⵓⵏⵙⵙⵎⵓⵙⵙ, ⵉⵙⵙⵏⵎⵎⵓⵏ, ⵉⵣⵎⵔⵏ ⴰⴷ ⵉⵙⵙⵏⵎⵎⵓⵏ, ⴰⴷ ⵉⵙⵙⵓⵍⴼ ⴷ ⴰⴷ ⵉⵙⵙⵏⴼⵍ.
+
+ⵓⵔ ⵏⵔⴰ ⵜⵉⵏⵎⵍ ⵉⵍⵍⴰⵏ ⴷ ⵜⵉⵔⵉⵜ ⵏ ⵓⵎⴰⵙⵙⵏ ⵖⴰⵙ. ⵏⵔⴰ ⴰⴷ ⵏⵙⵙⵏⴼⵍ ⵜⵉⵏⵎⵍ ⵙ ⵜⵎⵙⵙⴰⵙⵜ, ⵉⵍⵍⴰ ⴳⵉⵙ ⵓⵙⵙⵏⵎⵎⵓⵏ ⵏ ⵓⵏⵍⵎⴰⴷ, ⵜⵉⵔⵉⵜ ⵏⵏⵙ, ⴷ ⵉⵙⵙⵓⵍⴼⵏ ⵏⵏⵙ.
+
+## ⵜⴰⴳⴳⴰⵔⵜ
+
+ⴳ ⵜⴳⴳⴰⵔⵜ, ⵏⵔⴰ ⴰⴷ ⵏⵥⵕ ⵍⵎⵖⵔⵉⴱ ⴳ ⵉⵎⵓⵔⵙⵏ ⵉⵎⵣⵡⴰⵔⵓⵜⵏ ⴳ ⵓⵙⵍⵎⴷ, ⴷ ⴰⴷ ⵙⵙⵏⵓⵎⵎⵓ ⵉⵍⵎⴰⴷ ⵙ ⵜⵎⵙⵙⴰⵙⵜ ⵉ ⵓⵙⵍⵎⴷ, ⵓⵙⵙⵏⴼⵍ, ⴷ ⵓⵙⵙⵏⵎⵎⵓⵏ ⵏ ⵜⵉⵔⵉⵜ ⵏⵏⵙⵏ.
+
+ⴰⵙⵍⵎⴷ ⵓⵔ ⵉⴳⴰ ⵓⵙⵓⵍⴼ ⵏ ⵢⴰⵏ ⵓⵙⵙⴰⵏ ⵖⴰⵙ, ⵓⵔ ⵉⴳⴰ ⵓⵙⵓⵍⴼ ⵏ ⵢⴰⵏ ⵓⵎⵓⵏ ⵏ ⵉⵎⴷⵔⴰⵡⵏ ⵖⴰⵙ. ⵉⴳⴰ ⴰⵎⴰⵏ ⵏⵏⵖ ⴰⴽⴽⵯ, ⴰⴼⵓⵙ ⵏ ⵓⵙⵙⵏⴼⵍ ⴷ ⵓⵙⵙⵓⵍⴼ. ⵉⵎⴰⵡⴰⵙⵏ ⵏⵏⵖ ⵙⵙⵍⵎⴷⵏ, ⵏⵙⵙⵍⵎⴷ ⵏⵎⵎⴰⵍ, ⴷ ⵉⵍⵎⴰⴷ ⵏⵏⴰ ⵉⵣⵔⵉⵏ ⵏⵖ ⴰⵔ ⵙⵙⵍⵎⴷⵏ.
+
+ⵜⴰⵎⵓⵙⵏⵉ ⵜⴳⴰ ⵜⴰⴼⴰⵜ ⵏ ⵉⵎⴰⵙⵙⵏ, ⵜⴳⴰ ⴰⵙⵙⵓⵍⴼ ⵏⵏⴰ ⵉⵙⵙⵏⴼⵍ ⵉⵎⵓⵔⵙⵏ ⵙ ⵓⵙⵙⵓⵍⴼ. ⵙ ⵜⵎⵓⵙⵏⵉ ⵏⵙⵙⵏ ⵉⵙⵎⵓⵏⵏ ⵏ ⵓⵎⴰⴹⴰⵍ, ⵏⵙⵙⵓⵍⴼ ⵜⵉⵔⵉⵜ, ⴷ ⵏⵙⵙⵏⴼⵍ ⵉⵎⴷⵔⴰⵡⵏ.
+
+ⵓⵔ ⵉⵣⵎⵔ ⵓⵎⵓⵏ ⴰⴷ ⵉⵙⵙⵏⴼⵍ ⵙ ⵓⵙⵙⵓⵍⴼ ⵏ ⵉⵎⴷⵔⴰⵡⵏ ⵖⴰⵙ, ⵎⴰⵛⴰ ⵙ ⵓⵙⵙⵓⵍⴼ ⵏ ⵉⵎⴰⵙⵙⵏ ⵏⵏⵙⵏ, ⵉⵙⵙⵓⵍⴼⵏ ⵏⵏⵙⵏ, ⴷ ⵓⵙⵙⵓⵍⴼ ⵏ ⵉⵎⵓⵔⵙⵏ ⵏⵏⵙⵏ.
+
+**ⵏⵔⴰ ⴰⵙⵙⵏⴼⵍ, ⵏⵔⴰ ⴰⵙⵍⵎⴷ ⵉⵎⵣⵡⴰⵔⵓ, ⴰⵛⴽⵓ ⵜⴰⵎⵓⵙⵏⵉ ⵜⴳⴰ ⵢⴰⵏ ⵓⵎⵓⵔⵙ ⵉⵎⵥⵥⵉⵢⵏ ⵏ ⵓⵎⴰⵙⵙⵏ, ⴷ ⵓⵙⵍⵎⴷ ⵉⵣⵎⵔⵏ ⴰⴷ ⵉⵙⵙⵓⵍⴼ ⵜⵉⵔⵉⵜ ⵏ ⵉⵎⴷⵔⴰⵡⵏ, ⴰⴷ ⵉⵙⵙⵓⵍⴼ ⵉⵎⵓⵔⵙⵏ ⵏⵏⵙⵏ, ⴷ ⴰⴷ ⵉⵙⵙⵏⵓⵎⵎⵓ ⴰⵙⵙⵓⵍⴼ ⵏ ⵓⵎⴰⴹⴰⵍ.**
+
+**ⴰⵙⵏⴼⵍ ⴷ ⵓⵙⵙⵏⵜⵉ: Khadija Z.**
+
+**ⵉⵎⴷⵔⴰⵡⵏ ⴳ ⵓⵎⵙⴰⵡⴰⵍ:** Khadija Z.,Nouha Khlifi ,Aidoudi Saif Eddine, Filali Mohamed Amine Filali، Soufiyane Bounit، Marwa Bouazaoui، Tasnim Houmaine،  Marwan Ettahiri.
+`
+};
+
+export default article;
 ];
 
 
