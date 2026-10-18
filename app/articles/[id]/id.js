@@ -14096,7 +14096,8 @@ And this is where the conversation continues.
 - Haytam Errahel
 
 `
-}, {
+}, 
+  {
   id: '17',
   date: 'October 17, 2026',
 
