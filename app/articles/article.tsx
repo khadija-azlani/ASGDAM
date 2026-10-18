@@ -317,6 +317,18 @@ readTimeAr: '١٠ دقائق قراءة',
 readTimeEn: '10 min read',
 date: 'September 12, 2026',
 },
+  {
+  id: '17',
+  titleAr: 'التعليم في المغرب: بين واقع التلميذ وحلم المدرسة التي نريدها',
+  titleEn:
+    'Education in Morocco: Between Students’ Reality and the School We Dream Of',
+  categoryAr: 'رؤى الشباب',
+  categoryEn: 'Youth Perspectives',
+  categoryKey: 'youth_perspectives',
+  readTimeAr: '١٥ دقيقة قراءة',
+  readTimeEn: '15 min read',
+  date: 'October 17, 2026',
+},
 
   
 ];
