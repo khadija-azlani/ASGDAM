@@ -14097,19 +14097,19 @@ And this is where the conversation continues.
 
 `
 }, 
-  {
-  id: '17',
-  date: 'October 17, 2026',
-
-  category: {
-    ar: 'رؤى الشباب',
-    tzm: 'ⵉⵏⵥⴰⵕⵏ ⵏ ⵉⵎⵥⵥⵉⵢⵏ',
-    en: 'Youth Perspectives'
-  },
+ {
+    id: '17',
+    date: 'October 17, 2026',
+    category: {
+      ar: 'رؤى الشباب',
+      tzm: 'ⵉⵏⵥⴰⵕⵏ ⵏ ⵉⵎⵥⵥⵉⵢⵏ',
+      en: 'Youth Perspectives'
+    },
     title: {
-    ar: 'التعليم في المغرب: بين واقع التلميذ وحلم المدرسة التي نريدها',
-    tzm: 'ⴰⵙⵍⵎⴷ ⴳ ⵍⵎⵖⵔⵉⴱ: ⴳⵔ ⵜⵉⵍⴰⵡⵜ ⵏ ⵓⵏⵍⵎⴰⴷ ⴷ ⵜⵉⵔⵉⵜ ⵏ ⵜⵉⵏⵎⵍ ⵏⵏⴰ ⵏⵔⴰ',
-    en: 'Education in Morocco: Between Students’ Reality and the School We Dream Of'
+      ar: 'التعليم في المغرب: بين واقع التلميذ وحلم المدرسة التي نريدها',
+      tzm: 'ⴰⵙⵍⵎⴷ ⴳ ⵍⵎⵖⵔⵉⴱ: ⴳⵔ ⵜⵉⵍⴰⵡⵜ ⵏ ⵓⵏⵍⵎⴰⴷ ⴷ ⵜⵉⵔⵉⵜ ⵏ ⵜⵉⵏⵎⵍ ⵏⵏⴰ ⵏⵔⴰ',
+      en: 'Education in Morocco: Between Students’ Reality and the School We Dream Of'
+    }
   },
 
   contentAr: `
@@ -14575,7 +14575,7 @@ Nations do not rise through the strength of their weapons alone, but through the
 **ⴰⵙⵏⴼⵍ ⴷ ⵓⵙⵙⵏⵜⵉ: Khadija Z.**
 
 **ⵉⵎⴷⵔⴰⵡⵏ ⴳ ⵓⵎⵙⴰⵡⴰⵍ:** Khadija Z.,Nouha Khlifi ,Aidoudi Saif Eddine, Filali Mohamed Amine Filali، Soufiyane Bounit، Marwa Bouazaoui، Tasnim Houmaine،  Marwan Ettahiri.
-`
+`,
 };
 
 export default article;
