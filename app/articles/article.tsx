@@ -7,7 +7,7 @@ import {
   Sparkles,
   Heart,
   CheckCircle2,
-  Globe,
+  Globe,Mic,
   Clock,
   BookOpen,
   Cpu,
@@ -49,7 +49,7 @@ const CATEGORIES = [
   key: 'meet-the-minds',
   labelAr: 'مقابلة مع',
   labelEn: 'Meet the Minds',
-  icon: Users,
+  icon: Mic,
 },
   {
     key: 'psychology',
