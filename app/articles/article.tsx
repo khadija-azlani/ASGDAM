@@ -8,7 +8,7 @@ import {
   Heart,
   CheckCircle2,
   Globe,
-  Clock,
+  Clock,Mic,
   BookOpen,
   Cpu,
   Users,
@@ -44,6 +44,12 @@ const CATEGORIES = [
   labelAr: 'رؤى الشباب',
   labelEn: 'Youth Perspectives',
   icon: MessagesSquare,
+},
+  {
+  key: 'meet-the-minds',
+  labelAr: 'مقابلة مع',
+  labelEn: 'Meet the Minds',
+  icon: Mic,
 },
   {
     key: 'psychology',
